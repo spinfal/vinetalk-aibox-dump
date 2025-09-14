@@ -1,0 +1,5 @@
+ota_0
+ota_1
+otadata
+phy_init
+storage

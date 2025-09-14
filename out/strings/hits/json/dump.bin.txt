@@ -1,0 +1,6 @@
+[0;32mI (%lu) %s: } 
+[0;32mI (%lu) %s: BT controller compile version [%s]
+[c4]
+{"activeKey":"%s","bleDeviceId":"%s"}
+{Sn]
+{X9O]

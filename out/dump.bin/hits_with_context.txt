@@ -1,0 +1,65 @@
+
+ Offset Text                                                                                                                      
+ ------ ----                                                                                                                      
+  49440 https://api-us.vinetalk.ai/p_hdw/childrenToy/bleDeviceActive/checkHdDevice                                                
+1078009 [0;32mI (%lu) %s: subscribe event; conn_handle=%d attr_handle=%d reason=%d prevn=%d curn=%d previ=%d curi=%d              
+1079937 [0;31mE (%lu) %s: Password incorrect                                                                                      
+1080589 [0;32mI (%lu) %s: password not set                                                                                        
+1080633 [0;32mI (%lu) %s: password:%s                                                                                             
+1080821 [0;32mI (%lu) %s: connected to ap SSID:%s password:%s                                                                     
+1080881 [0;32mI (%lu) %s: Failed to connect to SSID:%s, password:%s                                                               
+1098400 : BLE_HS_EAUTHOR (Insufficient authorization)                                                                             
+1137388 dhcp_append(client_id): options_out_len + 3 + netif->hwaddr_len <= DHCP_OPTIONS_LEN                                       
+1145068 Authorization                                                                                                             
+1147240 SUBSCRIBE                                                                                                                 
+1147404 auth-int                                                                                                                  
+1157300 Open Auth                                                                                                                 
+1157988 ap.passwd                                                                                                                 
+1159052 auth                                                                                                                      
+1163960 Unknown Password Identifier                                                                                               
+1167824 master secret                                                                                                             
+1167840 extended master secret                                                                                                    
+1292052 <<ws                                                                                                                      
+1477709 wS*(                                                                                                                      
+2530596 removing station <%02x:%02x:%02x:%02x:%02x:%02x> after unsuccessful auth/assoc, AID = %d                                  
+2535036 m f auth                                                                                                                  
+2535980 auth is done, but sta is disconnected                                                                                     
+2536128 Rejecting PMF incapable ciphers for OWE/WPA3-Personal only auth mode                                                      
+2536964 Password length matches WPA2 standards, authmode threshold changes from OPEN to WPA2                                      
+2537052 Password length is zero, but authmode threshold is %d, making it impossible to connect to an AP with authmode OPEN        
+2537168 OWE is enabled, but authmode threshold is %d or password length is %d, making it impossible to connect to an AP with au...
+2537456 password less than 8                                                                                                      
+2537480 password convert fail                                                                                                     
+2538428 [ADDBA]RX addba response, tid:%d, txa_attempts:%d, token mismatch, expect:%d(rx:%d), status:%d%s                          
+4157933 [0;32mI (%lu) %s: subscribe event; conn_handle=%d attr_handle=%d reason=%d prevn=%d curn=%d previ=%d curi=%d              
+4159685 [0;31mE (%lu) %s: Password incorrect                                                                                      
+4160337 [0;32mI (%lu) %s: password not set                                                                                        
+4160381 [0;32mI (%lu) %s: password:%s                                                                                             
+4160569 [0;32mI (%lu) %s: connected to ap SSID:%s password:%s                                                                     
+4160629 [0;32mI (%lu) %s: Failed to connect to SSID:%s, password:%s                                                               
+4177488 : BLE_HS_EAUTHOR (Insufficient authorization)                                                                             
+4216388 dhcp_append(client_id): options_out_len + 3 + netif->hwaddr_len <= DHCP_OPTIONS_LEN                                       
+4224068 Authorization                                                                                                             
+4226240 SUBSCRIBE                                                                                                                 
+4226404 auth-int                                                                                                                  
+4236300 Open Auth                                                                                                                 
+4236988 ap.passwd                                                                                                                 
+4238052 auth                                                                                                                      
+4242960 Unknown Password Identifier                                                                                               
+4246824 master secret                                                                                                             
+4246840 extended master secret                                                                                                    
+4371068 <<ws                                                                                                                      
+4556725 wS*(                                                                                                                      
+5609612 removing station <%02x:%02x:%02x:%02x:%02x:%02x> after unsuccessful auth/assoc, AID = %d                                  
+5614052 m f auth                                                                                                                  
+5614996 auth is done, but sta is disconnected                                                                                     
+5615144 Rejecting PMF incapable ciphers for OWE/WPA3-Personal only auth mode                                                      
+5615980 Password length matches WPA2 standards, authmode threshold changes from OPEN to WPA2                                      
+5616068 Password length is zero, but authmode threshold is %d, making it impossible to connect to an AP with authmode OPEN        
+5616184 OWE is enabled, but authmode threshold is %d or password length is %d, making it impossible to connect to an AP with au...
+5616472 password less than 8                                                                                                      
+5616496 password convert fail                                                                                                     
+5617444 [ADDBA]RX addba response, tid:%d, txa_attempts:%d, token mismatch, expect:%d(rx:%d), status:%d%s                          
+
+
+

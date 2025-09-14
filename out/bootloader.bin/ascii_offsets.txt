@@ -1,0 +1,203 @@
+40: v5.4-dirty
+72: Apr 18 2025 09:49:02
+118: <@Assert failed in %s, %s:%d (%s)
+156: abort() was called at PC 0x%08x
+192: boot
+200: E (%lu) %s: load partition table error!
+244:  is not bootable
+264: E (%lu) %s: Factory app partition%s
+304: E (%lu) %s: Factory test app partition%s
+348: E (%lu) %s: OTA app partition slot %d%s
+392: I (%lu) %s: Loaded app from partition at offset 0x%lx
+448: E (%lu) %s: Error in write_otadata operation. err = 0x%x
+508: I (%lu) %s: Set actual ota_seq=%lu in otadata[0]
+560: I (%lu) %s: Disabling RNG early entropy source...
+612: DROM
+620: E (%lu) %s: Image contains multiple %s segments. Only the last one will be mapped.
+704: IROM
+712: E (%lu) %s: ota_info partition size %lu is too small (minimum %d bytes)
+788: E (%lu) %s: bootloader_mmap(0x%lx, 0x%lx) failed
+840: RF data
+848: test app
+860: ota partition_table
+880: unknown
+888: ota bootloader
+904: primary bootloader
+924: WiFi data
+936: NVS keys
+948: efuse
+956: Unknown data
+972: OTA data
+984: Unknown app
+996: OTA app
+1004: factory app
+1016: primary partition_table
+1040: E (%lu) %s: bootloader_mmap(0x%x, 0x%x) failed
+1088: E (%lu) %s: Failed to verify partition table
+1136: I (%lu) %s: Partition Table:
+1168: I (%lu) %s: ## Label            Usage          Type ST Offset   Length
+1240: I (%lu) %s: %2d %-16s %-16s %02x %02x %08lx %08lx
+1292: I (%lu) %s: End of partition table
+1328: I (%lu) %s: Defaulting to factory image
+1372: I (%lu) %s: No factory image, trying OTA 0
+1416: E (%lu) %s: ota data partition invalid, falling back to factory
+1484: E (%lu) %s: ota data partition invalid and no factory, will try all partitions
+1564: E (%lu) %s: No bootable test partition in the partition table
+1628: W (%lu) %s: Falling back to test app as only bootable partition
+1696: E (%lu) %s: No bootable app partitions in the partition table
+1760: flash_parts
+1772: E (%lu) %s: partition %d invalid - offset 0x%lx size 0x%lx exceeds flash chip size 0x%lx
+1864: E (%lu) %s: Only one MD5 checksum is allowed
+1912: E (%lu) %s: Incorrect MD5 checksum
+1948: E (%lu) %s: partition %d invalid magic number 0x%x
+2000: E (%lu) %s: partition table has no terminating entry, not valid
+2068: end1 > start1
+2084: //IDF/components/bootloader_support/include/bootloader_util.h
+2148: end2 > start2
+2164: load
+2176: overlaps bootloader stack
+2204: overlaps bootloader data
+2232: overlaps loader IRAM
+2256: bad load address range
+2280: esp_image
+2292: E (%lu) %s: bootloader_flash_read failed at 0x%08lx
+2348: E (%lu) %s: invalid segment length 0x%lx
+2392: E (%lu) %s: Segment %d load address 0x%08lx, doesn't match data 0x%08lx
+2468: I (%lu) %s: segment %d: paddr=%08lx vaddr=%08x size=%05lxh (%6lu) %s
+2540: load_end > load_addr
+2564: //IDF/components/bootloader_support/src/esp_image_format.c
+2624: E (%lu) %s: Segment %d 0x%08x-0x%08x invalid: %s
+2676: E (%lu) %s: image offset has wrapped
+2716: E (%lu) %s: partition size 0x%lx invalid, larger than 16MB
+2776: E (%lu) %s: image at 0x%lx has invalid magic byte (nothing flashed here?)
+2852: E (%lu) %s: image at 0x%lx segment count %d exceeds max %d
+2912: E (%lu) %s: Checksum failed. Calculated 0x%x read 0x%x
+2968: E (%lu) %s: Image length %lu doesn't fit in partition length %lu
+3036: Calculated hash
+3052: E (%lu) %s: Image hash failed - image is corrupt
+3104: Expected hash
+3120: handle != NULL
+3136: //IDF/components/bootloader_support/src/esp32c3/bootloader_sha.c
+3204: data_len % 4 == 0
+3224: &_bss_start <= &_bss_end
+3252: //IDF/components/bootloader_support/src/esp32c3/bootloader_esp32c3.c
+3324: &_data_start <= &_data_end
+3352: boot.esp32c3
+3368: E (%lu) %s: failed when running XMC startup flow, reboot!
+3428: W (%lu) %s: PRO CPU has been reset by WDT.
+3472: boot_comm
+3484: E (%lu) %s: Image requires efuse blk rev >= v%lu.%lu, but chip is v%lu.%lu
+3560: E (%lu) %s: Image requires efuse blk rev <= v%lu.%lu, but chip is v%lu.%lu
+3636: E (%lu) %s: mismatch chip ID, expected %d, found %d
+3692: E (%lu) %s: Image requires chip rev >= v%d.%d, but chip is v%d.%d
+3760: E (%lu) %s: Image requires chip rev <= v%d.%d, but chip is v%d.%d
+3828: buffer != NULL
+3844: //IDF/components/bootloader_support/src/bootloader_random.c
+3904: bootloader_flash
+3924: E (%lu) %s: tried to bootloader_mmap twice
+3968: E (%lu) %s: bootloader_mmap excess size %lx
+4016: E (%lu) %s: vaddr not valid
+4048: E (%lu) %s: bootloader_flash_read src_addr 0x%x not 4-byte aligned
+4116: E (%lu) %s: bootloader_flash_read size 0x%x not 4-byte aligned
+4180: E (%lu) %s: bootloader_flash_read dest 0x%x not 4-byte aligned
+4244: mosi_len <= 32
+4260: //IDF/components/bootloader_support/bootloader_flash/src/bootloader_flash.c
+4336: miso_len <= 32
+4352: miso_byte_num <= 4
+4372: I (%lu) %s: XM25QHxxC startup flow
+4408: E (%lu) %s: XMC flash startup fail
+4444: E (%lu) %s: bootloader_flash_write dest_addr 0x%x not %d-byte aligned
+4516: E (%lu) %s: bootloader_flash_write size 0x%x not %d-byte aligned
+4584: E (%lu) %s: bootloader_flash_write src 0x%x not 4 byte aligned
+4648: 40MHz
+4656: 26.7MHz
+4664: 80MHz
+4672: 20MHz
+4684: QOUT
+4696: DOUT
+4704: FAST READ
+4716: SLOW READ
+4744: 16MB
+4752: I (%lu) %s: SPI Speed      : %s
+4788: I (%lu) %s: SPI Mode       : %s
+4824: I (%lu) %s: SPI Flash Size : %s
+4860: E (%lu) %s: failed to load bootloader image header!
+4916: I (%lu) %s: chip revision: v%d.%d
+4952: I (%lu) %s: efuse block revision: v%d.%d
+4996: I (%lu) %s: Enabling RNG early entropy source...
+5048: I (%lu) %s: ESP-IDF %s 2nd stage bootloader
+5096: I (%lu) %s: compile time %s
+5128: rtc_clk_init
+5144: E (%lu) %s: invalid CPU frequency value
+5188: rtc_clk
+5196: W (%lu) %s: invalid RTC_XTAL_FREQ_REG value, assume 40MHz
+5256: E (%lu) %s: unsupported frequency configuration
+5308: bootloader_util_regions_overlap
+5340: verify_load_addresses
+5364: bootloader_sha256_finish
+5392: bootloader_sha256_data
+5416: bootloader_init
+5432: bootloader_fill_random
+5456: bootloader_flash_read_sfdp
+5484: bootloader_flash_execute_command_common
+5669: 0`PA
+5739:   T*
+5982: -#E(1'U-
+6001:  @%*
+6754: XC"Dy
+7513: @"D35
+7639: 0PY(
+7941: @bD:
+8199: ;s'7:s
+8267: `4["E
+8299: @`A2E
+8440: s% ~
+8495: 0PU"EI
+8507: g"EQ
+8587: @"DA
+8596: <@7g
+8654: <@X/
+8786:  $7u
+8864: As3h
+9500: UGc|
+9862: i;QE
+9908: `E}U
+10180: 5I1D
+10189: J=EQ
+10378: s$ ~
+10527: I3{E
+10565: Y3wI
+10651: DBI"J
+10765: JBK^
+11329: ?}W#
+11341: @"DA
+11425: KbLV
+11653: KbL!a]
+11768: q42F
+12029: Bs# ~
+12375: M\M:
+12399: @"DA
+12502: 9qqF"
+12649: TBY!a
+12783: z3{t
+13032: !E};
+14178: iq#$
+14229: YcV9
+14501: r"DA
+14624: = 7U
+14866: 5?cL
+14985: @"DA
+15553: q=3c
+15575: ?!;c
+15691: qU1U
+15710: 8@A9
+16994: fJea
+17531: @}Wc
+17623: E!F"
+17666: \@7G
+18983: WKL7
+19391: G!ec
+19528: uWcf
+19600: y?ce
+19743: @"D# 
+20446: 7sbD

@@ -1,0 +1,12245 @@
+  - no details available -
+  %(
+  +C>t
+ - 0x
+  byte-enables: 
+  faulting address: 
+  memory type: 
+  operation type: 
+  world: 
+ "22
+ #ki
+ %d 
+ (CPU 0)
+ (CPU 0/1)
+ (CPU 1)
+ (D0
+ ):&>
+ *J?
+ *KQ<<
+ ,c-
+ .|4rhA`
+ /ux
+ :iUf
+ ;G"
+ [1~8]: 
+' `s|p
+ {(L
+ {?X
+ {}E
+ {D>
+ |)s
+ |N#
+ }@"
+ ~<Y
+ +7R
+ +sLa
+ +WA
+ <7dUn
+ <Us
+ <Wx
+ >(^2
+ 0DF
+ 19K"
+ 3$J
+ 4B->
+ 8(w
+ a _
+ a"_
+ -A(P&~%}%
+ A|,/P
+ and returning...
+ bgp`
+ c:Z
+- c-\#
+ C8V
+ E{U
+ e9S@
+ eWd
+ f`|
+ F0t
+ G(P
+ G]JIr^
+ G{+f)
+ Gh$p;v
+ has been detected.
+ -jr
+ jy5
+' M"
+ MbV
+ mx!
+ n,=
+ o^<0
+ p`b
+ panic'ed (
+ pb=,
+ PBB
+- PDN*
+ q5\
+ qCq
+ r,>
+ register dump:
+ rxm
+ status code: %d
+ T&+
+ tT@
+ tw=
+ u%+Ii
+ vz}~%<`
+ W/k
+ W:7
+ WA#
+ WG2'
+ X3b
+ xB*Dj
+ y}^
+ YWO
+ Z)0
+ Z^e
+ Z+$2
+ zof
+ ZPU
+! 5x
+! h_
+! y;o
+!"Unexpected state"
+!#x=Y
+!$6:X
+!$Lj
+!$V=
+!%+R
+!%sY\)$
+!&Gu
+!&l9w
+!( ( ( pvBuffer ) == ((void *)0) ) && ( ( pxQueue )->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( pvBuffer == ((void *)0) ) && ( pxQueue->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( pvItemToQueue == ((void *)0) ) && ( pxQueue->uxItemSize != ( UBaseType_t ) 0U ) )
+!( ( pxQueue->pcHead == ((void *)0) ) && ( pxQueue->u.xSemaphore.xMutexHolder != ((void *)0) ) )
+!( ( xCopyPosition == ( ( BaseType_t ) 2 ) ) && ( pxQueue->uxLength != 1 ) )
+!( ( xTaskGetSchedulerState() == ( ( BaseType_t ) 0 ) ) && ( xTicksToWait != 0 ) )
+!("2
+!((vd->flags & VECDESC_FL_SHARED) && (vd->flags & VECDESC_FL_NONSHARED))
+!(,PcO
+!(is_rs485_mode && disabled && uart_hal_get_intraw_mask(&(uart_context[uart_num].hal)) & UART_INTR_TX_DONE)
+!)MgJz
+!*?rm\
+!*5G
+!,nC
+!.k/:T
+!/D}[RF
+!/k_
+!; -
+!;<e
+!?c4
+!@,A
+![=2
+![aFZP
+!^Qv@
+!_2\
+!_Dr
+!`r?CQ
+!{@t
+!~<~qm$
+!~fL
+!+Z=
+!<E>G
+!>,?
+!0"\Ok
+!0^uW
+!037T&
+!2&=
+!3^^
+!4Nxm9
+!8#|~%
+!82z
+!a^8
+!aY'
+!AY@
+!block_is_free(block) && "block already marked as free"
+!block_is_free(block) && "block must be used"
+!block_is_free(block_next(block)) && "next block should not be free"
+!block_is_last(block)
+!block_is_last(prev) && "previous block can't be last"
+!BsF
+!C]`
+!C<e-
+!c1p
+!cIG
+!e6e
+!ElE
+!f--
+!f\G
+!F8zy5
+!gASq,pZB
+!GZE
+!H0u
+!hd<
+!HNr
+!i=o
+!INK!
+!iV?
+!JV}
+!K/k#
+!kZ7;F2
+!l"i
+!M)V
+!mDn_
+!Mj\!}
+!N{$g
+!NM?
+!npI
+!O1`
+!P}6o
+!Q2"#
+!q3s6
+!q'Jo
+!qMB
+!qV=P
+!r+T
+!r1F`z
+!rMk<
+!rnA
+!'t/
+!T_9
+!tm `
+!tMp
+!TQ~m
+!u8y
+!VdCV
+!w)F
+!w+(
+!WE`
+!wk7\
+!x r
+!XkT
+!XN&
+!Y&a
+!yXH
+!z8K
+!ze`G
+!zi 
+!Zuw
+" at 0x
+" should not return, Aborting now!
+""z3
+"#^V
+"$&,kWp+
+"%(AwE
+"%(G
+"%1b
+"%XG
+"&$g
+"(@J;
+"*<4
+",FX=
+":Hn
+":JH
+";4q
+"?/5
+"@:y
+"@C[On
+"@LD
+"@X7
+"]rjN
+"^4/
+"^I!
+"``M
+"`W/
+"|t8
+"}ha3
+"}r$o
+"<Xj
+">l$
+"28r[
+"2en
+"4Z&B}t
+"7/k
+"9JH
+"a3q
+"b 0
+"b]k
+"bGq
+"BPe
+"C Sa
+"c:/]
+"E*;
+"EnUk
+"G!BuT
+"h5)
+"HA,
+"is(
+"j*a4
+"jL}
+"JwV(
+"K'd
+"lw(O
+"NC<
+"NF9]
+"nJ@-
+"NM4
+"o][
+"o~t;
+"o0M
+"Oe9
+"oYlL"
+"P]vBsRf
+"PrF
+"q/$o
+"r5{
+"RtQ
+"rWK
+"T C
+"T;d Q
+"t2A
+"tf.54
+"TK(
+"tsEs
+"vT%P
+"vZ|i`
+"w*Is
+"W-{
+"wHR_.K
+"wU~
+"Wu2^
+"WZg
+"Xdk
+"y!I
+"Y),
+"YhU
+"YJs
+"Yl"
+"Z@O
+"zWL
+"ZZTL
+# O(%(
+#"f(H
+#"NE!;hsi
+##<*
+#$'*"+Z
+#$[x
+#$+%
+#%#]
+#%=Ep
+#%8s
+#%w@]Xku
+#&@8
+#&8B
+#&Xk
+#("T
+#*qg
+#,viU
+#/X,80
+#:OG
+#:Q`%8
+#?%R
+#?q51
+#?V?8R
+#@i*
+#[^-
+#_k=F
+#`q`
+#{]:]
+#~LO
+#+;@P
+#+h5
+#+trh
+#<Zv
+-#=+t
+#=<H
+#=Gk
+#=mf
+#=Qj'~
+#1B*
+#1gh3N
+#1n<
+#3Yc
+#4 )
+#4A\B
+#5XA
+#7h@
+#9d "%
+#B5N
+'#Br{
+#c|9
+#D{o(J
+#doI
+#e|&
+#ezh?#-
+#f-?
+#F?]-+
+#FQn
+#g;K\;
+#GEP
+#Gh"
+#h~.
+#i_e
+#IiXY
+#j,w
+#Je/g
+#k':F,
+#KR.j
+#L[6oi
+#'LeF
+#lOlI2
+#lV{
+#m~GJ
+#M55
+#MWj"'
+#n(><=
+#NEv3S
+#o#twE
+#Q5W
+#Rd6^2
+#RxV
+#SI#nO`b
+#Sn~2
+#TSH^
+#U0I
+-#UI
+#v.U
+#V];
+#vsi
+#Wa 6u
+#WdR),
+#Xh\p!z!
+#xM)
+#xUG
+#xzJ
+#z\ky-D
+#zqZ
+$ *'
+$ |q
+$ rV
+$ 'Z
+$!%:
+$!kn
+$#3CDc!
+$%IY&
+$&;uqi9
+$,=3
+$.%]
+$.'D
+$?O)[
+$\P(A
+$]8J
+$]u\
+$]XS
+$^_l[ mt
+$^>g.
+${v[
+$|3Y
+$~BL
+$<T&u
+$=0U
+$=x[
+$>!g
+$1+9A`9
+$1cu
+$2<B
+$3"~>NP
+$3,:
+$3f_
+$4'J
+-$5-
+$69I
+$7t}
+$7V)k
+$8=m
+$99/
+$a h
+$AdE
+$B|~
+$b0*
+$B-E
+$bQF
+$bXW
+$CTB
+$cty
+$d{E9
+$da@
+$E?P
+$fBq
+$gYigpO0
+$HIK
+$I.hk
+$i4KC
+$J`+
+$J<)
+$JdS9
+$K,SZc
+$k{9
+$kaC
+$l2x
+$M:p
+$M2b_
+$mjm
+$mPr
+$Mw_
+$ni\
+$OFM
+$OH@
+$osK
+$pst
+$sHn
+$Sxz
+$sZa
+$t%_
+$T2T
+$t4=
+$t8J
+$TCO+vae|@
+$Tm-
+$twb
+$u,7
+$U\8
+$u}H7
+-$U<
+$UP#
+$W=J
+$wbJ
+$wd+a
+$x]l1
+$X~'
+$xct
+$yGAk
+$YZEjCL
+% oh%
+%"s@
+%"vU
+%#:n
+%#CZ
+%$nW
+%&=`I
+%(LvB
+%)+/5;=CGIOSYaegkmq
+%*r$
+%.*s
+%:"y
+%:)W
+%:8?
+%;tP
+-%?-A
+%?AS0
+%?J0
+%@Uj.,
+%[$Tx
+%[AA
+%\tT
+%]:G/
+%_eHd
+%`Bw
+%{?w6
+%|Yr
+%<:B
+%0<5R
+%02x%02x%02x%02x%02x%02x
+'%0K%
+%1.15g
+%1.17g
+%1~~
+%11[-+0-9A-Za-z]%n
+%11[A-Za-z]%n
+%1LL
+%2mNLC%Q
+%6}B
+%6+Y)
+%6X\
+%7|w
+%7u_
+%8{dX
+%81g
+%AqU
+%Auv)R
+%b;-e
+%boh
+%c (%d) %s:
+%c0qr3}
+%e\])tP
+%E1@
+%EtY7
+%F}3i
+%fE[
+%fn^"
+%Gc4
+%gl]\
+%h|n
+%Hhz
+%hO(0@
+%HTr
+%hu%n:%hu%n:%hu%n
+%IjE
+%ikb
+%jTx
+%Ks1
+%kzR(1h
+%L%*
+%l(j
+%lMy
+%M0i
+%M1{
+-%My=
+%N5yaX`,~PB
+%O7H
+%oFup
+%OmQ
+%OT=!
+%p %s size: %x (%p)
+%P$S
+%p2'
+%P4<
+%q^~,
+%qr)gq
+-%qt6A
+%Qw_
+%RP&2
+%s %d
+%s %s
+%s initialise RF LC Todd
+%s, opaque="%s"
+%s: %s
+%s:%d
+%s:%s
+%s:%s:%016llx
+%s:%s:%08x:%016llx:%s:%s
+%s:%s:%s
+%S+9E
+%'T+
+%T-6
+%TC3
+%TKLg
+%tQc
+%T-XU
+%u*}
+%U5Z:
+%uC{c
+%V"2,
+%WJD
+%y(+
+%z:?k
+&"T;
+&#t|
+&&4[
+&(1L
+&(T&
+&)nB
+&.h;
+&.i]
+&:#w
+&:|p\
+&?||
+'&[,
+&](xi
+&].g
+&]on
+&]P!
+&]W/`H
+&~.H*e uD
+&~\w\YW
+&+dz
+&<E#/
+&<kT
+&>,&&
+&1eK
+&46t@w
+&49-
+&4i{
+&5KB
+&6) 
+&6.6xoi
+&77j
+&8i*
+&8O/
+&9fC9
+&A#<
+&A%$
+&a^w
+&acM^.c
+&B,oV
+&C5f
+&cJ/
+&DLp
+&'dv
+&-e-
+&e6X
+&eW8
+&FJ5
+&G##u
+&gEh
+&ghI
+&gNf
+&h'(
+&ikP
+&iOH
+&J{92
+&k_:>
+&ke;
+&Loq
+&N f
+&NA<
+&nd94~
+&o.-
+&O{2
+&qAc
+&qQ8?wD 
+&QvT|
+&T1v
+&u}+
+&uU+
+&v)b
+&w0'
+&WKZS
+&y*p
+&z7?
+&zH9]^
+( ( &( pxReadyTasksLists[ uxTopPriority ] ) )->uxNumberOfItems ) > 0
+( ( &( pxTCB->xEventListItem ) )->pxContainer ) == ((void *)0)
+( ( ( &( ( pxMutexHolderTCB )->xStateListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( ( pxMutexHolderTCB )->xStateListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( ( pxNewTCB )->xStateListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( ( pxNewTCB )->xStateListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( ( pxTCB )->xStateListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( ( pxTCB )->xStateListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( ( pxUnblockedTCB )->xStateListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( ( pxUnblockedTCB )->xStateListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxCurrentTCBs[ 0 ]->xEventListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxCurrentTCBs[ 0 ]->xEventListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxCurrentTCBs[ xCurCoreID ]->xEventListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxCurrentTCBs[ xCurCoreID ]->xEventListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxCurrentTCBs[ xCurCoreID ]->xStateListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxCurrentTCBs[ xCurCoreID ]->xStateListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxReadyTasksLists[ ( pxMutexHolderTCB )->uxPriority ] ) ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxReadyTasksLists[ ( pxMutexHolderTCB )->uxPriority ] ) ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxReadyTasksLists[ ( pxNewTCB )->uxPriority ] ) ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxReadyTasksLists[ ( pxNewTCB )->uxPriority ] ) ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxReadyTasksLists[ ( pxTCB )->uxPriority ] ) ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxReadyTasksLists[ ( pxTCB )->uxPriority ] ) ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxReadyTasksLists[ ( pxUnblockedTCB )->uxPriority ] ) ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxReadyTasksLists[ ( pxUnblockedTCB )->uxPriority ] ) ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxTCB->xEventListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxTCB->xEventListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( pxUnblockedTCB->xEventListItem ) ) )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( pxUnblockedTCB->xEventListItem ) ) )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( xPendingReadyList[ 0 ] ) ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( xPendingReadyList[ 0 ] ) ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &( xPendingReadyList[ xCurCoreID ] ) ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &( xPendingReadyList[ xCurCoreID ] ) ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( &xSuspendedTaskList ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( &xSuspendedTaskList ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( ( BaseType_t ) xCoreID ) >= 0 && ( ( BaseType_t ) xCoreID ) < 1 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 1 )
+( ( ( ( BaseType_t ) xCoreID ) >= 0 && ( ( BaseType_t ) xCoreID ) < 1 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 1 ) || xCoreID == ( ( BaseType_t ) 0x7FFFFFFF )
+( ( ( ( pxDelayedTaskList )->uxNumberOfItems == ( UBaseType_t ) 0 ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) )
+( ( ( pxEventList ) )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( ( pxEventList ) )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( ( UBaseType_t ) ( pucItem ) & (0x03) ) == 0 )
+( ( ( UBaseType_t ) ( pxRingbuffer->pucAcquire ) & (0x03) ) == 0 )
+( ( ( UBaseType_t ) ( pxRingbuffer->pucRead ) & (0x03) ) == 0 )
+( ( ( UBaseType_t ) ( xBufferSize ) & (0x03) ) == 0 )
+( ( ( uxSchedulerSuspended[ 0 ] != ( UBaseType_t ) 0U ) ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 0 )
+( ( ( uxSchedulerSuspended[ 0 ] != ( UBaseType_t ) 0U ) ) ? ( ( BaseType_t ) 1 ) : ( ( BaseType_t ) 0 ) ) == ( ( BaseType_t ) 1 )
+( ( pxList )->xListIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( pxList )->xListIntegrityValue2 == 0x5a5a5a5aUL )
+( ( pxNewListItem )->xListItemIntegrityValue1 == 0x5a5a5a5aUL ) && ( ( pxNewListItem )->xListItemIntegrityValue2 == 0x5a5a5a5aUL )
+( cRxLock ) != ( ( int8_t ) 127 )
+( cTxLock ) != ( ( int8_t ) 127 )
+( pxQueue )
+( pxTimer->xTimerPeriodInTicks > 0 )
+( uxBitsToClear & 0xff000000UL ) == 0
+( uxBitsToSet & 0xff000000UL ) == 0
+( uxBitsToWaitFor & 0xff000000UL ) == 0
+( xIdleTaskHandle[ xCoreID ] != ((void *)0) )
+( xTimeIncrement > 0U )
+( xTimerPeriodInTicks > 0 )
+'(![
+(!t%
+("a(E
+(-"i
+($I&b
+(%xQ
+(&}5
+((header_field_mark ? 1 : 0) + (header_value_mark ? 1 : 0) + (url_mark ? 1 : 0) + (body_mark ? 1 : 0) + (status_mark ? 1 : 0)) <= 1
+(,'O
+(.#\d
+(/f 
+(:tD
+(@L!
+([zA
+([Zwd
+(]):
+(`k7
+(~#i
+(+85bo
+(<`)2
+(=wI
+('>d
+(0jS
+(2g(
+(2G5
+'(2P
+(2wb{
+('3e
+(4?X
+(4Di0
+(5jpjn
+(7kW
+(7P;
+(8+R&]
+(9Q0
+(a()A!f
+(aH#
+(B`9
+(-b7.!
+('bAGC
+(bit_start_in_reg + bit_count_used_in_reg) <= 32
+-(br
+(c[ 
+(C>{
+(c7h
+(conn->current_msg != NULL) || conn->in_non_blocking_connect
+(constraint ignored)
+(d&G
+(d3H
+(declined)
+(dend & 3) == 0
+(dey
+(dstart & 3) == 0
+(dU._
+(E]#
+(f)OF/
+(F^E
+(G1=l 
+(h != NULL) && (t != NULL) (programmer violates API)
+(H"y
+(H#)9kA
+(H$-
+(H%=
+(H(P
+(H)A
+(H)h@
+(H)N
+(H)O
+(H,4`
+(H/P!
+(H::
+(H:{B
+(H:01
+(H:9]
+(H:CMaItB`
+(H:H
+(H:iCN
+(H;\
+(H;n
+(H+\
+(H+2:
+(H+8
+(H+H
+(H+R]
+(H<=Zp
+(H<LU
+(H=Z9u=
+(H>$
+(H0|>
+(H0z
+(H1<
+(H1=
+(H1Jg
+(H1S
+(H2c
+(H3;
+(H3F
+(H46V;!
+(H4d
+(H4e
+(H4f
+(H4g|
+(H4L
+(H4Me
+(H6'
+(H6)^b
+(H62
+(H62;
+(H62v
+(H6OFT
+(H6p+8$
+(H6z
+(H73
+(H78
+(H8B
+(H9,
+(H9i
+(H9k
+(H9tbV
+(H9w
+(H'a:
+(hint & (~RST_REASON_MASK)) == 0
+(HQg
+(H-s
+(I&A5w
+(Jen
+(jqt
+(Jr(
+(Kx>2
+(M?$
+(mask & (CACHE_BUS_IBUS1 | CACHE_BUS_IBUS2| CACHE_BUS_DBUS1 | CACHE_BUS_DBUS2)) == 0
+(mmu_ll_vaddr_to_laddr((uint32_t)&_instruction_reserved_end) - mmu_ll_vaddr_to_laddr((uint32_t)&_instruction_reserved_start)) == irom_len_to_reserve
+(mmu_ll_vaddr_to_laddr((uint32_t)&_rodata_reserved_end) - mmu_ll_vaddr_to_laddr((uint32_t)&_rodata_reserved_start)) == drom_len_to_reserve
+(nfx
+(NNUG
+('Oc
+(p=W
+(pi@
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 1 )) == 0
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 2 )) == 0
+(pxCurHeader->uxItemFlags & ( ( UBaseType_t ) 8 )) == 0
+(pxHeader->xItemLen <= pxRingbuffer->xMaxItemSize) || (pxHeader->uxItemFlags & ( ( UBaseType_t ) 2 ))
+(pxRingbuffer->uxRingbufferFlags & (( ( UBaseType_t ) 2 ) | ( ( UBaseType_t ) 1 ))) == 0
+(pxRingbuffer->xItemsWaiting > 0) && ((pxRingbuffer->pucRead != pxRingbuffer->pucWrite) || (pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 4 )))
+(R<m
+(r>jBwK
+(Rx0
+(S_4
+(S`7
+(size_bits % 8) == 0
+(size_t) (pos - rsn_ie) <= rsn_ie_len
+(sNh
+(sP&
+(SsLhM
+(TZv
+(U/-`
+(u\3[_&Q
+(uint8_t *)pucItem < pxRingbuffer->pucTail
+(uint8_t *)pucItem >= pxRingbuffer->pucHead
+(Ut"
+(uxStackPointer & ( 0x000f )) == 0
+(v%$
+(version >= ESP_EFUSE_ADC_CALIB_VER_MIN) && (version <= ESP_EFUSE_ADC_CALIB_VER_MAX)
+(w_53
+(WcI
+(x)N
+(xD0
+(Ym)
+(Ym_
+(Z7@
+) 'B
+)#db
+)$$,G
+)$?*
+)$-7v
+)&`i
+)*,6
+),*(S
+).cL^
+).t=
+)/*~q
+);~,
+)?ZC
+)@,5
+)@F@
+)[9 
+)[QBG
+)\_GSA
+)\c]
+)\pNL
+)^3t
+)_ 0
+)_uF
+)`"c=
+)`@]
+)`2\
+)}2O
+)}jI
+)<VD
+)=d;AzFW
+)>'I
+)0(1
+)-06
+)1ma
+)3x)
+)44-M
+)4F-SV
+)5SP|2;eI#<^
+)5Uz
+)5Zy
+)6*6
+)8!D
+)8-E
+)9,-
+)9G0"
+)AJD_)
+)bvX
+)c8Y
+)DdWn
+)Df*t
+)DMa
+)eM%8Y
+)eNROi
+)F<F6,
+)FfTM
+)G<q
+)G2%2Z
+)gt/yA
+)i=2
+)ilr
+)inA_
+)Iw?_
+)j\*
+)kN}$
+)Lf2
+)L-o<
+)M8(
+)mAYN
+)mgq
+)n#>x
+)n8^
+)O%%
+)o0VT
+)O6d'O
+)Ofy
+)pC`
+)pKG
+)pNm
+)Q %U
+)Q!o
+)q.<
+)ql%
+)RKp
+)t=x
+)TM*&
+)Tms
+)-VU
+)W3~a
+)XIb
+)xjC+
+)Xlo
+)yrR{
+)z?t
+)Z[SH
+*!J9
+*!L$
+*!t*L"
+*"m=r
+*"SD0
+*%eL
+*(l t
+*)-m
+***ERROR*** A stack overflow in task 
+**/Uk&D@
+*,`4\
+*,0L
+*.|)
+*.}x
+*/|,J
+*/Z6
+*:6m
+*:deA
+-*;yFymd0/
+*]>8H3
+*]W|
+*]Xx
+*^ D
+*^/@W
+*`*a
+*`}X,)
+*`S*
+*}"k
+*~-5
+*+j@
+*=k*
+*=M"
+*=v-
+*->L6
+*0C"
+*2e P
+*3s%
+*3uA
+*5,H
+*6k 
+*7_>
+*'9,`l
+*9/vz`
+*bIH
+*c"QT
+*cEQ
+*cV'S
+*d-?v
+*d<D
+*D4c
+*epw_
+*Ev#
+*fZ4W 
+*G$x}3
+*G(/
+*g9N
+*H(b
+*I(F
+*Ivb:
+*jsC
+*k@}JB
+*kQX 
+*lq7j
+*lvw
+*M#V9
+*M\J2
+*O$F
+*O'4
+*OIxR
+*OmG
+*pKx
+*pvItem2 < *pvItem1
+*Qn!]2y
+*r(`5(qL
+*Rj3
+*RY}
+*S-i^yIGj
+*Sntl
+*t(h-t
+*tAV
+*Tru
+*U-(
+*u9I
+*vYjm3
+*W_;c
+*w_dJO
+*XxSB
+*yAr0
+*yOi
+*ys.
+*z&>
+*Z\8
+, )O
+, qop=%s, nc=%08x, cnonce="%016llx"
+,!8Y
+,"^z
+,"W~
+,$Fv0
+,(?(e#:
+,*C&
+,/V*
+,;Nss>b
+,;x!
+,?:(#
+,["%C
+,]ev
+,]JE
+,_!y
+,`.U
+,`veHWR
+,{v*'
+,|T ua
+',}!u!
+,})t;
+,}dN(
+,<:}S2>&
+,0c|1}
+,0m&
+,1hjj=
+,2EH
+,3uX
+,40H
+,4Y6
+,7={
+,8if
+,aGO~
+,aKc
+,AxX
+'',b
+',B;
+,Bb:R
+,dOK
+,DwLZ
+,e v
+,ed;
+,Eg4
+,h|U
+,hQ,
+,j@f[tY
+,J^cL
+,Jbc*
+',JL
+,JMSp
+,jT-
+,K_7e4
+,kjc}
+,km0
+,ktek
+,l%]*
+,lr6
+,MT%
+,'n!
+,Nq+
+,pQ`W
+,q2A0D
+,qL3
+,R es
+,rUyF
+,S4#
+,spj
+,tPT
+,uc1OXE 
+,UFT
+,UpF
+,USz
+,V%]
+,w_-
+,XYwM
+,Y`d
+,Y|.
+,YZ`e
+,z"Vg
+,z`H
+,Zl0
+. (W
+.!=l9
+."@a
+."aoRt
+.'"rBO
+.#hd
+.%W2
+.&/8
+.(*7
+..0\1
+..N"
+./&s
+./main/xgzd_battery.c
+./main/xgzd_led.c
+./main/xgzd_storage.c
+./main/xgzd_wifi.c
+./main/xinguangzhidao.c
+./VT
+.:9h
+.['3
+.\(dWh{x
+.\;4
+.\n[
+.]y:
+._u1
+.}\-
+.<^Vwomm"
+.>9g
+.>'o
+.>so
+.1?1
+.1cw
+.2j48
+.4+!
+.5ar
+.6ss
+.8%)
+.8P_
+.A:/
+.A3}3
+.A'K
+.b R%
+.b%T
+.bZ%~
+.Cb2e.a
+.ci8
+.d)Qd*
+.d`>
+.d<0
+.dT3
+.E5cv
+.F/:
+.FuIeT/QC
+.Gob
+.HCz
+.ioS
+.Iqs
+.IR9UR$
+.Ix@
+.jh/
+'.JNe^ (
+.K/S
+.K@M
+.K_S
+.KEX
+.L.&
+.l1M
+.local
+.m1K-
+.o|0=
+.o0&lF
+.oLA
+.P9e
+.q#Lz{S;
+.Q<6
+.q2O
+.rb}>+
+.-RD
+.S@_
+-.s+
+.T>o
+.tTU
+.U,%
+.U4D
+.u78
+.UCS
+.UpID[+@
+.v"8
+.v\n
+.'W)
+.W\+4
+.w]<
+.wj&
+.X:"
+.xM]8_
+.xR>
+.y&^VM
+.y;d
+.yjk
+.yKI
+.z%$
+.z>E
+.Zm``&[]
+.ZZj
+-/!T/oLc
+/"RC
+/#%X+
+/$Hd2
+/$i0;
+'/$p
+/%c>fJ
+/%hu%n:%hu%n:%hu%n
+/%I@
+/&!m
+/(b/D
+/)|o|
+/,dh
+/,yVT
+/./main/xgzd_ble.c
+/./main/xgzd_multi_lang.c
+/./managed_components/espressif__led_strip/src/led_strip_rmt_encoder.c
+/.'y
+//Ag
+//IDF/components/app_update/esp_ota_ops.c
+//IDF/components/bootloader_support/bootloader_flash/src/bootloader_flash.c
+//IDF/components/bootloader_support/src/idf/bootloader_sha.c
+//IDF/components/bt/controller/esp32c3/bt.c
+//IDF/components/bt/host/nimble/esp-hci/src/esp_nimble_hci.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/services/gap/src/ble_svc_gap.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/services/gatt/src/ble_svc_gatt.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_att_cmd.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_gap.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_gattc.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_hs.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_hs_conn.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_hs_stop.c
+//IDF/components/bt/host/nimble/nimble/nimble/host/src/ble_l2cap.c
+//IDF/components/bt/host/nimble/nimble/nimble/transport/src/transport.c
+//IDF/components/bt/host/nimble/nimble/porting/nimble/src/os_mbuf.c
+//IDF/components/bt/host/nimble/nimble/porting/nimble/src/os_msys_init.c
+//IDF/components/bt/host/nimble/nimble/porting/npl/freertos/src/npl_os_freertos.c
+//IDF/components/bt/porting/mem/bt_osi_mem.c
+//IDF/components/efuse/esp32c3/esp_efuse_rtc_calib.c
+//IDF/components/efuse/src/esp_efuse_utility.c
+//IDF/components/esp_driver_gpio/src/gpio.c
+//IDF/components/esp_driver_rmt/src/rmt_tx.c
+//IDF/components/esp_driver_uart/src/uart.c
+//IDF/components/esp_driver_uart/src/uart_vfs.c
+//IDF/components/esp_driver_usb_serial_jtag/src/usb_serial_jtag_vfs.c
+//IDF/components/esp_event/esp_event.c
+//IDF/components/esp_http_client/esp_http_client.c
+//IDF/components/esp_http_client/lib/http_utils.c
+//IDF/components/esp_hw_support/clk_ctrl_os.c
+//IDF/components/esp_hw_support/dma/gdma.c
+//IDF/components/esp_hw_support/hw_random.c
+//IDF/components/esp_hw_support/include/esp_cpu.h
+//IDF/components/esp_hw_support/include/spinlock.h
+//IDF/components/esp_hw_support/intr_alloc.c
+//IDF/components/esp_hw_support/mac_addr.c
+//IDF/components/esp_hw_support/periph_ctrl.c
+//IDF/components/esp_hw_support/port/esp_clk_tree_common.c
+//IDF/components/esp_hw_support/port/esp32c3/rtc_init.c
+//IDF/components/esp_hw_support/port/esp32c3/rtc_time.c
+//IDF/components/esp_hw_support/sleep_modes.c
+//IDF/components/esp_mm/esp_mmu_map.c
+//IDF/components/esp_netif/esp_netif_objects.c
+//IDF/components/esp_partition/partition.c
+//IDF/components/esp_partition/partition_target.c
+//IDF/components/esp_ringbuf/ringbuf.c
+//IDF/components/esp_system/crosscore_int.c
+//IDF/components/esp_system/port/soc/esp32c3/clk.c
+//IDF/components/esp_system/port/soc/esp32c3/reset_reason.c
+//IDF/components/esp_system/startup_funcs.c
+//IDF/components/esp_system/task_wdt/task_wdt.c
+//IDF/components/esp_timer/src/esp_timer.c
+//IDF/components/esp_timer/src/esp_timer_impl_systimer.c
+//IDF/components/esp_timer/src/ets_timer_legacy.c
+//IDF/components/esp_wifi/src/wifi_default.c
+//IDF/components/esp-tls/esp_tls_mbedtls.c
+//IDF/components/freertos/app_startup.c
+//IDF/components/freertos/esp_additions/freertos_tasks_c_additions.h
+//IDF/components/freertos/esp_additions/idf_additions.c
+//IDF/components/freertos/FreeRTOS-Kernel/event_groups.c
+//IDF/components/freertos/FreeRTOS-Kernel/list.c
+//IDF/components/freertos/FreeRTOS-Kernel/portable/riscv/port.c
+//IDF/components/freertos/FreeRTOS-Kernel/queue.c
+//IDF/components/freertos/FreeRTOS-Kernel/tasks.c
+//IDF/components/freertos/FreeRTOS-Kernel/timers.c
+//IDF/components/freertos/port_common.c
+//IDF/components/heap/heap_caps_base.c
+//IDF/components/heap/heap_caps_init.c
+//IDF/components/heap/multi_heap.c
+//IDF/components/heap/port/memory_layout_utils.c
+//IDF/components/heap/tlsf/tlsf.c
+//IDF/components/heap/tlsf/tlsf_block_functions.h
+//IDF/components/heap/tlsf/tlsf_control_functions.h
+//IDF/components/http_parser/http_parser.c
+//IDF/components/log/src/log_level/tag_log_level/cache/log_binary_heap.c
+//IDF/components/lwip/apps/dhcpserver/dhcpserver.c
+//IDF/components/mbedtls/port/aes/dma/esp_aes_dma_core.c
+//IDF/components/mbedtls/port/bignum/esp_bignum.c
+//IDF/components/mbedtls/port/sha/dma/sha.c
+//IDF/components/newlib/locks.c
+//IDF/components/pthread/pthread.c
+//IDF/components/pthread/pthread_local_storage.c
+//IDF/components/riscv/include/esp_private/interrupt_intc.h
+//IDF/components/riscv/interrupt.c
+//IDF/components/spi_flash/esp_flash_api.c
+//IDF/components/spi_flash/flash_mmap.c
+//IDF/components/spi_flash/flash_ops.c
+//IDF/components/spi_flash/spi_flash_os_func_app.c
+//IDF/components/vfs/vfs.c
+//IDF/components/wpa_supplicant/esp_supplicant/src/crypto/fastpbkdf2.c
+//IDF/components/wpa_supplicant/src/rsn_supp/wpa_ie.c
+/@`o|zC
+/[e.j<
+/[iR
+/\jm
+/]i{w
+/^x`\
+/_lFKly;
+/`,>
+/`\\
+/~sg6
+/+$K
+/=uj
+/>1[
+/>RA
+/>rt
+/2>qx
+/3`X
+/5eNB/
+/6GF
+/6uUq
+/7&A
+/7Nc
+/8 D
+/8UB0
+/8VP
+/9TV
+/A6v
+/B@Y
+/builds/idf/crosstool-NG/.build/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/dtoa.c
+/builds/idf/crosstool-NG/.build/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/gdtoa-gethex.c
+/builds/idf/crosstool-NG/.build/riscv32-esp-elf/src/newlib/newlib/libc/stdlib/mprec.c
+/cG_
+/cyu
+/Cz-n
+/dev/console
+/dev/null
+/dev/secondary
+/dev/uart
+/dev/uart/0
+/f$A
+/FoU
+/-fS
+/g+W
+/Gf_
+/gGmk3_M
+/h[T
+/HA9$!
+/hy};
+/IDF/components/efuse/esp32c3/esp_efuse_rtc_calib.c
+/IDF/components/esp_driver_uart/src/uart_vfs.c
+/IDF/components/esp_netif/lwip/esp_netif_lwip.c
+/IDF/components/esp_netif/lwip/netif/wlanif.c
+/IDF/components/esp_phy/src/phy_common.c
+/IDF/components/esp_phy/src/phy_init.c
+/IDF/components/esp_system/crosscore_int.c
+/IDF/components/esp_system/task_wdt/task_wdt.c
+/IDF/components/esp_timer/src/ets_timer_legacy.c
+/IDF/components/esp_wifi/src/wifi_default.c
+/IDF/components/freertos/app_startup.c
+/IDF/components/freertos/port_systick.c
+/IDF/components/hal/esp32c3/clk_tree_hal.c
+/IDF/components/hal/esp32c3/include/hal/adc_ll.h
+/IDF/components/hal/esp32c3/include/hal/cache_ll.h
+/IDF/components/hal/esp32c3/include/hal/gpio_ll.h
+/IDF/components/hal/esp32c3/include/hal/rmt_ll.h
+/IDF/components/lwip/lwip/src/api/api_lib.c
+/IDF/components/lwip/lwip/src/api/api_msg.c
+/IDF/components/lwip/lwip/src/api/netbuf.c
+/IDF/components/lwip/lwip/src/api/netdb.c
+/IDF/components/lwip/lwip/src/api/sockets.c
+/IDF/components/lwip/lwip/src/api/tcpip.c
+/IDF/components/lwip/lwip/src/core/dns.c
+/IDF/components/lwip/lwip/src/core/ipv4/dhcp.c
+/IDF/components/lwip/lwip/src/core/ipv4/etharp.c
+/IDF/components/lwip/lwip/src/core/ipv4/icmp.c
+/IDF/components/lwip/lwip/src/core/ipv4/igmp.c
+/IDF/components/lwip/lwip/src/core/ipv4/ip4.c
+/IDF/components/lwip/lwip/src/core/ipv4/ip4_addr.c
+/IDF/components/lwip/lwip/src/core/ipv4/ip4_frag.c
+/IDF/components/lwip/lwip/src/core/ipv6/icmp6.c
+/IDF/components/lwip/lwip/src/core/ipv6/ip6.c
+/IDF/components/lwip/lwip/src/core/ipv6/ip6_frag.c
+/IDF/components/lwip/lwip/src/core/ipv6/nd6.c
+/IDF/components/lwip/lwip/src/core/mem.c
+/IDF/components/lwip/lwip/src/core/memp.c
+/IDF/components/lwip/lwip/src/core/netif.c
+/IDF/components/lwip/lwip/src/core/pbuf.c
+/IDF/components/lwip/lwip/src/core/raw.c
+/IDF/components/lwip/lwip/src/core/tcp.c
+/IDF/components/lwip/lwip/src/core/tcp_in.c
+/IDF/components/lwip/lwip/src/core/tcp_out.c
+/IDF/components/lwip/lwip/src/core/timeouts.c
+/IDF/components/lwip/lwip/src/core/udp.c
+/IDF/components/lwip/lwip/src/netif/ethernet.c
+/IDF/components/lwip/port/esp32xx/vfs_lwip.c
+/IDF/components/lwip/port/freertos/sys_arch.c
+/k,Ge
+/k>P
+/K9K
+/kF-
+/Kz\
+/l;V!
+/Lde=
+/lg9J
+/LlC
+/m!z
+/m0a
+/oKo
+/PG'
+/r?+w
+/R[2ur]
+/'Ry
+/sf_
+/sXAj
+/W*y
+/whz
+/x@[
+/Y{\
+/z<9u^%"
+: %d
+: %s
+: &^
+: 0x%02X
+: 5;
+: Ai
+: BLE_ERR_ACL_CONN_EXISTS (ACL Connection Already Exists)
+: BLE_ERR_AUTH_FAIL (Authentication Failure)
+: BLE_ERR_CHAN_CLASS (Channel Classification Not Supported)
+: BLE_ERR_CMD_DISALLOWED (Command Disallowed)
+: BLE_ERR_COARSE_CLK_ADJ (Coarse Clock Adjustment Rejected but Will Try to Adjust Using Clock Dragging)
+: BLE_ERR_CONN_ACCEPT_TMO (Connection Accept Timeout Exceeded)
+: BLE_ERR_CONN_ESTABLISHMENT (Connection Failed to be Established)
+: BLE_ERR_CONN_LIMIT (Connection Limit Exceeded)
+: BLE_ERR_CONN_PARMS (Unacceptable Connection Parameters)
+: BLE_ERR_CONN_REJ_BD_ADDR (Connection Rejected due to Unacceptable BD_ADDR)
+: BLE_ERR_CONN_REJ_CHANNEL (Connection Rejected due to No Suitable Channel Found)
+: BLE_ERR_CONN_REJ_RESOURCES (Connection Rejected due to Limited Resources)
+: BLE_ERR_CONN_REJ_SECURITY (Connection Rejected Due To Security Reasons)
+: BLE_ERR_CONN_SPVN_TMO (Connection Timeout)
+: BLE_ERR_CONN_TERM_LOCAL (Connection Terminated By Local Host)
+: BLE_ERR_CONN_TERM_MIC (Connection Terminated due to MIC Failure)
+: BLE_ERR_CTLR_BUSY (Controller Busy)
+: BLE_ERR_DIFF_TRANS_COLL (Different Transaction Collision)
+: BLE_ERR_DIR_ADV_TMO (Directed Advertising Timeout)
+: BLE_ERR_ENCRYPTION_MODE (Encryption Mode Not Acceptable)
+: BLE_ERR_HOST_BUSY_PAIR (Host Busy - Pairing)
+: BLE_ERR_HW_FAIL (Hardware Failure)
+: BLE_ERR_INQ_RSP_TOO_BIG (Extended Inquiry Response Too Large)
+: BLE_ERR_INSTANT_PASSED (Instant Passed)
+: BLE_ERR_INSUFFICIENT_SEC (Insufficient Security)
+: BLE_ERR_INV_HCI_CMD_PARMS (Invalid HCI Command Parameters)
+: BLE_ERR_INV_LMP_LL_PARM (Invalid LMP Parameters / Invalid LL Parameters)
+: BLE_ERR_LIMIT_REACHED (Limit Reached)
+: BLE_ERR_LINK_KEY_CHANGE (Link Key cannot be Changed)
+: BLE_ERR_LMP_COLLISION (LMP Error Transaction Collision)
+: BLE_ERR_LMP_LL_RSP_TMO (LMP Response Timeout / LL Response Timeout)
+: BLE_ERR_LMP_PDU (LMP PDU Not Allowed)
+: BLE_ERR_MAC_CONN_FAIL (MAC Connection Failed)
+: BLE_ERR_MAX
+: BLE_ERR_MEM_CAPACITY (Memory Capacity Exceeded)
+: BLE_ERR_NO_PAIRING (Pairing Not Allowed)
+: BLE_ERR_NO_ROLE_CHANGE (Role Change Not Allowed)
+: BLE_ERR_OPERATION_CANCELLED (Operation Cancelled by Host)
+: BLE_ERR_PACKET_TOO_LONG (Packet Too Long)
+: BLE_ERR_PAGE_TMO (Page Timeout)
+: BLE_ERR_PARM_OUT_OF_RANGE (Parameter Out Of Mandatory Range)
+: BLE_ERR_PENDING_ROLE_SW (Role Switch Pending)
+: BLE_ERR_PINKEY_MISSING (PIN or Key Missing)
+: BLE_ERR_QOS_PARM (QoS Unacceptable Parameter)
+: BLE_ERR_QOS_REJECTED (QoS Rejected)
+: BLE_ERR_RD_CONN_TERM_PWROFF (Remote Device Terminated Connection due to Power Off)
+: BLE_ERR_RD_CONN_TERM_RESRCS (Remote Device Terminated Connection due to Low Resources)
+: BLE_ERR_REM_USER_CONN_TERM (Remote User Terminated Connection)
+: BLE_ERR_REPEATED_ATTEMPTS (Repeated Attempts)
+: BLE_ERR_RESERVED_SLOT (Reserved Slot Violation)
+: BLE_ERR_ROLE_SW_FAIL (Role Switch Failed)
+: BLE_ERR_SCO_AIR_MODE (SCO Air Mode Rejected)
+: BLE_ERR_SCO_ITVL (SCO Interval Rejected)
+: BLE_ERR_SCO_OFFSET (SCO Offset Rejected)
+: BLE_ERR_SEC_SIMPLE_PAIR (Secure Simple Pairing Not Supported By Host)
+: BLE_ERR_SYNCH_CONN_LIMIT (Synchronous Connection Limit To A Device Exceeded)
+: BLE_ERR_TYPE0_SUBMAP_NDEF (Type0 Submap Not Defined)
+: BLE_ERR_UNIT_KEY_PAIRING (Pairing With Unit Key Not Supported)
+: BLE_ERR_UNK_ADV_INDENT (Unknown Advertising Identifier)
+: BLE_ERR_UNK_CONN_ID (Unknown Connection Identifier)
+: BLE_ERR_UNK_LMP (Unknown LMP PDU)
+: BLE_ERR_UNKNOWN_HCI_CMD (Unknown HCI Command)
+: BLE_ERR_UNSPECIFIED (Unspecified Error)
+: BLE_ERR_UNSUPP_LMP_LL_PARM (Unsupported LMP Parameter Value / Unsupported LL Parameter Value)
+: BLE_ERR_UNSUPP_QOS (Requested QoS Not Supported)
+: BLE_ERR_UNSUPP_REM_FEATURE (Unsupported Remote Feature / Unsupported LMP Feature)
+: BLE_ERR_UNSUPPORTED (Unsupported Feature or Parameter Value)
+: BLE_HS_EAGAIN (Temporary failure; try again)
+: BLE_HS_EALREADY (Operation already in progress or completed)
+: BLE_HS_EAPP (Application callback behaved unexpectedly)
+: BLE_HS_EAUTHEN (Insufficient authentication)
+: BLE_HS_EAUTHOR (Insufficient authorization)
+: BLE_HS_EBADDATA (Command from peer is invalid)
+: BLE_HS_EBUSY (Operation cannot be performed until procedure completes)
+: BLE_HS_ECONTROLLER (Event from controller is invalid)
+: BLE_HS_EDISABLED (Operation disabled)
+: BLE_HS_EDONE (Operation completed successfully)
+: BLE_HS_EENCRYPT (Insufficient encryption level)
+: BLE_HS_EENCRYPT_KEY_SZ (Insufficient key size
+: BLE_HS_EINVAL (One or more arguments are invalid)
+: BLE_HS_EMSGSIZE (The provided buffer is too small)
+: BLE_HS_ENOADDR (Operation requires an identity address but none configured)
+: BLE_HS_ENOENT (No entry matching the specified criteria)
+: BLE_HS_ENOMEM (Operation failed due to resource exhaustion)
+: BLE_HS_ENOMEM_EVT (Controller failed to send event due to memory exhaustion)
+: BLE_HS_ENOTCONN (No open connection with the specified handle)
+: BLE_HS_ENOTSUP (Operation disabled at compile time)
+: BLE_HS_ENOTSYNCED (Attempt to use the host before it is synced with controller)
+: BLE_HS_EOS (Mynewt OS error)
+: BLE_HS_EPREEMPTED (ation was preempted)
+: BLE_HS_EREJECT (Peer rejected a connection parameter update request)
+: BLE_HS_EROLE (Operation requires different role (e.g., central vs. peripheral))
+: BLE_HS_ESTALLED (Operation stalled)
+: BLE_HS_ESTORE_CAP (BLE_HS_ESTORE_FAIL,)
+: BLE_HS_ESTORE_FAIL (Storage IO error)
+: BLE_HS_ETIMEOUT (Operation timed out)
+: BLE_HS_ETIMEOUT_HCI (HCI request timed out; controller unresponsive)
+: BLE_HS_EUNKNOWN (Unexpected failure; catch all)
+:!n}A2
+:#b8UCp
+:$?M
+:$-W
+:$W0
+:%'l
+:&(.
+:&r;
+:(}y
+:*Y\RC
+:,VD$
+:.%y
+:/5r
+:';]S1
+:;L5
+:[,1
+:[C?zC
+:]"E
+:]9>
+:]g!t
+:|K,g
+:}#k
+:}WUW
+:~)}?
+:~3YD
+:+CE
+:<`wt
+:<K>
+:=E+
+:>H|
+:1G)
+:1Sq 
+:6Mc
+:6Ym0d
+:9o.
+:a"}
+:Ai?J
+:aPS
+:b(LxGX
+:B@P
+:bp4A.
+:D_2=
+:drb
+:dSUhC8
+:DUT
+:e*l
+:e@'tL
+:E8E
+:EGT
+:Ek]V
+:F.*q
+:F]~
+:Gkl2
+:Go=q
+:h[8
+:HJo
+:hQpW
+':Hx
+:ImE
+:j]1
+:JB&
+:jP;
+:jwprl
+:kEs
+:krW
+:KY0u
+:l\\
+:m:W
+:mt 
+:Mt(
+:-np
+:nWD
+:O>+
+:P@K
+:Pqj/e
+:qpN)
+:r=QB
+:R1B
+:r8(
+:rg'W
+:rS7{
+:s T
+-:S9 
+:'sq
+:SQZPX
+:uP<}( 
+:uWI
+:v M
+:v-|C
+:vJA"^
+:wAk
+:wHE
+:x>w
+:xG2z84
+:XnA
+:Xq4A
+:xzx.b
+:y)dJ
+:y13
+:y5#A
+:ZpVNM
+;!@r
+;"Q;
+;$iUf
+;&g 
+;(_c
+;,pt
+;,TV`"@
+;.to
+;-/&
+;:%ghCDw
+;:\~
+;?"h
+;?d:g
+;@,%
+';\_
+;\}0%D
+;\Bb
+;_<}
+;`jFR
+;`O:
+;{2Na
+;}k`
+;=>=%
+;=0G
+;=a$|m
+;>hZM
+;0Gb
+;1q;
+;1S?
+;2-.-
+;2+k
+;2Q3
+;2w>
+;3[S
+;6~I
+;6OO
+;7#l
+;a[()&V
+;aAb.
+;AHv
+;Bsh
+;c2H
+;cC{
+;cp:=
+;c's
+;d+I
+;dR8
+;DtJ&
+;DV^
+;FjE
+;fqp
+;fsA?
+;FxL
+;GcJ
+;GkG"
+;I(p
+;I/ A
+;I{2T
+;ih+
+;ip.
+;iUL
+;j18
+;J5$
+;JEft
+;Km3
+;-LB
+;lW'
+;n5DN
+;N81
+;Nx-@s
+;Op?
+;oW6
+;p"?
+;q@+
+;R8JV
+;rGZ
+;RJV
+;rtH;
+;SBnE
+;S-w
+;tob x
+;tR{w
+;TT$
+;U#f`
+;Ul*
+';VQh
+;wp@
+;X=U
+;XpsL'
+;xyb
+;y-I
+;YnK
+;yvKpo
+;z%2S
+;z9w#hOV
+;zi!3
+;Zz:
+? nG=
+? qnD)
+?!0B
+?-!D
+?!yG
+?#n$
+?#w!
+?$Q}iI!
+?%Fg
+?&[#P
+?(M-
+?*:e
+?*x"
+?,%i
+?,]"h`z
+?.Vy
+?/#6
+?/X{q
+?;mL
+?[(]
+?]"Jh
+?^mr
+?_&!
+?_8i
+?-_Z
+?|g~
+?}L.
+?~az
+?2V=I'#
+?3![
+?333333
+?4&=
+?5@W
+?5mAX
+?6P!~XF
+?9fu
+?9M7
+?a@;
+?a3h
+?aCoc
+?aR"q
+?B"bi
+?brD
+'?cg
+?D?n8F
+?D|i
+?D8_
+?dGT
+?d-r
+?E.{L
+?E2W]
+?F. 
+?F{}1
+?FL{
+?-fR0N<
+?fzI
+?Gbs
+?gbu
+?gD^<
+?Gku!
+?i@!X
+?irV
+?l?VP
+?LCWA
+?lkA
+?L-T}
+?M.yw
+'?n8
+?nOM
+?OTv
+?P8E/9_
+?PA}
+?Paq
+?pd]
+?qRt
+?'SAn
+?T_V
+?t18I
+?TEl
+?U$>
+?U{J`
+?uart_driver_delete
+?V9a]h
+?vO#f
+?wDuE
+?wLK
+?WXB
+?wy&
+?x@[
+?X~?sr6
+?x<O
+?XD%9_
+?XON
+?yBmm
+?z2e
+'?zx
+@ p'
+@!7*
+@"SKU
+@$=f
+@$AU
+@%KuO
+@&0&AVW
+@)$)
+@)9|
+@)g]U
+@)J4
+@,3zv
+@,hv
+@,X}
+-@.+
+@.tB
+@/{&
+@/2s
+@/ds
+@/J[y
+@:^#;
+@:Ua
+@;;Y
+@?A)U
+'@@."
+@\Ln
+@^}bW
+@^qE
+@_hrS
+@}NS
+@~?Ik
+@<$`
+@<:!
+@<4P
+@<JI
+@=!aqx
+@>p_
+@1Dq
+@2}]
+@2AL
+@3:=
+@3fr
+@4UiF
+@4Y@@
+@5{@
+@56E
+@a$4s^Y
+@b%\
+@bEgn
+@c]`l
+@C7_2#.
+@Cc=
+@DPk
+@e!`
+@fSG
+@G`'
+@GR9A
+@H@|
+@k.o
+@L43
+@l8K
+'@lI
+@Loa=
+@mba
+@N}<
+@O.X
+@o;8
+@O\ZH
+@o^v
+@p`v5@#
+@PcY
+@Pg<371
+-@PP
+@Pqf
+@r$C
+@U@LS
+@U]V
+@u^{
+@UJQ#k
+@v"W
+@ve2
+@vG%o y
+@VSX
+@Vx"
+@wrH
+@xgzd_storage_init
+@xTs
+@y<'
+@Y34t
+@yp^
+@Z|v
+[#.Q
+[$NC>,
+[/|HC
+[/tas
+[:b5
+[:kW
+[;|w
+[?4TcV
+[?e.p
+[?paS
+[@Vv
+[[zA
+[^rdBQ
+[{gB
+[+%D>
+[+4*
+[=-p^
+[->w
+[0;31mE (%lu) %s: 
+[0;31mE (%lu) %s:  - %s%s
+[0;31mE (%lu) %s: %d mac type is incorrect (not found)
+[0;31mE (%lu) %s: %s
+[0;31mE (%lu) %s: %s %d
+[0;31mE (%lu) %s: %s %d %s ret=0x%X
+[0;31mE (%lu) %s: %s called, but `s_adc_digi_ctrlr_cnt == 0`
+[0;31mE (%lu) %s: %s called, but s_pwdet_power_on_cnt == 0
+[0;31mE (%lu) %s: %s called, but s_saradc_power_on_cnt == 0
+[0;31mE (%lu) %s: %s called, but s_temperature_sensor_power_cnt == 0
+[0;31mE (%lu) %s: %s controller only support BLE only mode
+[0;31mE (%lu) %s: %s failed to os_mbuf_append; rc = %d
+[0;31mE (%lu) %s: %s not supported, please enable it in lwIP component configuration
+[0;31mE (%lu) %s: %s(%d): %s
+[0;31mE (%lu) %s: %s(%d): 32bit address feature check failed
+[0;31mE (%lu) %s: %s(%d): adc unit not supported
+[0;31mE (%lu) %s: %s(%d): adc%d is already in use
+[0;31mE (%lu) %s: %s(%d): adc1 lock release without acquiring
+[0;31mE (%lu) %s: %s(%d): adc2 lock release without acquiring
+[0;31mE (%lu) %s: %s(%d): break_num error
+[0;31mE (%lu) %s: %s(%d): buffer null
+[0;31mE (%lu) %s: %s(%d): cache sync failed
+[0;31mE (%lu) %s: %s(%d): channel can't be disabled in state %d
+[0;31mE (%lu) %s: %s(%d): channel is controlled by ETM
+[0;31mE (%lu) %s: %s(%d): channel is using by peripheral: %d
+[0;31mE (%lu) %s: %s(%d): channel not in init state
+[0;31mE (%lu) %s: %s(%d): clock source not supported
+[0;31mE (%lu) %s: %s(%d): Could not allocate an interrupt for UART
+[0;31mE (%lu) %s: %s(%d): Could not configure the interrupt for UART
+[0;31mE (%lu) %s: %s(%d): create bytes encoder failed
+[0;31mE (%lu) %s: %s(%d): create copy encoder failed
+[0;31mE (%lu) %s: %s(%d): create LED strip encoder failed
+[0;31mE (%lu) %s: %s(%d): create RMT TX channel failed
+[0;31mE (%lu) %s: %s(%d): cts_io_num error
+[0;31mE (%lu) %s: %s(%d): data bit error
+[0;31mE (%lu) %s: %s(%d): delete interrupt service failed
+[0;31mE (%lu) %s: %s(%d): delete pm_lock failed
+[0;31mE (%lu) %s: %s(%d): delete RMT channel failed
+[0;31mE (%lu) %s: %s(%d): delete strip encoder failed
+[0;31mE (%lu) %s: %s(%d): destroy tx channel failed
+[0;31mE (%lu) %s: %s(%d): disable RMT channel failed
+[0;31mE (%lu) %s: %s(%d): DMA not supported
+[0;31mE (%lu) %s: %s(%d): empty intr threshold error
+[0;31mE (%lu) %s: %s(%d): enable RMT channel failed
+[0;31mE (%lu) %s: %s(%d): Failed in secure eFuse init
+[0;31mE (%lu) %s: %s(%d): Failed to set SSL config
+[0;31mE (%lu) %s: %s(%d): Failed to set TCP config
+[0;31mE (%lu) %s: %s(%d): flush RMT channel failed
+[0;31mE (%lu) %s: %s(%d): flush timeout
+[0;31mE (%lu) %s: %s(%d): freq shouldn't be 0, calibration failed
+[0;31mE (%lu) %s: %s(%d): get clock source frequency failed
+[0;31mE (%lu) %s: %s(%d): group clock conflict, already is %d but attempt to %d
+[0;31mE (%lu) %s: %s(%d): hw_flowctrl mode error
+[0;31mE (%lu) %s: %s(%d): index out of maximum number of LEDs
+[0;31mE (%lu) %s: %s(%d): install trans queues failed
+[0;31mE (%lu) %s: %s(%d): install tx interrupt failed
+[0;31mE (%lu) %s: %s(%d): insufficient memory
+[0;31mE (%lu) %s: %s(%d): intr_priority conflict
+[0;31mE (%lu) %s: %s(%d): invalid argument
+[0;31mE (%lu) %s: %s(%d): invalid argument: null pointer
+[0;31mE (%lu) %s: %s(%d): Invalid arguments
+[0;31mE (%lu) %s: %s(%d): invalid attenuation
+[0;31mE (%lu) %s: %s(%d): invalid bitwidth
+[0;31mE (%lu) %s: %s(%d): invalid caps
+[0;31mE (%lu) %s: %s(%d): invalid channel
+[0;31mE (%lu) %s: %s(%d): invalid channel direction
+[0;31mE (%lu) %s: %s(%d): invalid GPIO number %d
+[0;31mE (%lu) %s: %s(%d): invalid interrupt priority:%d
+[0;31mE (%lu) %s: %s(%d): invalid led model
+[0;31mE (%lu) %s: %s(%d): invalid max_data_burst_size: %lu
+[0;31mE (%lu) %s: %s(%d): invalid number of color components: %d
+[0;31mE (%lu) %s: %s(%d): invalid order argument
+[0;31mE (%lu) %s: %s(%d): invalid sibling channel
+[0;31mE (%lu) %s: %s(%d): Invalid src_clk
+[0;31mE (%lu) %s: %s(%d): invalid unit
+[0;31mE (%lu) %s: %s(%d): IO config fail
+[0;31mE (%lu) %s: %s(%d): led doesn't have 4 components
+[0;31mE (%lu) %s: %s(%d): mem_block_symbols must be even and at least %d
+[0;31mE (%lu) %s: %s(%d): Memory exhausted
+[0;31mE (%lu) %s: %s(%d): munmap target pointer is outside external memory regions
+[0;31mE (%lu) %s: %s(%d): munmap target pointer isn't mapped yet
+[0;31mE (%lu) %s: %s(%d): no free gdma channel, search code=%d
+[0;31mE (%lu) %s: %s(%d): no free transaction descriptor, please consider increasing trans_queue_depth
+[0;31mE (%lu) %s: %s(%d): no free tx channels
+[0;31mE (%lu) %s: %s(%d): no mem
+[0;31mE (%lu) %s: %s(%d): no mem for bytes encoder
+[0;31mE (%lu) %s: %s(%d): no mem for copy encoder
+[0;31mE (%lu) %s: %s(%d): no mem for gdma rx channel
+[0;31mE (%lu) %s: %s(%d): no mem for gdma tx channel
+[0;31mE (%lu) %s: %s(%d): no mem for group (%d)
+[0;31mE (%lu) %s: %s(%d): no mem for group(%d)
+[0;31mE (%lu) %s: %s(%d): no mem for led strip encoder
+[0;31mE (%lu) %s: %s(%d): no mem for pair(%d,%d)
+[0;31mE (%lu) %s: %s(%d): no mem for queues
+[0;31mE (%lu) %s: %s(%d): no mem for rmt strip
+[0;31mE (%lu) %s: %s(%d): no mem for tx channel
+[0;31mE (%lu) %s: %s(%d): no mem for tx DMA nodes
+[0;31mE (%lu) %s: %s(%d): no mem for unit
+[0;31mE (%lu) %s: %s(%d): no peripheral is connected to the channel
+[0;31mE (%lu) %s: %s(%d): not a valid external virtual address
+[0;31mE (%lu) %s: %s(%d): not able to power down in light sleep
+[0;31mE (%lu) %s: %s(%d): null pointer
+[0;31mE (%lu) %s: %s(%d): paddr must be rounded up to the nearest multiple of CONFIG_MMU_PAGE_SIZE
+[0;31mE (%lu) %s: %s(%d): param null
+[0;31mE (%lu) %s: %s(%d): peripheral %d is already used by another channel
+[0;31mE (%lu) %s: %s(%d): peripheral and DMA system bus mismatch
+[0;31mE (%lu) %s: %s(%d): PSRAM is not supported
+[0;31mE (%lu) %s: %s(%d): ready queue full
+[0;31mE (%lu) %s: %s(%d): register channel failed
+[0;31mE (%lu) %s: %s(%d): release pm_lock failed
+[0;31mE (%lu) %s: %s(%d): rts_io_num error
+[0;31mE (%lu) %s: %s(%d): rx flow thresh error
+[0;31mE (%lu) %s: %s(%d): rx_io_num error
+[0;31mE (%lu) %s: %s(%d): set group clock failed
+[0;31mE (%lu) %s: %s(%d): sibling channel should have a different direction
+[0;31mE (%lu) %s: %s(%d): stop bit error
+[0;31mE (%lu) %s: %s(%d): task is already subscribed
+[0;31mE (%lu) %s: %s(%d): task not found
+[0;31mE (%lu) %s: %s(%d): task watchdog was never initialized
+[0;31mE (%lu) %s: %s(%d): transmit pixels by RMT failed
+[0;31mE (%lu) %s: %s(%d): TWDT already initialized
+[0;31mE (%lu) %s: %s(%d): TWDT was never initialized
+[0;31mE (%lu) %s: %s(%d): tx_io_num error
+[0;31mE (%lu) %s: %s(%d): uart data null
+[0;31mE (%lu) %s: %s(%d): uart driver error
+[0;31mE (%lu) %s: %s(%d): uart rx buffer length error
+[0;31mE (%lu) %s: %s(%d): uart size error
+[0;31mE (%lu) %s: %s(%d): uart tx buffer length error
+[0;31mE (%lu) %s: %s(%d): uart_num error
+[0;31mE (%lu) %s: %s(%d): unknown clk src
+[0;31mE (%lu) %s: %s(%d): unknown precision
+[0;31mE (%lu) %s: %s(%d): user is already subscribed
+[0;31mE (%lu) %s: %s(%d): user not found
+[0;31mE (%lu) %s: %s(%d): vaddr isn't mapped
+[0;31mE (%lu) %s: %s: calibration data MAC check failed: expected %02x:%02x:%02x:%02x:%02x:%02x, found %02x:%02x:%02x:%02x:%02x:%02x
+[0;31mE (%lu) %s: %s: Failed to configure netif with config=%p (config or if_key is NULL or duplicate key)
+[0;31mE (%lu) %s: %s: Failed to configure netif with config=%p (DHCP server and client cannot be configured together)
+[0;31mE (%lu) %s: %s: failed to get cal_data(0x%x)
+[0;31mE (%lu) %s: %s: NVS has not been initialized. Call nvs_flash_init before starting WiFi/BT.
+[0;31mE (%lu) %s: %s: store calibration data failed(0x%x)
+[0;31mE (%lu) %s: %s: store calibration mac failed(0x%x)
+[0;31mE (%lu) %s: %s: store calibration nvs commit failed(0x%x)
+[0;31mE (%lu) %s: %s: store calibration version failed(0x%x)
+[0;31mE (%lu) %s: [sock=%d] connect() error: %s
+[0;31mE (%lu) %s: [sock=%d] delayed connect error: %s
+[0;31mE (%lu) %s: [sock=%d] get file flags error: %s
+[0;31mE (%lu) %s: [sock=%d] getsockopt() error: %s
+[0;31mE (%lu) %s: [sock=%d] select() error: %s
+[0;31mE (%lu) %s: [sock=%d] select() timeout
+[0;31mE (%lu) %s: [sock=%d] set blocking/nonblocking error: %s
+[0;31mE (%lu) %s: Aborting.
+[0;31mE (%lu) %s: AES context in invalid state!
+[0;31mE (%lu) %s: All channels should have same conn handle
+[0;31mE (%lu) %s: alloc for event loop failed
+[0;31mE (%lu) %s: alloc for new id node failed
+[0;31mE (%lu) %s: alloc for new loop node failed
+[0;31mE (%lu) %s: alloc mem for new base node failed
+[0;31mE (%lu) %s: Allocation failed
+[0;31mE (%lu) %s: asprintf() returned: %d
+[0;31mE (%lu) %s: Asynchronous mode doesn't work for HTTP based connection
+[0;31mE (%lu) %s: attr length (%d) > max (%d)
+[0;31mE (%lu) %s: Audio mutex not initialized!
+[0;31mE (%lu) %s: Base MAC must be a unicast MAC
+[0;31mE (%lu) %s: Bind [sock=%d] to interface %s fail
+[0;31mE (%lu) %s: ble_hs_stop: failed to terminate connection; rc=%d
+[0;31mE (%lu) %s: ble_hs_stop_terminate_timeout_cb,%d connection(s) still up 
+[0;31mE (%lu) %s: ble_sm_pair_fail_tx failed, rc = %d
+[0;31mE (%lu) %s: bootloader_flash_read failed at 0x%08lx
+[0;31mE (%lu) %s: bootloader_mmap(0x%lx, 0x%lx) failed
+[0;31mE (%lu) %s: Buffer length is small to fit all the headers
+[0;31mE (%lu) %s: Can not enable ISR (0x%0x)
+[0;31mE (%lu) %s: Cannot start esp_netif: esp_netif must not be null
+[0;31mE (%lu) %s: Cannot start esp_netif: Missing mandatory configuration:
+[0;31mE (%lu) %s: Checksum failed. Calculated 0x%x read 0x%x
+[0;31mE (%lu) %s: chip %s doesn't support reading unique id
+[0;31mE (%lu) %s: Client certificate is also required with the DS parameters
+[0;31mE (%lu) %s: Client error (%d)
+[0;31mE (%lu) %s: Client has not been initialized
+[0;31mE (%lu) %s: client or url must not NULL
+[0;31mE (%lu) %s: Complete headers were not received
+[0;31mE (%lu) %s: config should have either URL or host & path
+[0;31mE (%lu) %s: Connection closed before complete data was received!
+[0;31mE (%lu) %s: Connection closed, errno = %d
+[0;31mE (%lu) %s: Connection failed
+[0;31mE (%lu) %s: Connection failed, sock < 0
+[0;31mE (%lu) %s: Connection failed: errno %d
+[0;31mE (%lu) %s: controller deinit failed
+[0;31mE (%lu) %s: controller disable failed
+[0;31mE (%lu) %s: Controller doesn't support LE
+[0;31mE (%lu) %s: controller enable failed
+[0;31mE (%lu) %s: controller init failed
+[0;31mE (%lu) %s: Could not allocate memory for internal DS operations
+[0;31mE (%lu) %s: Couldn't allocate memory to upgrade data buffer
+[0;31mE (%lu) %s: couldn't get hostname for :%s: getaddrinfo() returns %d, addrinfo=%p
+[0;31mE (%lu) %s: CPU %d: %s
+[0;31mE (%lu) %s: CRC check failed: expected 0x%04X, got 0x%04X
+[0;31mE (%lu) %s: create event loop mutex failed
+[0;31mE (%lu) %s: create event loop queue failed
+[0;31mE (%lu) %s: create task for loop failed
+[0;31mE (%lu) %s: create_ssl_handle failed
+[0;31mE (%lu) %s: data read %d, errno %d
+[0;31mE (%lu) %s: Deep sleep request is rejected
+[0;31mE (%lu) %s: Detected size(%dk) smaller than the size in the binary image header(%dk). Probe failed.
+[0;31mE (%lu) %s: device does not have any available bt address!
+[0;31mE (%lu) %s: dhcp client start failed
+[0;31mE (%lu) %s: DHCP server cannot be started
+[0;31mE (%lu) %s: dhcpc cb: failed to post got ip event (%x)
+[0;31mE (%lu) %s: dhcps cb: failed to post IP_EVENT_AP_STAIPASSIGNED (%x)
+[0;31mE (%lu) %s: Disconnected from AP, reason: %d
+[0;31mE (%lu) %s: DNS lookup failed
+[0;31mE (%lu) %s: ds_lock could not be obtained in specified time
+[0;31mE (%lu) %s: EFUSE MAC can not be set using this API
+[0;31mE (%lu) %s: eFuse MAC_CUSTOM is empty
+[0;31mE (%lu) %s: empty arg passed to esp_tls_get_bytes_avail()
+[0;31mE (%lu) %s: Error allocate memory
+[0;31mE (%lu) %s: Error in EFUSE_RD_REPEAT_DATA%d_REG of BLOCK0 (error_reg=0x%08lx, data_reg=0x%08lx). Need to reboot
+[0;31mE (%lu) %s: Error in esp_ds_finish_sign, returned %d 
+[0;31mE (%lu) %s: Error in esp_ds_start_sign, returned %d 
+[0;31mE (%lu) %s: Error in mbedtls_pk_setup_rsa_alt, returned -0x%04X
+[0;31mE (%lu) %s: Error in obtaining socket fd for the session
+[0;31mE (%lu) %s: Error in obtaining the error handle
+[0;31mE (%lu) %s: Error in pkcs1_v15 encoding, returned %d
+[0;31mE (%lu) %s: Error initialize SSL Transport
+[0;31mE (%lu) %s: Error initialize transport
+[0;31mE (%lu) %s: Error parse url %s
+[0;31mE (%lu) %s: Error reading BASE MAC address
+[0;31mE (%lu) %s: Error response
+[0;31mE (%lu) %s: Error set configurations
+[0;31mE (%lu) %s: Error while removing IRK , rc = %x
+[0;31mE (%lu) %s: Error while removing LTK , rc = %x
+[0;31mE (%lu) %s: Error while setting default configurations
+[0;31mE (%lu) %s: Error write request
+[0;31mE (%lu) %s: Error, reach max_redirection_count count=%d
+[0;31mE (%lu) %s: Error, reached max_authorization_retries count=%d
+[0;31mE (%lu) %s: Error: esp_ota_write failed! err=0x%x
+[0;31mE (%lu) %s: error: sdu_len > chan->my_coc_mps (%d>%d)
+[0;31mE (%lu) %s: ESP HTTP client perform failed: %d
+[0;31mE (%lu) %s: esp netif api lock sem init fail
+[0;31mE (%lu) %s: esp netif api sync sem init fail
+[0;31mE (%lu) %s: esp netif cannot create tcpip_init semaphore
+[0;31mE (%lu) %s: esp_aes_dma_start failed, no DMA channel available
+[0;31mE (%lu) %s: esp_aes_dma_wait_complete failed
+[0;31mE (%lu) %s: esp_flash_get_size failed, flash error code: %d
+[0;31mE (%lu) %s: esp_https_ota_begin: Invalid argument
+[0;31mE (%lu) %s: esp_https_ota_perform: Invalid argument
+[0;31mE (%lu) %s: esp_https_ota_perform: Invalid state
+[0;31mE (%lu) %s: esp_intr_alloc failed (0x%x)
+[0;31mE (%lu) %s: esp_ota_begin failed (%s)
+[0;31mE (%lu) %s: esp_ota_set_boot_partition failed! err=0x%x
+[0;31mE (%lu) %s: esp_sha_dma_start failed, no DMA channel available
+[0;31mE (%lu) %s: esp_tls_conn_read error, errno=%s
+[0;31mE (%lu) %s: esp_tls_conn_write error, errno=%s
+[0;31mE (%lu) %s: esp_wifi_get_mac failed with %d
+[0;31mE (%lu) %s: esp_wifi_internal_reg_rxcb for if=%d failed with %d
+[0;31mE (%lu) %s: esp_wifi_register_if_rxcb for if=%p failed with %d
+[0;31mE (%lu) %s: ESP-AES ISR initialisation failed
+[0;31mE (%lu) %s: event_loop was NULL
+[0;31mE (%lu) %s: event_loop_args was NULL
+[0;31mE (%lu) %s: Fail to setsockopt SO_KEEPALIVE
+[0;31mE (%lu) %s: Fail to setsockopt SO_RCVTIMEO
+[0;31mE (%lu) %s: Fail to setsockopt SO_SNDTIMEO
+[0;31mE (%lu) %s: Fail to setsockopt TCP_KEEPCNT
+[0;31mE (%lu) %s: Fail to setsockopt TCP_KEEPIDLE
+[0;31mE (%lu) %s: Fail to setsockopt TCP_KEEPINTVL
+[0;31mE (%lu) %s: Failed to acquire DMA channel, Err=%d
+[0;31mE (%lu) %s: Failed to acquire mutex for sending
+[0;31mE (%lu) %s: Failed to allocate %lu bytes (free heap size %lu)
+[0;31mE (%lu) %s: Failed to allocate AES interrupt %d
+[0;31mE (%lu) %s: Failed to allocate buf memory
+[0;31mE (%lu) %s: Failed to allocate memory
+[0;31mE (%lu) %s: Failed to allocate memory for audio_url
+[0;31mE (%lu) %s: Failed to allocate memory for host header
+[0;31mE (%lu) %s: Failed to allocate memory for HTTP header
+[0;31mE (%lu) %s: Failed to allocate memory for msgId string!
+[0;31mE (%lu) %s: failed to allocate memory for RF calibration data
+[0;31mE (%lu) %s: Failed to allocate memory for storing decoded data
+[0;31mE (%lu) %s: Failed to allocate RSA interrupt %d
+[0;31mE (%lu) %s: failed to configure restored IRK
+[0;31mE (%lu) %s: failed to copy device address, error code: %d
+[0;31mE (%lu) %s: Failed to create ACK Sleep packet payload!
+[0;31mE (%lu) %s: Failed to create ACK Voice packet payload!
+[0;31mE (%lu) %s: Failed to create ACK Volume packet payload!
+[0;31mE (%lu) %s: Failed to create audio data packet (len: %lu)
+[0;31mE (%lu) %s: Failed to create BREAK packet!
+[0;31mE (%lu) %s: Failed to create cJSON object for ACK Sleep.
+[0;31mE (%lu) %s: Failed to create cJSON object for ACK Voice.
+[0;31mE (%lu) %s: Failed to create cJSON object for ACK Volume.
+[0;31mE (%lu) %s: Failed to create cJSON object for CONNECT signal.
+[0;31mE (%lu) %s: Failed to create CLOSE_CONNECTION packet!
+[0;31mE (%lu) %s: Failed to create CONNECT packet payload!
+[0;31mE (%lu) %s: Failed to create dhcp server handle
+[0;31mE (%lu) %s: Failed to create heartbeat timer
+[0;31mE (%lu) %s: Failed to create intr semaphore
+[0;31mE (%lu) %s: Failed to create socket (family %d socktype %d protocol %d)
+[0;31mE (%lu) %s: Failed to create START_RECORDING packet!
+[0;31mE (%lu) %s: Failed to create wifi interface handle
+[0;31mE (%lu) %s: Failed to deinit Wi-Fi (0x%x)
+[0;31mE (%lu) %s: Failed to deinit Wi-Fi driver (0x%x)
+[0;31mE (%lu) %s: Failed to establish HTTP connection
+[0;31mE (%lu) %s: failed to find connection by handle, error code: %d
+[0;31mE (%lu) %s: Failed to generate local IRK
+[0;31mE (%lu) %s: failed to get chip size
+[0;31mE (%lu) %s: failed to infer address type, error code: %d
+[0;31mE (%lu) %s: Failed to init supplicant (0x%x)
+[0;31mE (%lu) %s: Failed to initialise HTTP connection
+[0;31mE (%lu) %s: Failed to initialize DS parameters from nvs
+[0;31mE (%lu) %s: Failed to initialize HTTP client
+[0;31mE (%lu) %s: Failed to initialize new connection object
+[0;31mE (%lu) %s: failed to initialize nimble stack, error code: %d 
+[0;31mE (%lu) %s: failed to initialize nvs flash, error code: %d 
+[0;31mE (%lu) %s: Failed to initialize pk context for esp_ds
+[0;31mE (%lu) %s: Failed to initialize request data
+[0;31mE (%lu) %s: failed to obtain PHY init data
+[0;31mE (%lu) %s: Failed to open a new connection
+[0;31mE (%lu) %s: Failed to open a new connection: %d
+[0;31mE (%lu) %s: Failed to open HTTP connection: %s
+[0;31mE (%lu) %s: Failed to open new connection
+[0;31mE (%lu) %s: Failed to parse JSON response
+[0;31mE (%lu) %s: Failed to post http_client event: %ld, error: %s
+[0;31mE (%lu) %s: Failed to post https_ota event: %s
+[0;31mE (%lu) %s: Failed to print cJSON to string for ACK Sleep.
+[0;31mE (%lu) %s: Failed to print cJSON to string for ACK Voice.
+[0;31mE (%lu) %s: Failed to print cJSON to string for ACK Volume.
+[0;31mE (%lu) %s: Failed to print cJSON to string for CONNECT signal.
+[0;31mE (%lu) %s: failed to set advertising data, error code: %d
+[0;31mE (%lu) %s: Failed to set client configurations, returned [0x%04X] (%s)
+[0;31mE (%lu) %s: Failed to set client pki context
+[0;31mE (%lu) %s: Failed to set client pki context for the DS peripheral, returned [0x%04X] (%s)
+[0;31mE (%lu) %s: failed to set device name to %s, error code: %d
+[0;31mE (%lu) %s: Failed to set Memprot feature (0x%08X: %s), rebooting.
+[0;31mE (%lu) %s: failed to set scan response data, error code: %d
+[0;31mE (%lu) %s: Failed to set server configurations, returned [0x%04X] (%s)
+[0;31mE (%lu) %s: Failed to set server pki context
+[0;31mE (%lu) %s: Failed to set URL
+[0;31mE (%lu) %s: failed to start advertising, error code: %d
+[0;31mE (%lu) %s: Failed to take audio mutex
+[0;31mE (%lu) %s: failed to update connection parameters, error code: %d
+[0;31mE (%lu) %s: Fatal error: TLSP deletion callback at index %d overwritten with non-excutable pointer %p
+[0;31mE (%lu) %s: File not found(%d)
+[0;31mE (%lu) %s: global_cacert is NULL
+[0;31mE (%lu) %s: GPIO_PIN mask error 
+[0;31mE (%lu) %s: hci deinit failed
+[0;31mE (%lu) %s: hci inits failed
+[0;31mE (%lu) %s: HCI process ack returned %d 
+[0;31mE (%lu) %s: HCI wait for ack returned %d 
+[0;31mE (%lu) %s: Host not enabled. Dropping the packet!
+[0;31mE (%lu) %s: HTTP request failed: %s
+[0;31mE (%lu) %s: http_client_init_cb returned 0x%x
+[0;31mE (%lu) %s: image at 0x%lx has invalid magic byte (nothing flashed here?)
+[0;31mE (%lu) %s: image at 0x%lx segment count %d exceeds max %d
+[0;31mE (%lu) %s: Image hash failed - image is corrupt
+[0;31mE (%lu) %s: Image length %lu doesn't fit in partition length %lu
+[0;31mE (%lu) %s: image offset has wrapped
+[0;31mE (%lu) %s: Image requires chip rev <= v%d.%d, but chip is v%d.%d
+[0;31mE (%lu) %s: Image requires chip rev >= v%d.%d, but chip is v%d.%d
+[0;31mE (%lu) %s: Image requires efuse blk rev <= v%lu.%lu, but chip is v%lu.%lu
+[0;31mE (%lu) %s: Image requires efuse blk rev >= v%lu.%lu, but chip is v%lu.%lu
+[0;31mE (%lu) %s: init function %p has failed (0x%x), aborting
+[0;31mE (%lu) %s: Initial configuration of esp_netif failed with %d
+[0;31mE (%lu) %s: Invalid app image header
+[0;31mE (%lu) %s: Invalid argument: supplied netif=%p does not equal to interface netif=%p
+[0;31mE (%lu) %s: Invalid arguments passed
+[0;31mE (%lu) %s: Invalid controller task prioriy or stack size
+[0;31mE (%lu) %s: Invalid digest in DS data reported by esp_ds_finish_sign
+[0;31mE (%lu) %s: Invalid ESP HTTPS OTA State
+[0;31mE (%lu) %s: invalid esp-tls state
+[0;31mE (%lu) %s: Invalid frame header: 0x%04X
+[0;31mE (%lu) %s: invalid host
+[0;31mE (%lu) %s: Invalid JSON format: missing 'data' field
+[0;31mE (%lu) %s: Invalid JSON format: missing or invalid 'checkResult'
+[0;31mE (%lu) %s: Invalid JSON format: missing or invalid 'failCode'
+[0;31mE (%lu) %s: Invalid JSON format: missing or invalid 'serverTime'
+[0;31mE (%lu) %s: invalid mode %d, controller support mode is %d
+[0;31mE (%lu) %s: Invalid msg_length: exceeds packet size!
+[0;31mE (%lu) %s: Invalid parameters
+[0;31mE (%lu) %s: Invalid parameters or disconnected
+[0;31mE (%lu) %s: invalid partition table, no app partitions
+[0;31mE (%lu) %s: invalid segment length 0x%lx
+[0;31mE (%lu) %s: Invalid state
+[0;31mE (%lu) %s: invalid static ip
+[0;31mE (%lu) %s: Invalid value of ble_max_act
+[0;31mE (%lu) %s: ip lost timer: failed to post lost ip event (%x)
+[0;31mE (%lu) %s: ISR init failed
+[0;31mE (%lu) %s: load_partitions returned 0x%x
+[0;31mE (%lu) %s: Low power module initialization failed
+[0;31mE (%lu) %s: MAC address (type %d) is not set in mac table
+[0;31mE (%lu) %s: MAC address generation error
+[0;31mE (%lu) %s: mac address param is NULL
+[0;31mE (%lu) %s: Malloc failed
+[0;31mE (%lu) %s: mbedtls_ctr_drbg_seed returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_pk_parse_keyfile returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_ssl_conf_alpn_protocols returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_ssl_conf_own_cert returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_ssl_config_defaults returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_ssl_handshake returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_ssl_set_hostname returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_ssl_setup returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_x509_crt_parse of CA cert returned -0x%04X
+[0;31mE (%lu) %s: mbedtls_x509_crt_parse of public cert returned -0x%04X
+[0;31mE (%lu) %s: Memory allocation failed for audio_url
+[0;31mE (%lu) %s: Memory allocation failed for extra_info
+[0;31mE (%lu) %s: Memory allocation failed for msg_id
+[0;31mE (%lu) %s: Memory allocation failed for msg_text
+[0;31mE (%lu) %s: Memory allocation failed for packet
+[0;31mE (%lu) %s: Memory allocation failed for response_code
+[0;31mE (%lu) %s: Memprot feature locked after the system reset! Potential safety corruption, rebooting.
+[0;31mE (%lu) %s: Mismatch chip id, expected %d, found %d
+[0;31mE (%lu) %s: Missing server certificate and/or key
+[0;31mE (%lu) %s: mmap otadata filed. Err=0x%8x
+[0;31mE (%lu) %s: mutex for the DS session lock could not be created
+[0;31mE (%lu) %s: mutex init failed with reason %d 
+[0;31mE (%lu) %s: nd6 cb: failed to post IP_EVENT_GOT_IP6 (%x)
+[0;31mE (%lu) %s: netstack cb reg failed with %d
+[0;31mE (%lu) %s: NETWORK UNSUPPORTED
+[0;31mE (%lu) %s: nimble host deinit failed
+[0;31mE (%lu) %s: nimble host init failed
+[0;31mE (%lu) %s: No aad supplied
+[0;31mE (%lu) %s: No AES context supplied
+[0;31mE (%lu) %s: No free interrupt inputs for %s interrupt (flags 0x%X)
+[0;31mE (%lu) %s: No GCM context supplied
+[0;31mE (%lu) %s: No input supplied
+[0;31mE (%lu) %s: No IV offset supplied
+[0;31mE (%lu) %s: No IV supplied
+[0;31mE (%lu) %s: No MD5 found in partition table
+[0;31mE (%lu) %s: No memory to create a wifi interface handle
+[0;31mE (%lu) %s: No nonce offset supplied
+[0;31mE (%lu) %s: No nonce supplied
+[0;31mE (%lu) %s: No option for server verification is enabled in esp_http_client config.
+[0;31mE (%lu) %s: No output length supplied
+[0;31mE (%lu) %s: No output supplied
+[0;31mE (%lu) %s: No record found for the given address in ble store , rc = %x
+[0;31mE (%lu) %s: No server verification option set in esp_tls_cfg_t structure. Check esp_tls API reference
+[0;31mE (%lu) %s: No stream supplied
+[0;31mE (%lu) %s: no such vaddr range
+[0;31mE (%lu) %s: No transport found
+[0;31mE (%lu) %s: Not enough memory to create timer task
+[0;31mE (%lu) %s: not enough resources, aborting
+[0;31mE (%lu) %s: not found otadata
+[0;31mE (%lu) %s: not found the handle
+[0;31mE (%lu) %s: notify error
+[0;31mE (%lu) %s: notify error, no connection
+[0;31mE (%lu) %s: OTA begin failed: %s
+[0;31mE (%lu) %s: OTA finish failed: %s
+[0;31mE (%lu) %s: OTA image has invalid magic byte (expected 0xE9, saw 0x%02x)
+[0;31mE (%lu) %s: OTA perform failed: %s
+[0;31mE (%lu) %s: Out of buffer
+[0;31mE (%lu) %s: Packet length mismatch: offset=%zu, total_len=%zu
+[0;31mE (%lu) %s: Packet too short for audio_url
+[0;31mE (%lu) %s: Packet too short for audio_url_len
+[0;31mE (%lu) %s: Packet too short for CRC
+[0;31mE (%lu) %s: Packet too short for create_time
+[0;31mE (%lu) %s: Packet too short for extra_info
+[0;31mE (%lu) %s: Packet too short for extra_info_len
+[0;31mE (%lu) %s: Packet too short for msg_id
+[0;31mE (%lu) %s: Packet too short for msg_id_len
+[0;31mE (%lu) %s: Packet too short for msg_text
+[0;31mE (%lu) %s: Packet too short for msg_text_len
+[0;31mE (%lu) %s: Packet too short for response_code
+[0;31mE (%lu) %s: Packet too short for response_code_len
+[0;31mE (%lu) %s: Packet too small to parse
+[0;31mE (%lu) %s: paddr block is overlapped with an already mapped paddr block
+[0;31mE (%lu) %s: partition size 0x%lx invalid, larger than 16MB
+[0;31mE (%lu) %s: Partition table MD5 mismatch
+[0;31mE (%lu) %s: Passive OTA partition not found
+[0;31mE (%lu) %s: Password incorrect
+[0;31mE (%lu) %s: play-------------
+[0;31mE (%lu) %s: Please enable secure element support for ESP-TLS in menuconfig
+[0;31mE (%lu) %s: Please enable the support for signing using ECDSA peripheral in menuconfig.
+[0;31mE (%lu) %s: poll_read select error %d, errno = %s, fd = %d
+[0;31mE (%lu) %s: poll_write select error %d, errno = %s, fd = %d
+[0;31mE (%lu) %s: Post-attach callback of driver(%p) failed with %d
+[0;31mE (%lu) %s: Print CPU %d (current core) backtrace
+[0;31mE (%lu) %s: psk_hint_key configured but not enabled in menuconfig: Please enable ESP_TLS_PSK_VERIFICATION option
+[0;31mE (%lu) %s: Range of data does not match the coding scheme
+[0;31mE (%lu) %s: rbuffer is NULL
+[0;31mE (%lu) %s: Reached max_authorization_retries (%d)
+[0;31mE (%lu) %s: read error :-0x%04zX
+[0;31mE (%lu) %s: Received HCI data length at host (%d) exceeds maximum configured HCI event buffer size (%d).
+[0;31mE (%lu) %s: Received incorrect http status %d
+[0;31mE (%lu) %s: Received status %d 
+[0;31mE (%lu) %s: REGI2C_SARADC is already disabled
+[0;31mE (%lu) %s: Registered deepsleep callbacks exceeds MAX_DSLP_HOOKS
+[0;31mE (%lu) %s: registering to any event base with specific id unsupported
+[0;31mE (%lu) %s: Required controller version is 4.0 (6)
+[0;31mE (%lu) %s: rmt_encoder_simple: encoder callback returned 0 when fed a buffer of config::min_chunk_size!
+[0;31mE (%lu) %s: RSA length mismatch %u, %u
+[0;31mE (%lu) %s: rx_buffered_len error
+[0;31mE (%lu) %s: Segment %d load address 0x%08lx, doesn't match data 0x%08lx
+[0;31mE (%lu) %s: sem init failed with reason: %d 
+[0;31mE (%lu) %s: Send failed: errno %d
+[0;31mE (%lu) %s: Server error (%d)
+[0;31mE (%lu) %s: setsockopt(TCP_NODELAY) failed: errno %d (%s)
+[0;31mE (%lu) %s: SHA DMA buf_len cannot exceed max size for a single block
+[0;31mE (%lu) %s: size is too small
+[0;31mE (%lu) %s: SLEEP_MODE_1 enabled but sleep clock not configured
+[0;31mE (%lu) %s: SLEEP_MODE_1 is enabled but this sleep clock is not supported
+[0;31mE (%lu) %s: SOC_RESERVE_MEMORY_REGION region range 0x%08x - 0x%08x overlaps with 0x%08x - 0x%08x
+[0;31mE (%lu) %s: Socket creation failed: errno %d
+[0;31mE (%lu) %s: spi_flash_mmap failed: 0x%x
+[0;31mE (%lu) %s: SSID not found
+[0;31mE (%lu) %s: suspended task for loop %p
+[0;31mE (%lu) %s: sys_init: failed to init lwip protect mutex
+[0;31mE (%lu) %s: Target frequency %dMHz higher than supported.
+[0;31mE (%lu) %s: Task is already initialized
+[0;31mE (%lu) %s: tcp_read error, errno=%s
+[0;31mE (%lu) %s: tcp_write error, errno=%s
+[0;31mE (%lu) %s: This authentication method is not supported: %s
+[0;31mE (%lu) %s: thread_sem_init: out of memory
+[0;31mE (%lu) %s: Timed out waiting for completion of AES Interrupt
+[0;31mE (%lu) %s: Timed out waiting for completion of MPI Interrupt
+[0;31mE (%lu) %s: timer ISR is already initialized
+[0;31mE (%lu) %s: timer start failed
+[0;31mE (%lu) %s: transport_read: error - %d | %s
+[0;31mE (%lu) %s: tried to bootloader_mmap twice
+[0;31mE (%lu) %s: UART driver already installed
+[0;31mE (%lu) %s: UART driver malloc error
+[0;31mE (%lu) %s: unaligned segment length 0x%lx
+[0;31mE (%lu) %s: unexpected access operation to heart rate characteristic, opcode: %d
+[0;31mE (%lu) %s: UNEXPECTED EVENT
+[0;31mE (%lu) %s: Unexpected HTTP response code: %d
+[0;31mE (%lu) %s: Unknown error
+[0;31mE (%lu) %s: Unknown event
+[0;31mE (%lu) %s: Unknown pull up/down mode,gpio_num=%u,pull=%u
+[0;31mE (%lu) %s: Unknown wifi interface id if=%d
+[0;31mE (%lu) %s: unregistering to any event base with specific id unsupported
+[0;31mE (%lu) %s: unsupported mac type
+[0;31mE (%lu) %s: Unsupported protocol family %d
+[0;31mE (%lu) %s: Unsupported protocol version
+[0;31mE (%lu) %s: Unsupported SHA type
+[0;31mE (%lu) %s: URL redirection Failed
+[0;31mE (%lu) %s: Wi-Fi not stop
+[0;31mE (%lu) %s: write data is invalid
+[0;31mE (%lu) %s: write error :-0x%04zX
+[0;31mE (%lu) %s: Write failed
+[0;31mE (%lu) %s: You have to provide both clientcert_buf and clientkey_buf for mutual authentication
+[0;32mI (%lu) %s: 
+[0;32mI (%lu) %s:  ------ xgzd_wifi_start_connect
+[0;32mI (%lu) %s:  adv_channel_map=%d own_addr_type=%d adv_filter_policy=%d adv_itvl_min=%d adv_itvl_max=%d
+[0;32mI (%lu) %s:  direct_addr_type=%d direct_addr=
+[0;32mI (%lu) %s:  scan_itvl=%d scan_window=%d itvl_min=%d itvl_max=%d latency=%d supervision_timeout=%d min_ce_len=%d max_ce_len=%d own_addr_type=%d
+[0;32mI (%lu) %s: !!!!!!!!!!!!!!!ss
+[0;32mI (%lu) %s: %02x:%02x:%02x:%02x:%02x:%02x
+[0;32mI (%lu) %s: %d
+[0;32mI (%lu) %s: %s
+[0;32mI (%lu) %s: %s automatic switching of GPIO sleep configuration
+[0;32mI (%lu) %s: %s ip: %d.%d.%d.%d, mask: %d.%d.%d.%d, gw: %d.%d.%d.%d
+[0;32mI (%lu) %s: _os_msys_find_pool failed (size %u)
+[0;32mI (%lu) %s: } 
+[0;32mI (%lu) %s: 111volume ---------------------------------
+[0;32mI (%lu) %s: 152 BLE binding completed
+[0;32mI (%lu) %s: 2222volume ---------------------------------
+[0;32mI (%lu) %s: accept mbox: %d
+[0;32mI (%lu) %s: ADC=%d AVG=%ld LVL=%d%%
+[0;32mI (%lu) %s: Adv reattempt failed; rc= %d 
+[0;32mI (%lu) %s: advertise complete; reason=%d
+[0;32mI (%lu) %s: advertising started!
+[0;32mI (%lu) %s: ALREADY NULL
+[0;32mI (%lu) %s: App version:      %s
+[0;32mI (%lu) %s: Application information:
+[0;32mI (%lu) %s: At %08X len %08X (%d KiB): %s
+[0;32mI (%lu) %s: att_handle=%d
+[0;32mI (%lu) %s: Audio TCP connected
+[0;32mI (%lu) %s: base_mac:0x%02x,0x%02x,0x%02x,0x%02x,0x%02x,0x%02x
+[0;32mI (%lu) %s: batch
+[0;32mI (%lu) %s: Bluetooth MAC: %02x:%02x:%02x:%02x:%02x:%02x
+[0;32mI (%lu) %s: Bluetooth will use main XTAL as Bluetooth sleep clock.
+[0;32mI (%lu) %s: BT controller compile version [%s]
+[0;32mI (%lu) %s: Calling app_main()
+[0;32mI (%lu) %s: Certificate verified.
+[0;32mI (%lu) %s: characteristic read by nimble stack; attr_handle=%d
+[0;32mI (%lu) %s: characteristic read; conn_handle=%d attr_handle=%d
+[0;32mI (%lu) %s: Chip rev:         v%d.%d
+[0;32mI (%lu) %s: Compile time:     %s %s
+[0;32mI (%lu) %s: config default lang
+[0;32mI (%lu) %s: Configure to isolate all GPIO pins in sleep state
+[0;32mI (%lu) %s: connect to the AP fail
+[0;32mI (%lu) %s: connect to the AP start
+[0;32mI (%lu) %s: connected to ap SSID:%s password:%s
+[0;32mI (%lu) %s: Connected to TCP audio server
+[0;32mI (%lu) %s: Connected to TCP server
+[0;32mI (%lu) %s: connection %s; status=%d
+[0;32mI (%lu) %s: connection parameter update; conn_handle=%d itvl_min=%d itvl_max=%d latency=%d supervision_timeout=%d min_ce_len=%d max_ce_len=%d
+[0;32mI (%lu) %s: connection updated; status=%d
+[0;32mI (%lu) %s: controller reported invalid error code in conncomplete event: %u
+[0;32mI (%lu) %s: core_err=0x%02X %s
+[0;32mI (%lu) %s: count=%d 
+[0;32mI (%lu) %s: cpu freq: %d Hz
+[0;32mI (%lu) %s: detected chip: %s
+[0;32mI (%lu) %s: device language: %d
+[0;32mI (%lu) %s: device_info:%s
+[0;32mI (%lu) %s: DHCP server assigned IP to a client, IP is: %d.%d.%d.%d
+[0;32mI (%lu) %s: DHCP server started on interface %s with IP: %d.%d.%d.%d
+[0;32mI (%lu) %s: disc_mode=%d
+[0;32mI (%lu) %s: disconnected from peer; reason=%d
+[0;32mI (%lu) %s: don't need config default lang
+[0;32mI (%lu) %s: duration=%dms
+[0;32mI (%lu) %s: duration=forever
+[0;32mI (%lu) %s: ELF file SHA256:  %s...
+[0;32mI (%lu) %s: entry-%d={addr_type=%d addr=
+[0;32mI (%lu) %s: esp_transport_read returned:%d and errno:%d 
+[0;32mI (%lu) %s: esp_wifi_internal_set_sta_ip failed with %d
+[0;32mI (%lu) %s: ESP-IDF:          %s
+[0;32mI (%lu) %s: Failed to connect to SSID:%s, password:%s
+[0;32mI (%lu) %s: Failed to restore IRKs from store; status=%d
+[0;32mI (%lu) %s: Failed to verify peer certificate!
+[0;32mI (%lu) %s: flash io: %s
+[0;32mI (%lu) %s: Free internal: %u minimal internal: %u
+[0;32mI (%lu) %s: GAP procedure initiated: 
+[0;32mI (%lu) %s: GAP procedure initiated: advertise; 
+[0;32mI (%lu) %s: GAP procedure initiated: cancel connection
+[0;32mI (%lu) %s: GAP procedure initiated: connect; 
+[0;32mI (%lu) %s: GAP procedure initiated: discovery; 
+[0;32mI (%lu) %s: GAP procedure initiated: set whitelist; 
+[0;32mI (%lu) %s: GAP procedure initiated: stop advertising.
+[0;32mI (%lu) %s: GAP procedure initiated: terminate connection; conn_handle=%d hci_reason=%d
+[0;32mI (%lu) %s: GATT procedure initiated: %s
+[0;32mI (%lu) %s: got ip:%d.%d.%d.%d
+[0;32mI (%lu) %s: GPIO[%lu]| InputEn: %d| OutputEn: %d| OpenDrain: %d| Pullup: %d| Pulldown: %d| Intr:%d 
+[0;32mI (%lu) %s: hci_err=0x%02X %s
+[0;32mI (%lu) %s: Heartbeat timer started
+[0;32mI (%lu) %s: Heartbeat timer stopped
+[0;32mI (%lu) %s: host_url1: %s, port1: %lu, host_url2: %s, port2: %lu, register_url: %s
+[0;32mI (%lu) %s: host_url1: %s, port1: %lu, host_url2: %s, port2: %lu, register_url: %s, device_type: %s
+[0;32mI (%lu) %s: HTTP Status = %d, Content Length = %lld
+[0;32mI (%lu) %s: id: [%d]  event: [%d]  repeat: %d
+[0;32mI (%lu) %s: Initializing. RAM available for dynamic allocation:
+[0;32mI (%lu) %s: Local Time: %04d-%02d-%02d %02d:%02d:%02d
+[0;32mI (%lu) %s: long start
+[0;32mI (%lu) %s: LWIP IRAM OP enabled
+[0;32mI (%lu) %s: malloc failed (size %zu)
+[0;32mI (%lu) %s: Master reconnect attempt failed; rc = %d
+[0;32mI (%lu) %s: Max chip rev:     v%d.%d %s
+[0;32mI (%lu) %s: Min chip rev:     v%d.%d
+[0;32mI (%lu) %s: mtu update event; conn_handle=%d cid=%d mtu=%d
+[0;32mI (%lu) %s: nimble stack reset, reset reason: %d
+[0;32mI (%lu) %s: notify event; conn_handle=%d attr_handle=%d status=%d is_indication=%d
+[0;32mI (%lu) %s: ogf=0x%02x, ocf=0x%04x, core_err=0x%02X %s
+[0;32mI (%lu) %s: ogf=0x%02x, ocf=0x%04x, hci_err=0x%02X %s
+[0;32mI (%lu) %s: OTA Progress: %d%% (%d/%d bytes)
+[0;32mI (%lu) %s: OTA successful, restarting...
+[0;32mI (%lu) %s: own_addr_type=%d filter_policy=%d passive=%d limited=%d filter_duplicates=%d 
+[0;32mI (%lu) %s: Parsed checkResult: %s
+[0;32mI (%lu) %s: password not set
+[0;32mI (%lu) %s: password:%s
+[0;32mI (%lu) %s: peer_addr_type=%d peer_addr=
+[0;32mI (%lu) %s: phy_version %s
+[0;32mI (%lu) %s: Pro cpu start user code
+[0;32mI (%lu) %s: Project name:     %s
+[0;32mI (%lu) %s: Put all controller code in flash
+[0;32mI (%lu) %s: queue free spaces: %lu
+[0;32mI (%lu) %s: rc=%d
+[0;32mI (%lu) %s: Reattempt advertising; reason: 0x%x, status = %x
+[0;32mI (%lu) %s: Reattempt connection; reason = 0x%x, status = %d,reattempt count = %d 
+[0;32mI (%lu) %s: Received 
+[0;32mI (%lu) %s: Received  msg_text: %.*s 
+[0;32mI (%lu) %s: Received %d bytes from server
+[0;32mI (%lu) %s: Received custom volumeValue: %d
+[0;32mI (%lu) %s: Received OTA URL12345: %s
+[0;32mI (%lu) %s: Response Data: %s
+[0;32mI (%lu) %s: restart 1532
+[0;32mI (%lu) %s: retry to connect to the AP
+[0;32mI (%lu) %s: Returned from app_main()
+[0;32mI (%lu) %s: rx ba win: %d
+[0;32mI (%lu) %s: Saving new calibration data due to checksum failure or outdated calibration data, mode(%d)
+[0;32mI (%lu) %s: scan_enable
+[0;32mI (%lu) %s: segment %d: paddr=%08lx vaddr=%08x size=%05lxh (%6lu) %s
+[0;32mI (%lu) %s: Sending ACK for Set Voice (MsgType: %d, Status: %d, LangID: %d)
+[0;32mI (%lu) %s: Sending ACK for Set Volume (MsgType: %d, Status: %d, Volume: %d)
+[0;32mI (%lu) %s: Sending ACK for Sleep (MsgType: %d, Status: %d, Flag: %d)
+[0;32mI (%lu) %s: Sending BREAK signal
+[0;32mI (%lu) %s: Sending CLOSE_CONNECTION signal
+[0;32mI (%lu) %s: Sending CONNECT signal
+[0;32mI (%lu) %s: Sending START_RECORDING signal
+[0;32mI (%lu) %s: Sent %d bytes to server
+[0;32mI (%lu) %s: Skipping BREAK signal: Audio is currently being sent.
+[0;32mI (%lu) %s: ssid not set
+[0;32mI (%lu) %s: ssid:%s
+[0;32mI (%lu) %s: Start
+[0;32mI (%lu) %s: Started on CPU%d
+[0;32mI (%lu) %s: Starting HTTPS OTA, url: %s
+[0;32mI (%lu) %s: Starting OTA...
+[0;32mI (%lu) %s: subscribe event; conn_handle=%d attr_handle=%d reason=%d prevn=%d curn=%d previ=%d curi=%d
+[0;32mI (%lu) %s: TCP audio client task exiting
+[0;32mI (%lu) %s: TCP audio connection closed
+[0;32mI (%lu) %s: TCP client task exiting
+[0;32mI (%lu) %s: TCP Connected
+[0;32mI (%lu) %s: TCP connection closed
+[0;32mI (%lu) %s: tcp mbox: %d
+[0;32mI (%lu) %s: tcp mss: %d
+[0;32mI (%lu) %s: tcp rx win: %d
+[0;32mI (%lu) %s: tcp tx win: %d
+[0;32mI (%lu) %s: TCP_NODELAY enabled for socket %d
+[0;32mI (%lu) %s: tcpip mbox: %d
+[0;32mI (%lu) %s: Time synchronized: %lld (Epoch time in seconds)
+[0;32mI (%lu) %s: try bind children devices
+[0;32mI (%lu) %s: udp mbox: %d
+[0;32mI (%lu) %s: Unicore app
+[0;32mI (%lu) %s: vb6824 recv cmd: %04x, len: %d :%.*s
+[0;32mI (%lu) %s: volume ---------------------------------
+[0;32mI (%lu) %s: Waiting for BLE binding...
+[0;32mI (%lu) %s: Waiting for clean TCP connection...
+[0;32mI (%lu) %s: WiFi IRAM OP enabled
+[0;32mI (%lu) %s: WiFi RX IRAM OP enabled
+[0;32mI (%lu) %s: wifi_init_sta finished.
+[0;32mI (%lu) %s: Writing to <%s> partition at offset 0x%lx
+[0;32mI (%lu) %s: xgzd_tcp_audio_close1 %d
+[0;33mW (%lu) %s: 
+[0;33mW (%lu) %s: "qop" directive not found. This may lead to attacks like chosen-plaintext attack
+[0;33mW (%lu) %s: %s
+[0;33mW (%lu) %s: 32 kHz XTAL not found, switching to internal 150 kHz oscillator
+[0;33mW (%lu) %s: 32.768kHz XTAL not detected, fall back to main XTAL as Bluetooth sleep clock
+[0;33mW (%lu) %s: advertiser txpwr out of range
+[0;33mW (%lu) %s: Attempted to send empty audio data.
+[0;33mW (%lu) %s: Audio server disconnected
+[0;33mW (%lu) %s: calibration efuse version does not match, set default version to 0
+[0;33mW (%lu) %s: channel resolution loss, real=%lu
+[0;33mW (%lu) %s: Close connection due to FIN received
+[0;33mW (%lu) %s: Connection timed out before data was ready!
+[0;33mW (%lu) %s: Detected flash size > 16 MB, but access beyond 16 MB is not supported for this flash model yet.
+[0;33mW (%lu) %s: Detected size(%dk) larger than the size in the binary image header(%dk). Using the size in the binary image header.
+[0;33mW (%lu) %s: Disconnected or error, reconnecting...
+[0;33mW (%lu) %s: ESP_INTR_FLAG_IRAM flag is set while CONFIG_UART_ISR_IN_IRAM is not enabled, flag updated
+[0;33mW (%lu) %s: esp_transport_read returned:%d and errno:%d 
+[0;33mW (%lu) %s: Fail to enqueue pattern position, pattern queue is full.
+[0;33mW (%lu) %s: failed to load RF calibration data (0x%x), falling back to full calibration
+[0;33mW (%lu) %s: Failed to open new connection in specified timeout
+[0;33mW (%lu) %s: Failed to parse JSON
+[0;33mW (%lu) %s: Failed to unregister Rx callbacks
+[0;33mW (%lu) %s: Flash clock frequency round down to %d
+[0;33mW (%lu) %s: get_chip_caps function pointer hasn't been initialized
+[0;33mW (%lu) %s: GPIO %d is not usable, maybe conflict with others
+[0;33mW (%lu) %s: GPIO %d is not usable, maybe used by others
+[0;33mW (%lu) %s: handler already registered, overwriting
+[0;33mW (%lu) %s: Heartbeat timer already created, skipping.
+[0;33mW (%lu) %s: HW FIFO overflow, flushing UART.
+[0;33mW (%lu) %s: Internal 136kHz RC oscillator not detected.
+[0;33mW (%lu) %s: Internal 136kHz RC oscillator. The accuracy of this clock is a lot larger than 500ppm which is required in Bluetooth communication, so don't select this option in scenarios such as BLE connection state.
+[0;33mW (%lu) %s: Invalid data or length is zero
+[0;33mW (%lu) %s: Invalid frame header: 0x%04X, discarding 1 byte
+[0;33mW (%lu) %s: Invalid frame length: %ld
+[0;33mW (%lu) %s: Invalid or empty JSON data
+[0;33mW (%lu) %s: invalid RTC_XTAL_FREQ_REG value, assume 40MHz
+[0;33mW (%lu) %s: mbedtls_x509_crt_parse was partly successful. No. of failed certificates: %d
+[0;33mW (%lu) %s: Missing or invalid promptSoundId in JSON
+[0;33mW (%lu) %s: Missing or invalid volumeControlTypeEnum in JSON
+[0;33mW (%lu) %s: Missing or invalid volumeValue for VOLUME_SET_CUSTOM
+[0;33mW (%lu) %s: o_code calibration fail
+[0;33mW (%lu) %s: paddr block is mapped already, vaddr_start: %p, size: 0x%x
+[0;33mW (%lu) %s: Poll timeout or error, errno=%s, fd=%d, timeout_ms=%d
+[0;33mW (%lu) %s: Register shutdown handler failed, err = 0x%x
+[0;33mW (%lu) %s: Ring buffer full, flushing UART.
+[0;33mW (%lu) %s: TCP Disconnected
+[0;33mW (%lu) %s: This request requires authentication, but does not provide header information for that
+[0;33mW (%lu) %s: Timer not deleted
+[0;33mW (%lu) %s: TLS 1.3 is not enabled in config, continuing with default TLS protocol
+[0;33mW (%lu) %s: Unknown message type: %ld
+[0;33mW (%lu) %s: Unknown volumeControlTypeEnum: %s
+[1he
+[2H&
+[3_G#34
+[7D@
+[8}[
+[9e`
+[A:J
+[b&Q
+[Bj/o
+[br!:v
+[c[rH0
+[c4]
+[d{h
+[E+k"
+['e2
+[F;b
+[Fx+r
+[G*C
+[g*f
+[G\H
+[G=?
+[gQHEY}W
+[HMG
+[I5`R
+[ju8[\X
+[k:Z
+[k\`
+[L%F*
+[Lt(
+[''M
+[m.5'
+[m`b
+[m14`
+[NzVrq8
+[OLq
+-[-Q
+[qjLN?
+[t f
+[T(Y
+['t>
+[V:)2
+[vI<f
+[w8uW
+[Wcnh<O
+[WqK
+[WvS
+[Wx"
+[xQI
+[y{v
+[yC:o$k
+[YG'3
+[ySt
+[Z%P
+[zFo
+\ ?e
+\ DHT
+\ p)
+\!;k
+\"-bA
+\"mM6
+\#faP
+\#s 
+'\&P
+\)d6$
+\)DA<'
+\*H7TUS
+\,KG
+\.i"
+\/*GN
+\;9A
+\;if
+\?-T
+\@5Mz
+\]n7
+\^GA
+\_'7=
+\`?B
+\|j3
+\}<J
+\+&g
+\+Tq9w
+\<&P
+\<.#
+\<>r
+\<L\E
+\=`F
+\>!?
+\>|M
+\0#x%>
+\1;}
+\1HL
+\1lcKl
+\2$vEz
+\40%j
+\6{K!
+\7'o
+\Alf
+\Bwb&
+\Cj>
+\cSeY*
+\-cxLv
+\D3C=
+\DY0
+\e#b
+\F<<
+\f-1
+\gIR&
+\heS
+\hNB
+\iN8
+\IW&p
+\j!1-%
+\jGc
+\Jgp`
+\K'v^9
+\LCD
+\lHG
+\n A_
+\o[0
+\-o]
+'\O4q{X
+\P/e
+\Q>j
+\q6\R
+\qvW
+\-R@
+\R]M
+\Rc*
+\S+r
+\s6y
+\t?s^,<_
+\T0n2
+\tgyn
+\tJM
+\vI>
+\w::"
+\Xb'
+\xFU
+\xm]
+\Y1.
+\yg]i7d
+\Ynr:?
+\zJ|
+] g61
+] Nn
+] RZ
+]!)n
+]"B*
+]&"4
+]&,z
+](Wd
+])12
+]-*y
+],`sS2
+],9GZA
+],G,
+].\V
+]/yB
+]:4a?>_XA
+]:od
+];8c
+];F&
+];mnxW
+];ZM
+]?f^
+]@I4
+][=S%L
+]]m=2
+]^}W
+]`3n
+]`oC#Bueh
+]{H"-
+]{u|
+]~_;4
+]~L[
+-]++f?
+]>`F
+]'0<
+]3fJ
+]4A@g
+]65?
+]7>D
+]-8l
+]arT
+]AX@
+]'B(
+]b1{gX2V
+]'bA
+]Bl,
+]Bs-%
+]Bu:
+]cl,
+]d:<B
+]D5c
+]DKR
+]dl2M
+]DN~
+]dQfPi!9q
+]DS|
+]E1V
+]f/O
+]G2`
+]gpP'
+]h '
+]h$3
+]H]w
+]H+ah
+]hE,
+]hu`
+]i{&
+]jVI
+]jw)
+]l#$
+]le73
+]lj#D
+]LU.c# 
+]m[c
+]m-`
+]mKO<T
+]nUP
+]nVf
+]p}O
+]PN4
+]q`,
+]QXv
+]s!_
+]S%\
+]S[JO
+]S`z
+]t4KhM
+]tJp3H" 
+]T'w
+']u0
+]uP>|6I
+]VG>]
+]W0?
+]x5<
+]Xj)
+]y*w9MSQm
+]YCWz<
+]yq'Y0
+^ p&T
+^!UW
+^"C]L}o
+^"xYC=
+^%u#
+^)en
+^*aG4GBoF
+^,W2
+^,yi
+^::-
+^:+u9
+^:'b
+^;=U
+^;B7?
+^;k~#
+^?Lp
+^@],
+^@f_F
+^[)S
+^\}$
+^\~Amn
+^^@kyC
+^`00
+^|.v
+^|<7r|
+^~q2
+^=ta
+^>""
+^>.;J
+^>1+
+^07j
+^0I1
+^2;Q:
+^377
+^3T#<?c!
+^4Q1
+^4sl
+^6aLQ
+^728b
+^7Pe
+^8!?AY
+^9%r
+^9&:%=
+^9@:/
+^A(Z
+^a;b
+^aA1d
+^AqA.
+^B2"3
+-^bb
+^bTn
+^By8+
+^CG[s}
+^CR{
+^D+t7]h
+^Dz 
+^e*^ 
+^ErgD
+^F Y
+^fJ?
+^g.[/
+^G?"v
+^gAk@
+^Gd3P
+^H;zS/
+^hhN(g
+^izJ
+^j`]O)
+^k_vv
+^Ki=\
+^kJ?
+^L,b
+^Lb3
+^lX@+
+^MZ2
+^o}|
+^og4
+^P' 
+^pAxp
+^PM'li 
+^q)*
+^Q4%
+^qC~
+^R+zM,
+^s#I
+^s$57K_
+^s_v|*
+^SG,
+^SsP
+^sV^
+^tkE
+^TQ^
+^TS(p
+^u!Q/a
+^u@L
+^u3c!FU
+^U41
+^V.S
+^v;2
+^v{m
+^vkK}
+^W?K)Z
+^wt4K
+^X^*>Y
+^x~pi
+^XlS
+^xp%
+^Y+'J
+^yFP
+^yG[
+^YmAIc6
+_ T{
+_!dXa
+_"y(
+_$cZ
+_$--e
+_%m?
+_(e 
+_)@K
+_)1o
+_)nb
+_*sMR,hc
+_,@$
+_.Y0
+_:)nwwtb
+_;c8
+_@AW
+_[@3
+_[[K
+_]O!
+_]qvgd
+_-^k
+_^T 3
+__button_task
+__esp_system_init_fn_init_efuse
+__gnu_cxx::__concurrence_lock_error
+__gnu_cxx::__concurrence_unlock_error
+__Rp
+__send_task
+__uart_task
+_{9M
+_++Q
+_<Uh
+_>,n
+_0d=
+_1R>
+_4#`
+_5,Z
+_7cB
+_7i`
+_8vGa
+_9"x
+_9lb
+_bNP*
+_bpy
+_D8p
+_dxp
+_e"n3
+_E&6
+_E5c
+_G;'s
+_G{#p
+_g4dZ
+_gM[
+_h{P
+_H7S,
+_i?;
+_i5m
+_J~g
+_jaUD
+_jJ:
+_krC
+_lock_close
+_LqP
+_nvs_get_blob
+_nvs_get_blob_len
+_nvs_set_blob
+_Oxc~
+_pKk
+_q{1j
+_Q5D
+_QN@
+_R`y
+_r<K
+_RRM5Z
+_sM+
+_t$0
+_t`T
+_tiY
+_TsT
+_u]H
+_utR
+_V%oK
+_Vn#
+_VRQ
+_w;X"
+_w>i
+_woDAU
+_Yv$V
+_z+(
+_z87/
+_Zt^
+_zW(<
+`"{pj
+`"iZ
+`"YuI
+`#:8@|
+`#wW
+`%&P
+`&$K$h?
+`(J=
+`*DU| 
+`*Hd
+`,c~"
+`.;!
+`.o9
+`?k)
+`[Z`
+-`\0
+`\WE
+`]To
+`^B"o
+`^p<dR
+`__esp_system_init_fn_init_flash
+`_5]
+`-_Vi
+`_WGr
+`_YG
+``'!d
+`{3X
+`{xH
+`|^6
+`|J>c
+`<2L
+`=\(
+`>[HI
+`><>
+`0*c
+`2(,
+`5gZ
+`5m)9l
+`9`-
+`9N]
+`9nP
+`AgsM
+`b35D
+`b4t
+`bji
+`c(itFh3
+`cqbb}
+`cw?ou
+`d50t
+`e(b
+`e/v
+`eqM
+`F"o
+`F~}
+`f~D
+`F0{.
+`Fxz@
+`g"A
+`G\}zF
+`G5`}
+`h"[
+`h&t'A
+`H>i
+`h2`
+`h7G/
+`i8c
+`Kd@
+`l1U
+`lj/
+`mg+
+`mi8
+`MMr
+`n9F^
+`ncw
+`nJ`
+`o%}
+`o%P
+`OA_P
+`oKs
+`P$t
+`p<4
+`PaC(
+`q_:rz"i^
+`QaD
+`R{'
+`T%<;
+`'u'a
+`uKA
+`V`47
+`W|6
+`w6je
+`WM,t
+`X3d
+`-yW
+`Z,@}Fh
+`zj;7
+`zK 
+{"activeKey":"%s","bleDeviceId":"%s"}
+{"pv":%d,"h1":"%s","p1":%lu,"h2":"%s","p2":%lu,"r":"%s","ic":%d,"v":"%s","ct":"%s"}p
+{#;!
+{#AKV
+{$9~<
+{$NT
+{%*YI>
+{&7L|
+{&r$$
+{')p
+{-*&
+{*\:
+{,7cO
+{,h-
+{.^q
+{.A6
+{/nJ
+{;*d
+{;-[
+{;}J
+{;i~
+{@4H
+-{\`rn
+{\p/
+{\w'Q\
+{_NQ
+{`iG?
+{|j>
+{|VD
+{}3D
+{}4J
+{~VB
+{>/v{^
+{0*f
+{02I
+{1;taj/(
+{25z
+{2'A
+{3@l)
+{3[NDgF
+{4KKj
+{4yX
+{6}=
+{8{*
+{8~M
+{8T){
+{94o3
+{Ao,dcl
+{ApJ
+{Ax@
+{b~_
+{B7}q
+{C+;b
+{ca0{
+{d1(
+{D4<
+{e7=
+{F,'
+{F^KUfaJ
+{FCnE
+{ft^
+{FvC.
+{G~;
+{gj:
+{HoA
+{IXL
+{j"N
+{j(TX%j
+{j\`
+{j=e
+{JD;
+{kgL
+-{m&
+{N:I
+{NLgX
+{NVR
+{oV[
+{QKe?
+{R_O
+{R7b
+'{Rd
+{ryU
+{sR[,
+{Suz
+{TDX<4
+{UJ@t
+{V2d
+{VpD
+{W0+j
+{Wy$
+{wYwA
+{X3`-
+{X9O]
+{XN&
+{-Y{mt&
+{Y5S`
+{zqg
+|"^3X
+|#&n
+|#J=
+|$k2
+|&#J>;
+|(!"
+|(k=
+|)@qD@
+|)Cc
+|)K7
+|,3*X
+|,e"
+|,fX
+|,SE?
+|/61
+|:[Q%H
+|;2nf2-cD
+|?8U
+|?I{
+|@8'{i
+|[U>)0
+|]mP/
+|`0L
+|`8Y
+|`az
+|{oG
+|<5'
+|=+s
+|=N'jg`
+|> S
+|>=#:l
+|>h9
+|0l]|xF
+|13O
+|2'?
+|2_B
+|2Wc
+|2y]
+|5/f
+|6*)
+|7(1
+|7(p
+|7B.J
+|7E(
+|80 
+|8az
+|Abe
+|BKpB
+|c"f
+|c[N
+|c2?
+|CKP
+|d?4
+|E^6{
+|eE"
+|f<v
+|f5=s
+|G}z=
+|G5,I
+|GcE,/aN
+|Gd{0
+|gidL
+|gms
+|gZXy^
+|hu(K
+|Hx&
+|i2+F
+|IH9En
+|izFCM
+|J[-2mi
+|j3O
+|K%eh
+|K4'
+|L<m
+|m|2
+|mGz
+|nj#!3
+|npS{
+|OIZ7
+|oW|
+|Oz(
+|P*]
+|P7o
+|Pfa
+|pi5X
+|PmP
+|Q)Z
+|q*Sai
+|q<0
+|r.k
+|rx.
+|rxV
+|s1M
+|t{0
+|tAH
+|VE4
+|W_u
+|W};|
+|W<AV
+|Wsh
+|x:`
+|XE]0
+|Y!8
+|Y}P0
+} {OWY
+} RM
+-}!e
+}!v]G
+}&R,
+})MA
+}*Zb
+}._h
+}/%}
+-}:C9
+}:r%
+};$Fs
+};DF
+}?ZQ
+}@^!
+}]I\H
+}^&~
+}_N/
+}{D6O
+}{lhL
+}}h)4
+}+|)
+}<7!?h"
+}>$-4
+}>]w
+}0}$S
+}0c$
+}2>D
+}30P_
+}3F^>
+}6)]
+}6\O
+}7qv
+}7t`
+}8~]X
+}9G-
+}a%M
+}B_#
+}b|g
+}b5a
+}BXE<
+}cF,
+}cGYd
+}D'P
+}dU5<
+}e~9A
+}fA2
+}G0a
+}H28
+}h8W@
+}Iwvx
+}J Q
+}j5du
+}Jb}
+}Jw\
+}jWR
+}K@n
+}L!-{
+}L(4
+}l7h
+}LtfX
+}lZQ
+}n"g
+}n*z
+}NtP
+}PAT
+}PI?C6x
+}po'
+}q<o
+}rG}
+}sC=
+}Sq=Z:
+}V!%
+}V7)
+}Vi@
+}vrr
+}VX@
+}w[#
+}wNj#
+}wTF
+}xhx
+}Y=E
+}yiy
+}yk'{
+}-Yp
+}Yq}
+}ysr@
+}z<Q
+}zB/DM
+}zh.f
+}zki{
+}Zl\
+}Zsa
+~ ^AP
+~!LY9L
+~"X,
+~%$R`
+~(=u3G
+~)+M
+~)VJ
+~*1%
+~,Yk
+~.4D
+~.fbC
+~/^U
+~:"5S
+~:YE
+~-;9h
+~?:t
+~?f!
+~?Pc
+~@5.
+~@Y`
+~[Lj
+~[Z8
+~]lT
+~|7;kp
+~|dk
+~~-,WD
+~+(B
+~<ZP
+~=[sG
+~={A
+~=i`
+~=W*
+~>1?
+~1F?
+~1y$
+~'23
+~2LBg
+~7Gv
+~84Y
+~8cs
+~''9
+~9]L
+~A%`
+~A;!
+~a3R
+~b3.Y
+~C_!
+~d<!
+~dQr
+~E4K
+~fo`c
+~Gi}
+~i:N
+~IF"
+~JM]
+~jp&
+~jt])c
+~k6g
+~Kez
+~l'0
+~liM
+~m/14?!
+'~Ma
+~NfEo(
+~o,~
+~o{q
+~O|"
+~o-R>
+~o-y
+~OYnoRlo
+~'OZ
+~p?R
+~P2(S
+-~QmZ9
+~QoLJ
+~Rld
+~RSi
+~s)k
+~S;$
+~T&>\
+~uo)|
+~uQ 
+~V9Yf
+~vgp
+~VU*#X
+~W1M
+~WIRh
+~wkq
+~wn;
+~x0#
+~xmr
+~Xn2
+~y~1
+~yCi'[
+~yOi
+~Z{D
+~zbDt
++ ?H
++!/D
++$/2Z
++%>G
++(j#
++(k3
++)f:
++.R7g~
++.RT
++:]@
++:tS
++;%(
++;ii
++;V.#
++[&{
++[<V
++^^a
++^_H
++^I|
++{zm
++|`^sp"y
++}wzZ2u
++~y4
+++[3x
++=6#q
++>(4
++>-`
++1m4
++5/[]
++6^k
++6{Y
++6Al
++6eGj
++6I3
+-+6xH
++7af
++8W6J
++aM0([1
+-+B?
++B`T
++BRp
++D A!
++D!a
+-+dV
++eRh
++g)0P
++GA]
++h?N
++h~H*
++i].
++IdV
++ITlo?
++iw6
++jwF
++K/`
++Kg5
++kGD
++l*?
++lwL
++M8x
++o|l
++Oqa
++Ov$
++P;Pw
++pf%
++PWm{
++R:W
++RfD]
++rNmSS
++s#7d
++S+H%
++S31
++TX|cA
++U@}h+k
++U\F
++U|]
++v;~
++vEj
++VGf
++WUd
++x%6
++X^V=
++x{~
++Xf&
++xkWe
++y"r
++YU}x
++Z-^
++Z+l
++ZD5L
+< yO
+<!YP
+<#6J
+<%;K
+<,LO
+<,Lv
+<."u
+</>t\
+</2c
+</Us
+<-;Lk
+<?Dc
+<?i#<
+<[+5m,m
+<[CX
+<\`1
+<\y%7#9
+<]rB
+<^xa
+<^Z=
+<_77
+<_Fa]
+<`av
+<`Yf
+<{_ 
+<| [p
+<}p5
+<}r5
+'<~S
+<+ap
+<<h&.@
+<<ws
+<06PPu
+<0sF
+<0t 
+<2n1
+<4Ks
+<5!q
+<5Xd
+<6YI
+<8Y^
+<9/fp
+<aCD.l
+<b;NU
+<b\YF
+<B}B
+<bAk
+<Bx_
+<Ca4NG
+<CQ{
+<D23
+<doD
+<dP_B
+<e"h
+<EJ0'
+<EPb
+<ERROR
+<esp_log_cache_get_level
+<Fk>
+<g%x
+<g1<w
+<'G5:]
+<ge)B
+<GQ9d
+<h6s
+<hph
+<iB>
+<j5V
+<KA0
+<kkW
+<kv5
+<l h
+<mbs
+<O}??
+<Ot(
+<pwz
+<Q;j
+<qxQ
+<R#rS
+<R%A
+<R(T
+-<r]
+<R2#
+<R3y
+<R4+
+<RL/
+<sa^.
+<T&IGk
+<T\j
+<T<`
+<tf 
+<unN=$P
+<urr
+<vC:C
+<W<QJ
+<wDj
+<x=JC
+<YPg5
+<yXe
+<Z,p
+<Z6$~
+<Z6xg3
+= \%
+=!ci
+=!E.G'
+=$t 
+=%b^
+=(<c
+=)2{
+=)e1
+=)my
+=* c
+=,(ff
+=,.d
+=/]5
+=/307&mo
+=:g>
+=@23
+-=@O
+=\-@
+=]FNj
+=^8,
+=^gB
+=^rv
+=`}VKj8
+=|%;
+=|\P
+=}+3
+=+|1o
+==%]v$@
+=0f.
+=0FCM
+=0TYG
+=1-;
+=3>f
+=49W
+-=4o
+=5>}VJ
+=66P
+=84@
+=8Eo)
+=9ozV
+=A+;
+=a+z
+=a--F
+=aPHG.
+=b$%
+=b36
+=Djb
+=e|Y
+=ee0
+=fR'
+=gfQw9
+=Gt[
+=hYA`
+=I=L
+=J.S
+=J4d
+=jEP
+=l$o
+=L5fd
+=m6A
+=mb+
+=mPfJk
+=N4F
+='NO^
+=p(U
+=p@x
+=ph`]
+=q2d_Z
+=R_l
+=S(9
+=S6H>
+=sb}
+=Tk%T
+=To6
+=TPIJ
+=tt-
+-=u'
+=Uw 
+=UW85~
+=vN,
+=VXh
+=w#1
+='wc
+=wgP
+=wu'
+--=X*
+=x>{7E
+=XFi
+=z?z
+=Z{T1
+>"h0
+>#v[g
+>$Zg
+>%4!
+>%YS
+>&-R
+>&YwM
+>(^o
+>(}]={
+>(u9
+>)/;
+>,?8
+>,B 
+>,uX
+>.>8
+>.n'
+>/k0
+>:)A
+>;]0O!
+>;4f
+>;g8
+>]5g'#
+>]rB
+>_"'M$eQ2
+>_&b_
+>`9F
+>`Pjp
+>{'-
+>{!&
+>|,o
+>}_AO
+>+IO
+>+ka
+><l}
+>=jN
+>0;IU
+>0yg
+>1^?
+>1<p
+>1a{99%\
+>3uK
+>4(#
+>6vO
+>8|mo
+'>AW`
+>B<<
+>BZ\5.rRU
+>c8B
+>CgKo
+>d"=r
+>D:g
+>e~2
+>Eg+
+>EH0d
+>f"#
+>F.7H
+>ffE
+>FGz
+>fPE
+>fwo>
+>GzA
+>H]in
+>H|$*c
+>h5y
+>'I:
+>ITf
+>J+6
+>jaF
+>jPkOUS^
+>k\Pi
+>K}Zj
+>Kk:
+>l( 
+>l^X
+>L++
+>lN!
+>-nc
+>ny8
+>O)o
+>Od2
+>p\G
+>pnny
+>q%EEi 
+>r!SV
+>'r86
+>rYO2
+>S2"
+>Spof-Rao-
+>Sqx
+>SrU
+>SWe
+>T :
+>V}\
+>vAS
+>Vcv
+>VG=
+>VM 
+>VMc
+>Vp!V
+>w\_
+>wL~
+>Xg,
+>xSs
+>yPrM
+0 && "invalid handle, or handle already unmapped"
+0 && "Shouldn't get here."
+0 && "unhandled state"
+0 && "Unknown header_state"
+0 &3.
+0 == (align & (align - 1)) && "must align to a power of two"
+-0 p
+0!P&
+0"&F
+0"{4
+0$KI
+0%P@
+0)GJ
+0)H0=[C9]bI
+0,86P
+0.HZ
+0;_)
+0?iC
+0@"3
+0'@.s|2(D-M
+0@9_
+0\A,
+0]2>
+0^:w
+0_}B
+0{hq
+0|@=
+0|4|`
+0|O/
+0|uO
+0}2(
+0~k&
+0<:R[
+000000000000000000000000000000000000000000000001
+00BQv
+0123456789ABCDEF
+01Ipw
+01'xb
+03.b
+03=D?
+0573f0d
+05L%
+06kIy
+08@=
+08L{
+0A%S
+0a1S
+0AOo/
+0B9zy
+0bo~
+0BQK`
+0brj
+0c|:
+0C}m
+0fT]
+0G8L
+0gpG
+0h,]
+0H=\_`ih.
+0hAg
+0hWE-}
+0iDN
+0Ifk
+0is{
+0Jkj$
+0Jnb
+0K@d
+0k|YqO
+0LSk
+0LZ A,K
+0MTJ
+0O:?Hy
+0o}Z
+0o=u
+0P#o
+0P[UK
+0PmC
+0pto
+0q_M
+0R}`
+0r1O
+0s(P
+0S+T
+0Svl
+0TKm
+0ui%
+0vF~
+0wiB
+0Y&LH
+0y)]{
+0yn@57{
+0YpZ
+0z0ft
+1 1x
+1!4\d
+1!p!
+1",@
+1"D'
+1"E~
+1#:f
+1%d(
+1&dv
+1(ru,
+1(xl
+1*uVOk
+1,S+)
+1.~B
+1/ kAh
+1/fI
+1/j?*
+1;80wh
+1@iV
+1[ ]Y
+1[_z
+1[J:S
+1[w*
+1]2X
+1]T"G7
+1^jr
+1^Z(
+'1_L$
+1_qC
+1``]
+1|%DU
+1}$3X
+1+Yn
+1<`<
+1=9M
+1=b&
+10M8^
+-115
+11ax
+11bg
+11bgn
+14)0
+14MV8
+15:22:34
+15:49:56
+160;
+16B16B
+18ec840
+18th-
+1A>#+^
+1b]q5V
+1BMR
+1Ce?B
+1cV{|K
+1D+0
+1Dbu
+1dlU
+1EEYr
+1ei;w!o
+1eiE
+1euJ
+1fu#
+1H?z
+1HFtS
+1hxzAc$\
+1J10rgJo
+-1jMv
+1l=''&
+1mKS
+1n`#ff
+1N5aO
+1N7Y
+1o|_
+1odH
+1ol<
+1Ou-W
+1P4'"
+1pBV
+1PK2JI
+1Q(T
+1QT=
+1qW\
+1r"e
+1r>l|
+1s1P3-
+1S8?
+1tRe
+1'U<gD
+1U0I
+1Ud/
+1udZ
+1v@e
+1v-_
+1vHoe
+1viB
+1W04V
+1W'6
+1WCc
+1X;-g8
+1X>{
+1x7{
+1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQ
+1XIN
+1xY+
+1XYQ
+1XzT
+1y.Ze
+1YJh
+1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4
+1z$"[
+1Z? 
+1Z6_
+1zRH
+1Zu$\
+2 |"3
+2 2.
+2 w4D
+2!i@
+2$W{
+2%&!
+2)<Y;
+2)kk
+2)r-
+2,$isj"
+2/3%
+2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx
+2:9I
+2:G\
+2@<iE|
+2[jE
+2\~a
+2\M&
+2\r1
+2']^
+2{G;i
+2|"T`
+2|3~
+2-|nt
+2|tZ
+2~$\?
+2~bQ
+2~O>UFr
+2<B%
+2=az
+224W
+22K4
+22qQkmA
+23gU
+24t4
+25!&
+25c_
+260!|
+27W!/
+29:rd
+29{B
+29V'
+2ANNU
+2b)`
+2b8|
+2C*1
+2c3."U
+2CIA
+2dLg
+2DOP
+2Dqd
+2du=
+-2E#
+2e{DQ
+2f:B=
+2f[G
+2f7g9
+2fRe"0
+2FS%
+2FyO
+2fzL
+2G*`
+2G8*
+2h?V
+2ik2d
+2IlOH
+2Inl
+2Ja)'
+2Jmc
+2JOJ
+2K;4|\5L
+2KA`v
+2KN]n
+2Lg2
+2MbbL
+2o>z*
+2pOi
+2q#_
+2s*A
+2s|`
+2sq$
+2Sym
+2T~:3
+2-ty#k
+2U[+
+2V!b
+2v9b
+2vzU]}
+2W{d
+2Ww*`
+2zfn
+2ZZs
+3!!1!b
+3"y7
+3#/$
+3#8>]yA
+3#E7
+3$:<
+3%6}
+3%p+
+3&aW
+3)9N;D
+3.[t
+3/N$v
+3;)[
+3;`G
+3?#"
+3?{Q
+3'?>
+3?W1
+3@|b
+3[|k
+3\jN
+3\u'q
+3_{?
+3{L{
+3|_U
+3|+<~\
+'3|zS
+3~^xKI
+3+2(
+3+Q*E
+3=1,
+3>7N.
+30"q
+31.147.10047
+33#*_7<
+333333
+334&
+33dY$_
+347~
+35|#
+38.~
+387ec44
+38EP
+3a41d83
+3ag.1
+3B K
+3BOU
+3e.,
+3E+`
+3ePQG]-+
+3f}h
+3fws
+3G>>w 
+3GC;
+3h(U.
+3H<mk
+3hFM
+3hht
+3i' H1
+3I5Y
+3j};~z~R8
+3jF-
+3jKD
+3JZpT
+3kdz
+3kf^D
+3l~O
+3Lsf
+3myw
+3N;Hv4uO
+'3n8[
+3nG_
+3ny<
+3o@Wc
+3o[U6
+3o5a
+3OA\
+3oG-D
+3pd#X
+3Pem
+3RD6
+3rTX[YSJ{_M
+3Sql<
+3sYE*
+3te16
+3tQm?8
+3tut
+3US]W*h
+3UVX
+3vwT
+3xbu
+3y@w
+3Y\e
+3yr}
+3yy}
+3z;+
+3ZRXh
+4 5`
+4!Uj
+4#r72
+4%:Tc
+4&XGe
+4(E]RE[
+4))c
+4)'4
+4/#h
+-4/A
+4/Z6"rA
+4;?H
+4?gz
+4@Om
+4\2p
+4]7UA
+4]C`
+4^Wr
+4_4j
+4_D;~
+4`qW
+4|^2
+4}s5
+4}Si
+4~@}(
+4~gv
+4<#@K|
+'4<{
+-4=<
+400000000000000000000000000000000000000000000000
+4000000000000000000000000000000000000000000000000000000000000000
+41@:W$
+41A2B017516F6D254E1F002BCCBADD54BE30F8CEC737A0E912B4963B6BA74460
+41h]
+42yl;
+43~u
+433@u
+44YCo
+46k+[
+46z/
+47qM
+48US
+49h=i
+4a",
+4A?"%
+4A40,
+4amp
+4Atk
+4c"_{?8
+4c~U
+4d~J
+4Dd=
+4du(
+4e_F#K
+4f&I
+4f6'r,o*
+4fPs
+4H&n
+4H-e
+4Hhxx
+4i(>
+4I{N
+4I01-
+4Iexe*
+4IP%
+4iRg(
+4J-%
+4j'/
+4J[mM
+4J=z
+4K39
+4KoK
+4kox~
+4L:g
+4L6_
+4l7M
+4LdJ)
+4lTb$
+4M(K
+4M'D
+4mtl
+4nO5
+4OJ?
+4Q(sc
+4qHq
+4qL%
+4qn-a
+4rOQ
+4rRj
+4sj.j
+4sN*[
+4S'z
+4TAc
+4Taep
+4Uy&M
+4v64
+4VjR
+4vqPf,$}\1
+4WqT
+4wu&
+4XEn
+4YdS
+5 ^K
+5 9p
+5!9l
+5"`L
+5"XQ
+5(/bm
+5(Xs
+5,3s#
+5,dyvY
+5.P(3
+5.z[k\r
+5/#j
+5/3l&
+5:o~
+5;mk
+5\J2
+5^ k:
+5_Z&|
+5{$6
+5{08z
+5|\nZ
+5~_^
+5+Dl1
+-5<9
+5=%q
+5=kJi
+5=mvr
+52BC5p
+55$Tg
+55)n
+55{r
+555555555555555555555555555555555555555555555555
+5555555555555555555555555555555555555555555555555555555555555550
+56b5fed
+5715ECCE24583F7A7023C24164390586842E816D7280A49EF6DF4EAE6B280BF8
+57u~
+57ycs
+58Uk
+58x6.
+59Sn
+5a;A
+5AAEm
+''5c
+5C$"
+5C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C30
+5'cA
+5cM+$<
+5dfW4
+5dn`
+5E>z
+5eA~
+5EA6F389A38B8BC81E767753B15AA5569E1782E30ABE7D25
+5ft8}~
+5G2U
+5gA7f
+5H%qf
+5I0S
+5j>^$4
+5J16q
+5ji2
+5ks$~
+5L/?g
+5Lc?
+5LwX.
+5m6^
+5MA;
+5mmQx
+5N}F
+5nr/iF
+5o6mTe
+5R^Ql3
+5s|E
+5tF)
+5tFU
+5u|GPIc
+5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY
+5W[>
+5wFsKu/B
+5Yp$
+5Z%9
+5ZwrT
+6"gp
+6"pNa
+6"V$
+6#w%
+6$>tx
+6$kV
+6(Bi
+6)JzCA
+6)X;x
+6'*a
+6*-h
+6*'Z
+6,[RQ9
+6,p&
+6,rb
+6.qT
+6:5A
+6;bb
+6?/P>
+6@>&
+6@VQ
+6[\M
+6\[s
+6\6\6\6\
+6]$=e
+6^Cx
+6`qPC9
+6`TM#
+6`Xh
+6{(TK
+6{;\
+6}^C
+6}8j
+6~/f
+6+5w
+6+q5D
+'6<}
+6<iK
+6=ja
+6>_l#
+60)F
+60>!
+60nM_
+6253add
+62j?
+62NvYT
+66dd6c8
+67uF
+6964e7f
+69g[
+69p3
+6A@k
+6a+^
+6ASR
+6b%k
+6-bE
+6bR4
+6d0@
+6dnR
+6dP|
+6DXi
+6E$b
+6Ed_
+6EV`L
+6f^8/
+6F^L%
+6fu6eu
+6Fv|
+6fWMDk
+6GDvb
+6GG$
+6'gp
+6gzh
+6H(1HS
+6i\=
+6I+ 
+6iW2
+6j;~<
+'6j?
+6J80
+6JA\
+6K3B
+6L"R
+6M/N
+6m\H
+6O,y?
+6OnEy
+6p~B
+6pwSk5
+6r Z
+6r/z
+6rTv,pF
+6sI"/ 
+6Sk>
+6T)E
+6Tec
+6TWP
+6U'}
+6U<X
+6UIVh
+6UqG@
+6w^6
+6W2 
+6Wk`
+6X(H
+6x^r
+6y2U
+6z*I
+6zH[|*>
+6zl0
+7!vBd.Tx_
+7"@j
+'7"d
+7"Gf
+7"Z!
+7#3^
+7$[p
+7%L>\
+7)5n 
+7*#-
+7,{`
+7.$}
+7/'-
+7/a$
+7/E:4
+7;xvb
+7?ef
+7@a^
+7[R:
+7_/P;
+7{6C6[
+7|\]
+7|pR
+7}!&it
+7}OM"$6
+7}oze5
+7~Oq
+7+T@q
+7<:y
+7<vU
+7>:^'%
+7>04
+71F>.
+72!%
+72{y
+734=
+73hZ
+74./
+74kx
+75ipTfVm
+76Jl
+785ace2-dirty
+79fa3f41ba
+7aHa
+7b/^
+7b:h
+7b`-
+7Bdg
+7BG 
+7cNq
+7D\G
+7d9u
+7e/>
+7EAj
+7eR_
+7f""
+7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8
+7g|U
+7G4/FO+(H
+7Gm_
+7GW[
+7Gwz(
+7H1;S
+7'HD
+7HMR
+7hU`
+7IJe0Z
+7IZXr
+7jf]
+7LDW
+7Mcg
+7mK2
+7MrM
+7MTF
+7Mtz-
+7o[k
+7ox"
+7Qf;
+7QoV
+7RhdV
+7sgCFnR
+7SJ-
+7Sk=
+7snb=
+7T&-
+7TChH
+7to*&=
+7TpeQ
+7tZD
+7vHD'
+7w8Y}
+7wx$
+7WZ,
+7x[k
+7X2)7
+7y&,;
+7Y(&
+7YO|
+7zaP@
+7ZmP
+7Zmz
+7ZN=S
+7Zvwm)d
+8"]3;
+8#0T
+8$ B
+8$Ym
+8&|U
+8&Za
+8)@x
+8*:J
+8.Ri
+8.RNp6
+8:3p
+8?^okMzLd
+8["{
+8[C7
+8['s\?
+8] o
+8]U%
+8]U^?)
+8^5o|<d
+8^od
+8`'!^
+8`|^
+8`1d
+8{H*D
+8|%"
+8|<5
+8|5-
+8}.z
+8}A\
+8~s4
+8~V|-
+8+Pw
+8<g<(
+803I
+80e5949
+80XO
+84oIv
+85t[H
+85u>
+86w"
+87aR
+88~*17
+88Yv
+891J
+8B F
+8byC)
+8cNW2,
+8CRD
+8dFa
+8E Y
+8eJ^
+8ES:
+-'8f
+8h1Qj,O
+8jOd
+8KqJ
+8MsJ
+8n|:]
+8ndm
+8o'1
+8OBj
+8OjJ0
+8'Q^8NI
+8QT0
+8R1L
+8rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTe
+8s.H
+8sON
+8T@x$
+8tWN
+8U-_
+8Vu2
+8Wyzx
+8xf\e
+8Y&c?
+8Y0S
+8YDX[~
+8Yh8C`
+8Yvf
+8Z#=2
+8ZM?Su
+9 7}
+9"_]C1
+9#KX
+9#ZF
+9$d#
+9))Ufy
+9*+a(
+9*k6
+9*Uc
+9.y{bIX
+9/,[
+9:"~;
+9:D",
+9?\d
+9@:y
+9[C,\
+9\"q
+9\0#]
+9-\c
+9\vn
+9^{o
+9`9@
+9`D5
+9`J<[
+9{YUP5
+9|iT
+9~$_
+9~u.
+9<0r
+-9<6
+9=?*
+9=DQ
+9>N?
+91FY
+92}56Hg
+929E
+92G<e
+96/]&-
+96\z
+96nB
+96Q#q\
+-9-8
+9aDI
+9AT^g
+9B"&`(
+9B3y$
+9c)N
+9C2'
+9d_t
+9Dh{N
+9DIE
+9E>E(:
+9EvL
+9g_Hd
+9Gs^
+9i_qh
+9i6@d
+9iCu@
+9IE_T
+9IQe
+9is>
+9j#jQ
+9j&;
+9J5N
+9k,R@
+9Kf|
+9Kl9
+9M)D
+9M~&
+9mi_[ddv
+9N#/
+9-n]j
+9nq.
+9o_b
+9ojh
+9OM|m
+9oR!mw
+9Pd]d
+9pDE
+9Q3#L8
+9qD$
+9qTP
+9s0Ut
+9Sp]e7k#'
+9u;l+
+9U^p
+9ud6$ja
+9UOP
+9Vn`
+9W#C
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI
+9WA#WY
+9wAd
+9Ws&
+9x77
+9Xe(
+9z.RL
+9z1K
+9Zg.QUi
+A !/
+A Z}
+a!Mv
+a"G2
+a"njA
+A$.;
+a%~Z,
+A%l'
+A&jm
+a)}`
+a)fu
+A)iLF.
+A*+#
+a*6iHG
+a*7~w
+A*H|
+A*P(
+a*q_m
+a*s[
+A*T"
+A*UJ
+a.,=
+A.gI
+A/:e
+A/}k_
+a/g-
+a/yU
+A:`r
+A:m[
+A:q8
+A?C4
+A?jE
+A?xv
+a@_z
+A@6-.
+A\A&
+A]9%
+a]gch
+A^@]
+a^df
+A'^K
+A_']
+A_A)MS
+A`[L
+a`_Mc
+A`UX
+a{ '_
+A{/&
+A{+`
+-a{Q
+A|:SF
+a|u)[
+a}D+
+A}JE
+A~-6P
+a<+(x
+a<=6
+A<js
+a=g!
+a>?M
+A>On"
+A0      
+A1      
+a1%yPf
+A2      
+a2Hzv
+A3      
+A3]=
+a3Hn
+a3yn
+A4      
+A5      
+a5!?&Q
+A5!M
+a5D4
+a5ffcda
+a5xa
+A6      
+A6o/v
+A7      
+a7|u
+A7mEx
+A8uT
+-A8w
+A9%N
+a9*3
+A92"
+A9P6
+a9T{
+aa,5
+AAq=
+abcdefghijklmnopqrstuvwxyz234567
+ABF>
+AbjJ
+Ablw
+ABS+
+ac"{]
+Accept
+Accept Confirm
+acceptmbox must be deallocated before calling this function
+accepts_pending != 0
+ackStatus
+ACp^
+AcRr
+aCsf
+active_key:%s, ble_device_id:%s
+AcU"fm
+a'd\]5
+aD=[
+adc_oneshot
+adc_oneshot_config_channel(battery_ctx.adc_handle, ADC_CHANNEL_3, &chan_config)
+adc_oneshot_new_unit(&init_config, &battery_ctx.adc_handle)
+adc_oneshot_read(battery_ctx.adc_handle, ADC_CHANNEL_3, &adc_value)
+adc_share_hw_ctrl
+Address already in use
+Address family not supported by protocol family
+Address not available
+adv_adv_free
+adv_rsp_free
+aE&t
+Ae:j
+AEC(lO
+AES128-CBC
+AES-128-CBC
+AES-128-CCM
+AES-128-CCM*-NO-TAG
+AES-128-CFB128
+AES-128-CTR
+AES-128-ECB
+AES-128-GCM
+AES-128-OFB
+AES-128-XTS
+AES192-CBC
+AES-192-CBC
+AES-192-CCM
+AES-192-CCM*-NO-TAG
+AES-192-CFB128
+AES-192-CTR
+AES-192-ECB
+AES-192-GCM
+AES-192-OFB
+AES256-CBC
+AES-256-CBC
+AES-256-CCM
+AES-256-CCM*-NO-TAG
+AES-256-CFB128
+AES-256-CTR
+AES-256-ECB
+AES-256-GCM
+AES-256-OFB
+AES-256-XTS
+Af}u
+afa$
+AfFw
+aFWU
+AGR?
+AG'YY!N
+agz.i
+AHV5)/S
+ahy(
+ai!%
+ai`$
+Ai>K
+AII#=
+a-IV
+aIy 
+AJ,G`
+aj/J
+ajQi
+ajzo
+ak`&
+AK'~
+AK7Jk
+AkES
+AKHc
+AKM suite
+AKM suite count
+Al1D
+'Al1G
+alarm_id < sizeof(timestamp_id) / sizeof(timestamp_id[0])
+alB"
+Al-E(I
+aLH>LA
+align_ptr
+ALIGN_SIZE == control->small_block_size / control->sl_index_count
+align_up
+Allow previous PWE to be reused
+already writing or closing
+Amk8
+an unknown error occurred
+aNg<
+Any Policy
+anyPolicy
+aO$,
+Ao+Q+
+-ao>C
+aoa{
+-aOH
+aoUd
+'aozD
+ap.authmode
+ap.chan
+ap.chan5g
+ap.chan5gisset
+ap.chanisset
+ap.csa_count
+ap.dtim_period
+ap.ftm_r
+ap.hidden
+ap.max.conn
+ap.p_cipher
+ap.passwd
+ap.phybw
+ap.phybw5g
+ap.phym
+ap.phym5g
+ap.pmf_e
+ap.pmf_r
+ap.pmk
+ap.pmk_info
+ap.sae_h2e
+ap.sndchan
+ap.sndchan5g
+ap.ssid
+ap.trans_d
+AP{\
+APB_ADC
+APB_CTRL
+apdV
+APjt$Lzm
+APnm~
+aPOo
+app_init
+app_main
+application/json
+application/x-www-form-urlencoded
+aPz"3I
+-Aq-
+aq5m
+AQ7z
+Aqh(t
+aQr(:
+AqYq
+ARA|
+arch_main.c
+ard2
+arg != NULL
+Arg list too long
+ARIA-128-CBC
+ARIA-128-CCM
+ARIA-128-CCM*-NO-TAG
+ARIA-128-CFB128
+ARIA-128-CTR
+ARIA-128-ECB
+ARIA-128-GCM
+ARIA-192-CBC
+ARIA-192-CCM
+ARIA-192-CCM*-NO-TAG
+ARIA-192-CFB128
+ARIA-192-CTR
+ARIA-192-ECB
+ARIA-192-GCM
+ARIA-256-CBC
+ARIA-256-CCM
+ARIA-256-CCM*-NO-TAG
+ARIA-256-CFB128
+ARIA-256-CTR
+ARIA-256-ECB
+ARIA-256-GCM
+ARP_QUEUE
+arp_table[arp_idx].state >= ETHARP_STATE_STABLE
+arp_table[i].q == NULL
+arp_table[i].state == ETHARP_STATE_EMPTY
+arp_table[i].state == PENDING or STABLE
+array index out of bounds
+As;+
+as@C
+assertion:%s
+ASSIST_DEBUG
+ASSIST_DEBUG is not triggered BUT interrupt occurred!
+assoc
+at*S
+at,h
+At|O
+AT2-w
+aTdGO
+atten < 4
+aU2~\l
+audioFormat
+audioSamplingRate
+auth
+auth-int
+Authority Key Identifier
+Authorization
+Auto
+auto.conn
+AUXfC3IHg
+AuXt
+Av.-
+Av<,
+available_region_idx == region_num
+AVc{%
+aw*y1
+aWWJ,
+ax@l{_a
+Ax3z~Z
+axi*
+axJ*
+aXOJ
+aXrq
+'a'y
+AyP7jX
+ayrjL
+a-yS
+ayur
+aYwK
+AZ[@}
+az3%
+aZDO
+AZI 
+azIH
+'B &
+B 9#
+b Q|\Tq
+b wi
+b!,L
+B!5F=
+b!j{
+B"N/
+b#/S]
+B#1`J
+b#a,5
+b$D@
+B$I^
+B%sP@GD
+b%tV
+b%U[
+B& t
+b&.U
+b&?qz
+b&{,
+B&3I
+B&D1
+B&ft
+B&OY
+B(UA3
+b)j9l
+b)m1
+b)Nn
+b)Vr
+b*/1
+B*Ld
+B,D|
+b,ML6~
+b.&Sg:
+B.1o
+b.y\
+b/7{
+B/F"H
+B:2:f1!
+b-:S
+b;()
+b;u*
+B@(uJ;
+B@0e
+b@i4
+B\E]
+b]q;P~
+b^0c
+-b^zB
+b-_+
+b`RAf+
+b{"q
+B{,D
+B|89
+B|cg6
+B}&q
+B~?,%
+B~?}
+B~}.
+B~}:
+b~XDz
+b+(y
+B+/f
+B+Bo@
+b+LH
+B+y^X|
+B<F%`
+B<oe
+B<Y~g
+b=KO3q
+B05 
+b0I08
+b1#<
+b1+f
+B16B
+B1EB[
+B1hN'
+B1rp
+b2]t`:R
+b20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG
+B2zC
+b3)N+3
+B3~.
+B31B
+B3it
+B4a/
+b4h;E
+'B4H{
+B5[P+
+B5BH
+b5'eQK)
+b5nY
+B64B
+B6B16B16B
+B6BB
+b6YL5
+B7~CT 
+B83)
+B8B4B
+B8BH8B4B
+b8D6
+b8q8KM
+b9/;
+b9pvw
+B9wV
+BA`v
+Bad address
+Bad file number
+Bad message
+bad valid lifetime
+BAK_PMS_VIOLATE
+Balloc succeeded
+band_mode
+Basic 
+Basic Constraints
+batry
+battery_check_timer
+batteryPersent
+bAWS
+BaXk
+Bb(%2[@
+BB32B
+BB64B
+bBaM
+BBB6B
+BBB6BHHB
+BBBB
+BBBH
+BBBHB
+BBBnB
+BbcD2
+BBH8B
+BBHBB
+BBHBB6B6B6BHHHB
+BBHBB6BBHB
+BBHBB6BHHHB
+BBHBHH
+BBHH
+BBHHHH
+BBHHHHH
+BBL6B
+BBsl
+B'Bt"
+Bc*!
+BC/RB
+Bca`
+bcn.interval
+BD_ADDR: %02X:%02X:%02X:%02X:%02X:%02X
+BDL]b5
+-----BEGIN CERTIFICATE-----
+-----BEGIN EC PRIVATE KEY-----
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+-----BEGIN PRIVATE KEY-----
+-----BEGIN PUBLIC KEY-----
+-----BEGIN RSA PRIVATE KEY-----
+-----BEGIN RSA PUBLIC KEY-----
+BePs
+BF3J
+bFNQ
+BG!MB
+bGd.
+BgG"Zk
+bGg}
+BgIUH
+BgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV
+bh-"er
+Bh)w!
+Bh[*
+BH3B3BBBB6BBBBBBBB
+BH5B
+BH8BH
+BHBB
+BHBBBBnB
+BHBHH
+BHHBB
+BHHH
+BHHHH
+BHHHHBHHHHHHH
+BHHHHH
+BHHHL
+bhq+s
+bhSp
+bi6S
+biGL
+bignum
+BIND
+bits == ADC_BITWIDTH_12 || bits == ADC_BITWIDTH_DEFAULT
+bits_counter <= req_size
+Bj@96
+bJFe
+BJp_/P
+bk*~g
+Bk}6
+Bk=w
+BL:(
+BL6B
+'BlDEd
+BLE  stopped successfully12345.
+BLE advertising stopped successfully.
+BLE assert %s %d, param %08x %08x
+ble_att_svr_entry_pool
+ble_att_svr_prep_entry_pool
+BLE_ERR_%d_%d_%d_%d
+ble_freertos_co_pool
+ble_freertos_ev_pool
+ble_freertos_evq_pool
+ble_freertos_mutex_pool
+ble_freertos_sem_pool
+ble_gap_update
+ble_gattc_proc_pool
+ble_gatts_clt_cfg_pool
+ble_hs_conn_pool
+ble_hs_hci_ev_pool
+ble_hs_hci_frag
+BLE_INIT
+ble_l2cap_chan_pool
+ble_l2cap_sig_proc_pool
+ble_sm_proc_pool
+ble_util_buf.c
+bleBroadcastName
+blk >= 0 && blk < EFUSE_BLK_MAX
+blk_len != 0
+block && "cannot insert a null entry into the free list"
+block_absorb
+block_is_free(block) && "block must be free"
+block_is_free(block) && "block should be free"
+block_is_free(prev) && "prev block is not free though marked as such"
+block_locate_free
+block_merge_next
+block_merge_prev
+block_next
+block_prepare_used
+block_size(block) == remain_size + size + block_header_overhead
+block_size(block) >= *size
+block_size(block_next(block)) == 0 && "next block size should be zero"
+block_size(remaining) >= block_size_min && "block split with invalid size"
+block_split
+block_to_ptr(block) == align_ptr(block_to_ptr(block), ALIGN_SIZE) && "block not aligned properly"
+block_to_ptr(remaining) == align_ptr(block_to_ptr(remaining), ALIGN_SIZE) && "remaining block not aligned properly"
+block_trim_free
+block_trim_used
+blocking connect state error
+BlOM
+bm(s
+BM[y+
+bM>j=
+Bm3~
+BMvO
+bn{(V
+bNi5
+BnKf
+BNXp
+-bo]
+bo~X,
+bogK2
+bogus pbuf: len != tot_len but next == NULL!
+boot_comm
+bootloader_mmap
+bP|=I
+Bp}M
+bP8U
+bpow
+BQ :
+BQ<c
+Bq0;
+bQ36
+B-qk
+bqO8d
+br|,~
+br>7
+brainpool256r1
+brainpool384r1
+brainpool512r1
+brainpoolP256r1
+brainpoolP384r1
+brainpoolP512r1
+Breakpoint
+bREd}
+bRJR
+brLo-U
+Broken pipe
+Brw3
+bRYu
+BS@g
+Bs|I
+bssid.set
+Bt:u
+bT?%[
+BT_BB
+BT_BB_NMI
+BT_MAC
+Bt`+b
+btController
+btGM
+btl=
+btSlp
+BU."i
+buf != NULL
+bul0
+bulHV
+BUN;;
+bv m
+bv3Nu
+bw^y
+Bw_v
+BW20
+bX+}>=v
+bxaT
+BxM_u'
+By)fpIXz
+bY_!
+Byl,
+bytes=%d-
+bytes=%d-%d
+bytes=0-%d
+Bz$)_]D
+Bza\
+BzS"
+BZu8
+c != NONE
+C u!
+c"^0#
+c"Grn
+C#p=
+C#TN!
+c$M,
+c$ud
+-C%*
+c%8u
+c%GF
+c&Tm)MP
+C(~e
+c(5b
+c(Ss|
+C)6i@
+c)aW)
+C)w<
+c*_&>
+C,!2
+C,Fy
+c.@[q
+C.<pw
+C.9c
+c.AAf:
+c.E^
+C.hR{(
+C.u,
+C.ZaDJO 
+C/;"
+C/b3
+C/j|{
+C:y%?
+C;>y
+-C;U
+c;yNH;
+C@.)
+c@L,
+C\]&
+C\|+
+c]6W|O
+c]iX
+C^b7
+c^S>)
+C_"Q
+C_(y
+C_JR
+C`(=
+C`8/n
+c`Jm
+c`L"<
+c`uN
+c`VbY
+C`ve'4,
+c{?t
+c{m-
+C|w]_&0
+C}]iw
+c~]%
+C~{E
+C~0}
+c+4|e
+C<$&
+c= R
+C>(d?
+c>7+
+c>Jn
+C>n,Wd_
+C>p>
+C0'8
+c0X-,
+C1`{
+C1<:^
+c'3Gh|+
+C3L:)a
+c4:c7
+c4jD
+C4x?|
+C6}_
+c6NP
+c6QziO
+-Ca!
+cA%m
+cA6l
+Cache error
+Cache error active, but failed to find a corresponding error message
+CACHE_CORE0_ACS
+CACHE_IA
+Cached memory region accessed while dbus or cache is disabled
+Cached memory region accessed while ibus or cache is disabled
+cal_data
+cal_mac
+cal_version
+Calculated hash
+calib_version == 1
+callback must be != NULL
+callout
+callout->handle
+Can't restore header we just removed!
+Can't split segment into length 0
+cb.p
+cbGF
+cBM;)
+CbMQ
+cbnhCRv
+CbU_
+cC#E
+cC^'
+Cc=9
+Cc1-
+cCVl o c0
+CCZS
+cDJhA
+cdNE
+ce069d3
+Ce4j|
+cEB|
+Certificate Policies
+CF~69M@x\
+cfg != NULL
+cfHK
+Cg39X?/
+CGc!
+CGcc
+cgpBrN
+cgS-.
+CH"`
+CH^z
+C-h8
+check decode_idx
+check pbuf_skip result
+check that first pbuf can hold icmp message
+check that first pbuf can hold icmp6 header
+check that first pbuf can hold size
+check that first pbuf can hold struct etharp_hdr
+check that first pbuf can hold struct ip_hdr
+check that first pbuf can hold struct ip6_hdr
+check that first pbuf can hold struct tcp_hdr
+check that first pbuf can hold struct udp_hdr
+check_lock_nonzero
+CHECKOUT
+checkResult
+Checksum must fit into first pbuf
+cHi(
+chip_status == 0
+chip_version >= 3
+CHK: ACT %d, CONN mst %d, intv %d, ce %d, latency %d
+CHK: st %d sleep %d
+chm_upd: %u %u %u
+CHmB[6
+cHmI
+Cho,{a
+cHQK
+c-hSY
+chunked
+Ci_0
+Ci<p
+cid == BLE_L2CAP_CID_ATT
+'cIU
+cj#^
+ck%epJ
+Ck.X
+ck`~%
+CK8I"i
+cKI1
+Cl"2#
+cl7N
+cleanup
+clear <reg_force_usecswinsz> for phasematchp reg
+Clear existing state to allow restart
+client finished
+clk_hal
+clk_tree_rtc_slow_calibration
+close
+Closing a listen pcb may not fail!
+cLS5
+clZ|
+CM`BG
+Cm|t
+Cm}v
+cm1h]
+cmd != NULL
+cMDA*
+CmVZ
+Cn!2-7
+cn$bw
+CN?a*
+CNMZq2t
+co* 
+c-o?
+cO\~
+co\wv
+co_list.c
+co_utils.c
+Code Signing
+Coe]
+CoeDW
+coex firmware version: %s
+Coex register schm btdm cb faild
+coexist
+coexist adapter function is NULL
+coexist adapter function magic error! Magic %x is expected, but it is %x
+coexist adapter function version error! Version %x is expected, but it is %x
+coexist rom version %s
+Common Name
+con_upd: %u %u %u
+config is NULL
+Config struct mismatch: magic=%08x, ver=%08x
+conn != NULL
+conn has no recvmbox
+conn must be in state NETCONN_CLOSE
+conn->acceptmbox shouldn't exist
+conn->current_msg != NULL
+conn->current_msg == NULL
+conn->current_msg->msg.w.offset < conn->current_msg->msg.w.len
+conn->current_msg->msg.w.vector_cnt > 0
+conn->pcb.tcp != NULL
+conn->state == NETCONN_CONNECT
+conn->state == NETCONN_WRITE
+CONNECT
+connected action: dhcpc failed
+connection
+Connection aborted by network
+Connection already in progress
+Connection refused
+Connection reset by peer
+Connection timed out
+content-length
+Content-Type
+control_construct
+Controller lib error, need rom lib
+COPY
+Core 
+core_id < CONFIG_FREERTOS_NUMBER_OF_CORES
+core_id == 0 && "target SoC only has a single core"
+CORE0_DRAM0_PMS
+CORE0_IRAM0_PMS
+CORE0_PIF_PMS
+CORE0_PIF_PMS_SIZE
+CORRUPT HEAP: multi_heap.c:%d detected at 0x%08x
+CoUH
+count <= RMT_LL_MAX_LOOP_COUNT_PER_BATCH && "loop count out of range"
+Country
+COzCQ
+cp]R*
+cp_A
+Cp|Y6y
+'cP4
+CPcv
+cpO}
+CPQD
+cpU"
+cpu_start
+cpus_fail != 0
+-cq!qm
+cq+!
+CqF{`
+CqJ`&
+-cqk
+CqQn
+CQsU
+Cr":
+CR}+yR
+crbX
+Cross-device link
+crypto_shared_gdma
+CS`|
+cSCV
+CST-8
+CSw^
+CT#^L
+CtNK
+CTtt
+ctxt->chr == &ble_svc_gatt_defs[0].characteristics[0]
+ctxt->op == BLE_GATT_ACCESS_OP_READ_CHR
+CU/B
+CU_a
+cuM%U
+current && "free list cannot have a null entry"
+cV|G
+cVEl
+CVVvH
+Cw\^
+cWg`A
+CwQ1&-
+CwtwDi
+Cwv;D
+cx?/Z
+Cx`HN
+CxfI
+CXmj
+cY\=
+CYq;
+cYy=zJ
+cZ{\r
+CZbG
+CzH@
+D (%lu) %s: %s
+D (%lu) %s: esp_transport_read returned:%d and errno:%d 
+-d {~
+D wq
+d!LN
+d"]*
+d"XV
+D#a)V
+D#x(
+d$0\
+D-%"MI
+D%Eb>4
+D-%k
+d%P2
+D&;%
+D&4`
+D("+
+d)ILc
+d)s~
+D**_f
+d*h'
+D*m{
+d*r/Al
+D*T7
+D*YZ
+d,0H
+d,n:
+D,OL
+D,Ya
+D.(D
+d.9R
+d/;(
+D/ns
+d:T`
+D;(TF
+d;Iw
+d?\d
+D?{ae
+'d@y
+D[ {
+D[!a
+d-[{
+d[M}
+D[UN
+d\*[JG
+d\7q
+D\c=
+d\N/
+d]#r
+D]A5
+d]vD
+d]xbv
+D^3U,
+D^iB
+D^nAU:
+d_T\
+d_u@
+D_ZN*
+d`&H
+d`Z 
+D|?f
+D}..
+D~D"
+D+,c
+D+8]&
+D<]Y
+d<5k
+d<OL
+D<tI
+D<v6C
+D=?Pr
+D04p
+d05G
+d0p:
+D1cj
+d1pV
+D'2F
+d2s>
+D34he
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+D-'5
+d5_U
+D5{A
+D60U
+D7,Ms
+d'7?c
+d70m
+d74042a
+D77x$
+d7q0
+d8;na
+D8}x
+D9\X
+d9RJi
+Da-.
+Da:~
+DA]6|13J`
+DA^g
+dA>[A1
+daAS
+Dac;
+DaFE
+data received after completed connection: close message
+Dbb^
+dbC6
+dbg"
+DbGK
+dbh&
+dbOO
+Dbus authentication failed
+Dbus tried to write cache
+DBv2j
+'Dc,
+dc8p
+DcFxa
+dco+T
+Dcv|a,
+Dd/=I
+'dDb
+ddD-9C
+-DDdF|
+DdmD
+dDq@!
+de';Lwq
+De2 
+Deadlock
+Default Tx Power Invalid: 0x%x
+deg1
+DEK-Info: AES-
+DEK-Info: AES-128-CBC,
+DEK-Info: AES-192-CBC,
+DEK-Info: AES-256-CBC,
+DELETE
+desCBC
+des-ede3-cbc
+Destination address required
+Detected in task "
+Device or resource busy
+devicePromptSoundId
+deviceStatus
+Df\k%
+dFkb
+dFQ&
+DfU&
+dfU,
+dg"C,
+dGk4C
+DgLD
+DGPc
+dh J
+Dh&o]
+dh]1
+dhcp != NULL
+DHCP should be enabled at this point, but it is not!
+DHCP: hostname is too long!
+dhcp_append(client_id): options_out_len + 3 + netif->hwaddr_len <= DHCP_OPTIONS_LEN
+dhcp_bind: dhcp != NULL
+dhcp_bind: netif != NULL
+dhcp_create_msg: check that first pbuf can hold struct dhcp_msg
+dhcp_create_msg: dhcp != NULL
+dhcp_create_msg: netif != NULL
+dhcp_inc_pcb_refcount(): memory leak
+dhcp_option: options_out_len + 2 + option_len <= DHCP_OPTIONS_LEN
+dhcp_option_byte: options_out_len < DHCP_OPTIONS_LEN
+dhcp_option_long: options_out_len + 4 <= DHCP_OPTIONS_LEN
+dhcp_option_short: options_out_len + 2 <= DHCP_OPTIONS_LEN
+dhcp_parse_extra_opts(): extracting MTU option failed
+dhcp_parse_extra_opts(): MTU option's len != 2
+dhcp_pcb_refcount(): refcount error
+dhcp_select: dhcp != NULL
+dhcp_select: netif != NULL
+dhcps: Illegal subnet mask.
+dhcps: ip address and subnet mask do not match.
+dhcps_start(): could not obtain pcb
+did not copy all data
+Digest username="%s", realm="%s", nonce="%s", uri="%s", algorithm=%s, response="%s"
+DIke
+diLY
+Directory not empty
+Disable
+disabled
+Distinguished Name qualifier
+div >= 1 && div <= 256 && "divider out of range"
+divider_integral >= 1
+dj$U~8
+DJ;4
+dJ2n
+D'K`
+DK7]
+dKee
+Dkt2x
+dKzw
+dL;_
+dl@C
+Dl3e
+dlG{
+DlO4
+DlxPu
+dM^6
+DMA_APBPERI_PMS
+DMA_CH0
+DMA_CH1
+DMA_CH2
+dmBpbp
+dMSVF
+dMSY
+dn"R
+dn$'
+DN'8H4h_X
+Dndu
+dnke
+dnQualifier
+dns server out of array
+dnsl
+dnWI
+DO%~D
+do_write failed to write all bytes
+dO2@
+Domain component
+don't call tcp_abort/tcp_abandon for listen-pcbs
+don't call tcp_output for listen-pcbs
+don't call tcp_recved for listen-pcbs
+dOv%
+DP$Q
+dPA>0=+
+DpW1R
+Dq!u7
+dQ&3
+dQ~u
+DQJN
+dQtD
+Dqwr
+dr\P
+dR<0
+dR3>
+dram_alloc_to_iram_addr
+DRAM0_SRAM
+DRDH
+dRff
+DRQnM3
+ds&U+
+dS<p*
+Ds6~#'0
+-DU7
+DUA}
+DUc9
+dutBL
+dV%0Y8
+dV`G
+DV72
+Dv9JRK
+DVn}
+dW/Vu
+dw{+
+DWnD
+Dwzu]
+dX<y
+dXBp
+Dx'H@pX
+Dy.K
+dY8"
+DyG^
+dYY3
+DZ,^`
+Dz|-$
+dZ7VE
+dzC(
+'e #
+E `=*
+e |;}
+e h=
+E Ug
+e!n %
+e"3c
+E"7-K
+e"en
+E"LX>J
+e$J-q#
+E%"^
+e%$,.
+E%$2w.
+e%ld
+E(%tG
+e(2_
+E(9~!0mM
+e(slDy
+E)14
+-e)H
+e*o}
+E*-Z
+E.*LV
+E.;J
+e.Z?
+E/N`
+e:@KA
+E:^m/
+e;fz
+e;iI
+E;ZN.
+e?E:
+e@)!
+E@)e
+E@H$
+e]<&
+E]Du
+e]in
+e]Px-
+E^6@[
+e_D'f
+e_jTC
+E`W0
+E{^W
+E|(G'
+E|i(
+E}('N
+e}3rt
+E}Wv
+e~^4
+e~1`
+E~2U
+e<i_
+e<P~
+e0cn
+E1FT
+E1lA
+E1v=,TW8
+E2&J
+e2;I
+E2\N?
+e2l{
+E2u~
+E3+5
+E3iN.
+E3jB
+E4!wSo
+e4%?'
+e527f22
+e5MA{
+E5T7W
+e727207
+e727207-remote
+e-7H
+e8_,
+e8~d
+E8qy
+-e8R
+e9[gt)
+e9}O
+E-9t
+E9Y0
+EApCb
+EApe
+EAT}
+eaUo
+Eb$ 
+eBgY
+EC key for ECDH
+ec,U
+EC_DH
+ec1+
+ecc_p256.c
+ECDSA
+ECDSA with SHA1
+ECDSA with SHA224
+ECDSA with SHA256
+ECDSA with SHA384
+ECDSA with SHA512
+ecdsa-with-SHA1
+ecdsa-with-SHA224
+ecdsa-with-SHA256
+ecdsa-with-SHA384
+ecdsa-with-SHA512
+eckey.Q
+eD<q
+eD5+
+EdPU~<
+EdS]
+EDW]
+eE z9]
+Ee[]
+Ef~v&
+EF+k
+Efcv
+EfH2
+EFp<
+efuse
+efuse_init
+eFV0
+EG{_
+-eGC
+EH";d
+eH{V
+eH|`
+eh<`
+E-H0`
+eH9J
+ehI(WL
+Ei"@
+ei(q
+EI@t
+eiBf
+EiG0
+eIjt
+EIrR
+ejHu{.
+EJjK6
+EJku
+eJkWCw(
+EjPq
+ejQw
+eJsq
+EJt\
+Ek'*
+e-ki
+EKrur
+Ekrx
+eK-z
+el??
+el+_
+ElBT
+ELF file SHA256: 
+EM ACL TX DYNAMIC BUFFER[%d] %04x, NULL, len %d
+EM ACL TX STATIC BUFFER[%d] %04x, %p, len %d
+EM ADV DATA TX BUFFER[%d] %04x, NULL, len %d
+EM ADV EXT HDR TX BUFFER %04x, %p, len %d
+EM AUX CONNECT REQ TX BUFFER %04x, %p, len %d
+EM CS %04x, %p, len %d
+EM DATA RX BUFFER[%d] %04x, %p, len %d
+EM ET %04x, %p, len %d
+EM LLCP TX BUFFER %04x, %p, len %d
+EM RXDESC %04x, %p, len %d
+EM TXDESC %04x, %p, len %d
+EM WL/RAL %04x, %p, len %d
+EM_BASE_REG[%d], %04x, %08x
+EM_BASE_REG_LUT[%d], %02d, %04x
+EM_BLE_ACLTXBUF_OFFSET: 0x%08x, EM_BLE_ACLTXBUF_END: 0x%08x
+EM_BLE_ADVDATATXBUF_OFFSET: 0x%08x, EM_BLE_ADVDATATXBUF_END: 0x%08x
+EM_BLE_ADVEXTHDRTXBUF_OFFSET: 0x%08x, EM_BLE_ADVEXTHDRTXBUF_END: 0x%08x
+EM_BLE_AUXCONNECTREQTXBUF_OFFSET: 0x%08x, EM_BLE_AUXCONNECTREQTXBUF_END: 0x%08x
+EM_BLE_CS_OFFSET: 0x%08x, EM_BLE_CS_END: 0x%08x
+EM_BLE_DATARXBUF_OFFSET: 0x%08x, EM_BLE_DATARXBUF_END: 0x%08x
+EM_BLE_LLCPTXBUF_OFFSET: 0x%08x, EM_BLE_LLCPTXBUF_END: 0x%08x
+EM_BLE_OFFSET: 0x%08x, EM_BLE_END: 0x%08x
+EM_BLE_RAL_OFFSET: 0x%08x, EM_BLE_RAL_END: 0x%08x
+EM_BLE_RX_DESC_OFFSET: 0x%08x, EM_BLE_RX_DESC_END: 0x%08x
+EM_BLE_TX_DESC_OFFSET: 0x%08x, EM_BLE_TX_DESC_END: 0x%08x
+EM_BLE_WL_OFFSET: 0x%08x, EM_BLE_WL_END: 0x%08x
+EM_ENC_OFFSET: 0x%08x, EM_ENC_END: 0x%08x
+EM_ET_OFFSET: 0x%08x, EM_ET_END: 0x%08x
+EM_FT_OFFSET: 0x%08x, EM_FT_END: 0x%08x
+EM_RF_HW_SPI_OFFSET: 0x%08x, EM_RF_HW_SPI_END: 0x%08x
+EM_RF_SW_SPI_OFFSET: 0x%08x, EM_RF_SW_SPI_END: 0x%08x
+Em63p
+E-mail address
+E-mail Protection
+emailAddress
+em'D
+emi.c
+EMI: alloc must after em mapping [%d] disable
+EMI: alloc must after em mapping [%d] free
+EMI: em mapping [%d] already disable
+EMI: em mapping [%d] already freed
+eMOZ
+EMT)
+EmuEw
+en)d
+Enable
+enabled
+encountered unexpected internal state
+-----END CERTIFICATE-----
+-----END EC PRIVATE KEY-----
+-----END ENCRYPTED PRIVATE KEY-----
+-----END PRIVATE KEY-----
+-----END PUBLIC KEY-----
+-----END RSA PRIVATE KEY-----
+-----END RSA PUBLIC KEY-----
+entity
+Environment call from M-mode
+Environment call from S-mode
+Environment call from U-mode
+eNW3
+Enwg6
+eo27
+eONG
+EoNtd
+EP#x
+epU?
+eQj]
+EQlh
+eqTo:
+Er#.
+er$+t
+eR].
+ER+v
+erFJ
+err != ERR_OK unhandled
+err != NULL
+ERROR_ALLOC
+ErU*f(i`
+eRunning != eTaskGetState( xTaskToDelete )
+erxe
+ERXu
+ES"P
+eS5=
+esHk
+ESP_%02X%02X%02X
+esp_backtrace_print: Print CPU %d (current core) registers
+esp_clk_init
+esp_clk_tree
+esp_clk_tree_lp_fast_get_freq_hz
+esp_cpu_intr_edge_ack
+esp_cpu_intr_set_handler
+esp_cpu_intr_set_priority
+esp_deep_sleep_register_phy_hook(&phy_close_rf)
+esp_deep_sleep_register_phy_hook(&phy_xpd_tsens)
+esp_efuse_mac_get_default(sta_mac)
+esp_efuse_read_field_blob(init_code_efuse, &init_code, init_code_size)
+esp_efuse_utility_process
+esp_efuse_utility_read_reg
+ESP_ERR_CODING
+ESP_ERR_DAMAGED_READING
+ESP_ERR_DPP_AUTH_TIMEOUT
+ESP_ERR_DPP_FAILURE
+ESP_ERR_DPP_INVALID_ATTR
+ESP_ERR_DPP_INVALID_LIST
+ESP_ERR_DPP_TX_FAILURE
+ESP_ERR_EFUSE
+ESP_ERR_EFUSE_CNT_IS_FULL
+ESP_ERR_EFUSE_REPEATED_PROG
+ESP_ERR_ESP_NETIF_BASE
+ESP_ERR_ESP_NETIF_DHCP_ALREADY_STARTED
+ESP_ERR_ESP_NETIF_DHCP_ALREADY_STOPPED
+ESP_ERR_ESP_NETIF_DHCP_NOT_STOPPED
+ESP_ERR_ESP_NETIF_DHCPC_START_FAILED
+ESP_ERR_ESP_NETIF_DHCPS_START_FAILED
+ESP_ERR_ESP_NETIF_DNS_NOT_CONFIGURED
+ESP_ERR_ESP_NETIF_DRIVER_ATTACH_FAILED
+ESP_ERR_ESP_NETIF_IF_NOT_READY
+ESP_ERR_ESP_NETIF_INIT_FAILED
+ESP_ERR_ESP_NETIF_INVALID_PARAMS
+ESP_ERR_ESP_NETIF_IP6_ADDR_FAILED
+ESP_ERR_ESP_NETIF_MLD6_FAILED
+ESP_ERR_ESP_NETIF_NO_MEM
+ESP_ERR_ESP_NETIF_TX_FAILED
+ESP_ERR_ESP_TLS_BASE
+ESP_ERR_ESP_TLS_CANNOT_CREATE_SOCKET
+ESP_ERR_ESP_TLS_CANNOT_RESOLVE_HOSTNAME
+ESP_ERR_ESP_TLS_CONNECTION_TIMEOUT
+ESP_ERR_ESP_TLS_FAILED_CONNECT_TO_HOST
+ESP_ERR_ESP_TLS_SE_FAILED
+ESP_ERR_ESP_TLS_SOCKET_SETOPT_FAILED
+ESP_ERR_ESP_TLS_TCP_CLOSED_FIN
+ESP_ERR_ESP_TLS_UNSUPPORTED_PROTOCOL_FAMILY
+ESP_ERR_ESPNOW_ARG
+ESP_ERR_ESPNOW_BASE
+ESP_ERR_ESPNOW_CHAN
+ESP_ERR_ESPNOW_EXIST
+ESP_ERR_ESPNOW_FULL
+ESP_ERR_ESPNOW_IF
+ESP_ERR_ESPNOW_INTERNAL
+ESP_ERR_ESPNOW_NO_MEM
+ESP_ERR_ESPNOW_NOT_FOUND
+ESP_ERR_ESPNOW_NOT_INIT
+ESP_ERR_FLASH_BASE
+ESP_ERR_FLASH_NOT_INITIALISED
+ESP_ERR_FLASH_OP_FAIL
+ESP_ERR_FLASH_OP_TIMEOUT
+ESP_ERR_FLASH_PROTECTED
+ESP_ERR_FLASH_UNSUPPORTED_CHIP
+ESP_ERR_FLASH_UNSUPPORTED_HOST
+ESP_ERR_HTTP_BASE
+ESP_ERR_HTTP_CONNECT
+ESP_ERR_HTTP_CONNECTING
+ESP_ERR_HTTP_CONNECTION_CLOSED
+ESP_ERR_HTTP_EAGAIN
+ESP_ERR_HTTP_FETCH_HEADER
+ESP_ERR_HTTP_INVALID_TRANSPORT
+ESP_ERR_HTTP_MAX_REDIRECT
+ESP_ERR_HTTP_WRITE_DATA
+ESP_ERR_HTTPD_ALLOC_MEM
+ESP_ERR_HTTPD_BASE
+ESP_ERR_HTTPD_HANDLER_EXISTS
+ESP_ERR_HTTPD_HANDLERS_FULL
+ESP_ERR_HTTPD_INVALID_REQ
+ESP_ERR_HTTPD_RESP_HDR
+ESP_ERR_HTTPD_RESP_SEND
+ESP_ERR_HTTPD_RESULT_TRUNC
+ESP_ERR_HTTPD_TASK
+ESP_ERR_HTTPS_OTA_BASE
+ESP_ERR_HTTPS_OTA_IN_PROGRESS
+ESP_ERR_HW_CRYPTO_BASE
+ESP_ERR_HW_CRYPTO_DS_HMAC_FAIL
+ESP_ERR_HW_CRYPTO_DS_INVALID_DIGEST
+ESP_ERR_HW_CRYPTO_DS_INVALID_KEY
+ESP_ERR_HW_CRYPTO_DS_INVALID_PADDING
+ESP_ERR_IMAGE_BASE
+ESP_ERR_IMAGE_FLASH_FAIL
+ESP_ERR_IMAGE_INVALID
+ESP_ERR_INVALID_ARG
+ESP_ERR_INVALID_CRC
+ESP_ERR_INVALID_MAC
+ESP_ERR_INVALID_RESPONSE
+ESP_ERR_INVALID_SIZE
+ESP_ERR_INVALID_STATE
+ESP_ERR_INVALID_VERSION
+ESP_ERR_MBEDTLS_CERT_PARTLY_OK
+ESP_ERR_MBEDTLS_CTR_DRBG_SEED_FAILED
+ESP_ERR_MBEDTLS_PK_PARSE_KEY_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_ALPN_PROTOCOLS_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_OWN_CERT_FAILED
+ESP_ERR_MBEDTLS_SSL_CONF_PSK_FAILED
+ESP_ERR_MBEDTLS_SSL_CONFIG_DEFAULTS_FAILED
+ESP_ERR_MBEDTLS_SSL_HANDSHAKE_FAILED
+ESP_ERR_MBEDTLS_SSL_SET_HOSTNAME_FAILED
+ESP_ERR_MBEDTLS_SSL_SETUP_FAILED
+ESP_ERR_MBEDTLS_SSL_TICKET_SETUP_FAILED
+ESP_ERR_MBEDTLS_SSL_WRITE_FAILED
+ESP_ERR_MBEDTLS_X509_CRT_PARSE_FAILED
+ESP_ERR_MEMPROT_AREA_INVALID
+ESP_ERR_MEMPROT_BASE
+ESP_ERR_MEMPROT_CPUID_INVALID
+ESP_ERR_MEMPROT_MEMORY_TYPE_INVALID
+ESP_ERR_MEMPROT_SPLIT_ADDR_INVALID
+ESP_ERR_MEMPROT_SPLIT_ADDR_OUT_OF_RANGE
+ESP_ERR_MEMPROT_SPLIT_ADDR_UNALIGNED
+ESP_ERR_MEMPROT_UNIMGMT_BLOCK_INVALID
+ESP_ERR_MEMPROT_WORLD_INVALID
+ESP_ERR_MESH_ARGUMENT
+ESP_ERR_MESH_BASE
+ESP_ERR_MESH_DISCARD
+ESP_ERR_MESH_DISCARD_DUPLICATE
+ESP_ERR_MESH_DISCONNECTED
+ESP_ERR_MESH_EXCEED_MTU
+ESP_ERR_MESH_INTERFACE
+ESP_ERR_MESH_NO_MEMORY
+ESP_ERR_MESH_NO_PARENT_FOUND
+ESP_ERR_MESH_NO_ROUTE_FOUND
+ESP_ERR_MESH_NOT_ALLOWED
+ESP_ERR_MESH_NOT_CONFIG
+ESP_ERR_MESH_NOT_INIT
+ESP_ERR_MESH_NOT_START
+ESP_ERR_MESH_NOT_SUPPORT
+ESP_ERR_MESH_OPTION_NULL
+ESP_ERR_MESH_OPTION_UNKNOWN
+ESP_ERR_MESH_PS
+ESP_ERR_MESH_QUEUE_FAIL
+ESP_ERR_MESH_QUEUE_FULL
+ESP_ERR_MESH_QUEUE_READ
+ESP_ERR_MESH_RECV_RELEASE
+ESP_ERR_MESH_TIMEOUT
+ESP_ERR_MESH_VOTING
+ESP_ERR_MESH_WIFI_NOT_START
+ESP_ERR_MESH_XMIT
+ESP_ERR_MESH_XON_NO_WINDOW
+ESP_ERR_NO_MEM
+ESP_ERR_NOT_ALLOWED
+ESP_ERR_NOT_ENOUGH_UNUSED_KEY_BLOCKS
+ESP_ERR_NOT_FINISHED
+ESP_ERR_NOT_FOUND
+ESP_ERR_NOT_SUPPORTED
+ESP_ERR_NVS_BASE
+ESP_ERR_NVS_CONTENT_DIFFERS
+ESP_ERR_NVS_CORRUPT_KEY_PART
+ESP_ERR_NVS_ENCR_NOT_SUPPORTED
+ESP_ERR_NVS_INVALID_HANDLE
+ESP_ERR_NVS_INVALID_LENGTH
+ESP_ERR_NVS_INVALID_NAME
+ESP_ERR_NVS_INVALID_STATE
+ESP_ERR_NVS_KEY_TOO_LONG
+ESP_ERR_NVS_KEYS_NOT_INITIALIZED
+ESP_ERR_NVS_NEW_VERSION_FOUND
+ESP_ERR_NVS_NO_FREE_PAGES
+ESP_ERR_NVS_NOT_ENOUGH_SPACE
+ESP_ERR_NVS_NOT_FOUND
+ESP_ERR_NVS_NOT_INITIALIZED
+ESP_ERR_NVS_PAGE_FULL
+ESP_ERR_NVS_PART_NOT_FOUND
+ESP_ERR_NVS_READ_ONLY
+ESP_ERR_NVS_REMOVE_FAILED
+ESP_ERR_NVS_TYPE_MISMATCH
+ESP_ERR_NVS_VALUE_TOO_LONG
+ESP_ERR_NVS_WRONG_ENCRYPTION
+ESP_ERR_NVS_XTS_CFG_FAILED
+ESP_ERR_NVS_XTS_CFG_NOT_FOUND
+ESP_ERR_NVS_XTS_DECR_FAILED
+ESP_ERR_NVS_XTS_ENCR_FAILED
+ESP_ERR_OTA_BASE
+ESP_ERR_OTA_PARTITION_CONFLICT
+ESP_ERR_OTA_ROLLBACK_FAILED
+ESP_ERR_OTA_ROLLBACK_INVALID_STATE
+ESP_ERR_OTA_SELECT_INFO_INVALID
+ESP_ERR_OTA_SMALL_SEC_VER
+ESP_ERR_OTA_VALIDATE_FAILED
+ESP_ERR_PING_BASE
+ESP_ERR_PING_INVALID_PARAMS
+ESP_ERR_PING_NO_MEM
+ESP_ERR_TIMEOUT
+ESP_ERR_WIFI_BASE
+ESP_ERR_WIFI_CONN
+ESP_ERR_WIFI_DISCARD
+ESP_ERR_WIFI_IF
+ESP_ERR_WIFI_INIT_STATE
+ESP_ERR_WIFI_MAC
+ESP_ERR_WIFI_MODE
+ESP_ERR_WIFI_NOT_ASSOC
+ESP_ERR_WIFI_NOT_CONNECT
+ESP_ERR_WIFI_NOT_INIT
+ESP_ERR_WIFI_NOT_STARTED
+ESP_ERR_WIFI_NOT_STOPPED
+ESP_ERR_WIFI_NVS
+ESP_ERR_WIFI_PASSWORD
+ESP_ERR_WIFI_POST
+ESP_ERR_WIFI_REGISTRAR
+ESP_ERR_WIFI_ROC_IN_PROGRESS
+ESP_ERR_WIFI_SSID
+ESP_ERR_WIFI_STATE
+ESP_ERR_WIFI_STOP_STATE
+ESP_ERR_WIFI_TIMEOUT
+ESP_ERR_WIFI_TWT_FULL
+ESP_ERR_WIFI_TWT_SETUP_REJECT
+ESP_ERR_WIFI_TWT_SETUP_TIMEOUT
+ESP_ERR_WIFI_TWT_SETUP_TXFAIL
+ESP_ERR_WIFI_TX_DISALLOW
+ESP_ERR_WIFI_WAKE_FAIL
+ESP_ERR_WIFI_WOULD_BLOCK
+ESP_ERR_WIFI_WPS_SM
+ESP_ERR_WIFI_WPS_TYPE
+ESP_ERR_WOLFSSL_CERT_VERIFY_SETUP_FAILED
+ESP_ERR_WOLFSSL_CTX_SETUP_FAILED
+ESP_ERR_WOLFSSL_KEY_VERIFY_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_CONF_ALPN_PROTOCOLS_FAILED
+ESP_ERR_WOLFSSL_SSL_HANDSHAKE_FAILED
+ESP_ERR_WOLFSSL_SSL_SET_HOSTNAME_FAILED
+ESP_ERR_WOLFSSL_SSL_SETUP_FAILED
+ESP_ERR_WOLFSSL_SSL_WRITE_FAILED
+esp_event_handler_instance_register( IP_EVENT, IP_EVENT_STA_GOT_IP, &event_handler, NULL, &instance_got_ip)
+esp_event_handler_instance_register( WIFI_EVENT, ESP_EVENT_ANY_ID, &event_handler, NULL, &instance_any_id)
+esp_event_loop_create_default()
+esp_event_post in esp_netif_action_connected
+ESP_FAIL
+ESP_HTTP_CLIENT_EVENT
+esp_https_ota
+ESP_HTTPS_OTA_ABORT
+ESP_HTTPS_OTA_CONNECTED
+ESP_HTTPS_OTA_DECRYPT_CB
+ESP_HTTPS_OTA_EVENT
+ESP_HTTPS_OTA_FINISH
+ESP_HTTPS_OTA_GET_IMG_DESC
+ESP_HTTPS_OTA_START
+ESP_HTTPS_OTA_UPDATE_BOOT_PARTITION
+ESP_HTTPS_OTA_VERIFY_CHIP_ID
+ESP_HTTPS_OTA_WRITE_FLASH
+esp_image
+esp_intr_alloc(ETS_SYSTIMER_TARGET0_INTR_SOURCE + cpuid, ESP_INTR_FLAG_IRAM | level, SysTickIsrHandler, &systimer_hal, NULL)
+esp_intr_disable
+esp_log_cache_set_level
+ESP_LOG_INFO
+esp_minify_vfs
+esp_netif_attach_wifi_ap(netif)
+esp_netif_attach_wifi_station(netif)
+esp_netif_config_sanity_check(esp_netif)
+esp_netif_handlers
+esp_netif_init()
+esp_netif_lwip
+esp_netif_lwip_add(esp_netif)
+esp_netif->driver_transmit: %p, esp_netif->driver_handle:%p, esp_netif->lwip_input_fn: %p, esp_netif->lwip_init_fn:%p
+esp_newlib_locks_init
+ESP_OK
+ESP_OK_EFUSE_CNT
+esp_ota_ops
+esp_ptr_in_diram_dram((void *)dend) || esp_ptr_in_rtc_dram_fast((void *)dend)
+esp_ptr_in_diram_dram((void *)dstart) || esp_ptr_in_rtc_dram_fast((void *)dstart)
+esp_register_freertos_idle_hook_for_cpu(idle_hook_cb, core_num)
+'esp_reset_reason_set_hint
+ESP_RSA_SIGN_ALT
+ESP_SLEEP_DIG_USE_RC_FAST_MODE
+ESP_SLEEP_DIG_USE_XTAL_MODE
+ESP_SLEEP_LP_USE_XTAL_MODE
+ESP_SLEEP_RTC_FAST_USE_XTAL_MODE
+ESP_SLEEP_RTC_USE_RC_FAST_MODE
+esp_sleep_sub_mode_config
+ESP_SLEEP_ULTRA_LOW_MODE
+ESP_SLEEP_USE_ADC_TSEN_MONITOR_MODE
+esp_startup_start_app
+esp_task_wdt_add(idle_task_handle)
+esp_task_wdt_init(&twdt_config)
+ESP_TEST_BLE
+esp_timer
+esp_timer_create(&create_args, (esp_timer_handle_t*) & (ptimer->timer_arg))
+esp_timer_create(&phy_track_pll_timer_args, &phy_track_pll_timer)
+esp_timer_create(&timer_args, &battery_ctx.timer_handle)
+esp_timer_delete(phy_track_pll_timer)
+esp_timer_impl_set_alarm_id
+esp_timer_start_once(ESP_TIMER(ptimer), time_us)
+esp_timer_start_periodic(battery_ctx.timer_handle, 1000000)
+esp_timer_start_periodic(ESP_TIMER(ptimer), time_us)
+esp_timer_start_periodic(phy_track_pll_timer, PHY_TRACK_PLL_PERIOD_IN_US)
+esp_timer_stop(phy_track_pll_timer)
+esp_timer_systimer
+esp_vfs_register_fd_range(&vfs, NULL, LWIP_SOCKET_OFFSET, MAX_FDS)
+esp_vfs_register_fs("/dev/uart", &s_vfs_uart, ESP_VFS_FLAG_STATIC, NULL)
+esp_wifi_init(&cfg)
+esp_wifi_set_config(WIFI_IF_STA, &wifi_config)
+esp_wifi_set_default_wifi_ap_handlers()
+esp_wifi_set_default_wifi_sta_handlers()
+esp_wifi_set_mode(WIFI_MODE_STA)
+esp_wifi_start()
+esp_wpa3_hostap_task
+ESP32 HTTP Client/1.0
+esp-aes
+esp-aes-gcm
+ESPNOW
+espressif
+esp-sha
+esp-tls
+esp-tls-mbedtls
+ESRP
+established
+eT94
+ETGK
+ETH_DEF
+eth_ret != NULL
+EtHN
+Ets5
+ETSTimer
+etW-
+eU/6!0
+Eu;{7Qs/
+EuQmj
+ev->event
+evbuf != NULL
+event_handler
+event_loop
+eventq
+eventq->q
+-EVI"1
+eVsU$
+EwiY
+EX"*
+EX[@
+Exception was unhandled.
+EXEC
+Exec format error
+Exj\
+ExK!
+Expected hash
+ext_adv unfound for per_adv: %d
+Extended Key Usage
+extended master secret
+eXz~
+Ey{8R
+ey<5
+eYC}
+Eyn1
+EynG
+'ezP
+f (`
+F 5d&
+F y5oY
+f!@+5
+f!]N'
+f!DP<
+F"M@
+f#2e2
+f#q!%`b
+f$`-
+F$bP)
+f$H]
+F$P)
+F$q(
+f&(Dr
+f&)@
+F&@_
+f&0j
+F(][
+f({j
+f)'E
+F*?#:
+f*-]
+F,md
+f,p2
+F.`-
+f.RE
+F/>K
+f/IF
+f/Z8
+F:)7&
+f:87
+F;`$
+F?/MZA
+F?y%
+F-@~
+F@<q
+f@BD
+F@s"
+f@sfI2
+f@T_o
+F'[J
+F\^r%f
+f'^.
+f`MY
+f`W=
+f{)i
+f{.&B2n
+f{_/
+f{4u
+f{5&
+F|Z=
+F}),
+F}Vl
+F~aQk
+f~Gk
+F~OzpW
+f+pJ
+F</Hn
+F=$l8
+f=4E
+f>!|
+F>~K
+F>h-
+f0%(
+F07e
+F0xhJ
+f1;?9
+F1b'
+f1D:
+F2iQ
+f3;G
+f3z*
+F4@*+/
+f4C$4<d
+F4pd#0
+F5}n
+f5CE
+f7wcP
+'f8L
+F9N9n
+f9Y/@
+FA*Bg
+fA[M
+Fa<}
+failCode
+Failed to allocate memory for JSON string.
+Failed to create JSON object.
+failed to create tcpip_thread mbox
+failed to give the mutex
+Failed to stop BLE advertising: %d
+failed to take the mutex
+false
+false && "Failed to find pthread for current task!"
+false && "Failed to unlock mutex!"
+false && "unsupported RMT clock source"
+faSo
+faw"
+fb.c
+FC:Cr
+fc6 
+FC6>
+FC'q
+fd >= 0 && fd < 3
+fd(sh&
+FdAW
+F-DQ
+Fdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ91
+fe"E6(FX
+FE+jY
+Feb 18 2025
+fEb_
+FE-g
+fegkQ
+Fei9|
+fEKE
+FFFFFFFFFFFFFFFFFFFFFFFE26F2FC170F69466A74DEFD8C
+ffIi5>
+Fg"zi
+fG0]k(
+fG5`
+Fgve
+FgZ}
+fHc+t @
+Fhcg<
+fHuzO;
+fI0v
+Fi3k
+fIEZ
+fig<
+File descriptor value too large
+File exists
+File or path name too long
+File too large
+FiN%
+FINAL EM IDX %d,
+find_desc_for_source
+fj$g>
+FJ@,
+FJAC
+fJcn
+fJV%a
+fK2{
+fKa=
+fKa>@
+'fKD
+fkH0rP
+FKL(
+FKzx
+fl>e
+fl83
+flash_hal
+flash_ret == ESP_OK
+FL-W=
+fM<V6
+fn must be != NULL
+FN\+
+FN<(
+fNNpe
+FnPGw
+fNz[\v
+FO#!
+fO%8
+fO1U
+FokQ
+found
+fP~C
+Fpm_
+fPN0
+FpW)
+fQ,?
+Fq.G
+FqSS
+fQV>
+fR]$8
+FRAG_PBUF
+free
+freeing conn without freeing pcb
+FreeRTOS
+from != NULL
+from beacon
+from user
+FROM_CPU_INTR0
+FROM_CPU_INTR1
+FROM_CPU_INTR2
+FROM_CPU_INTR3
+fromaddr != NULL
+fromlen != NULL
+FRsD
+Ft|x
+fTw^
+Ftxj+
+F-U&
+Fu:4
+fU?X
+fU8%
+FUK4
+Function not implemented
+fup}
+FV`Q74Y
+fV45E'
+fV8(,
+FVjF
+fvrh
+Fw[Z
+FW^p
+Fw07
+fW3@
+fWf<
+fwvU
+fy%?
+fyH~
+FyiP-
+fYP6p
+FYwR
+G 8P
+G""aA
+g"DU
+G#6*`
+g#N6
+g#WV
+g$<SQ
+G$JAh
+g$nv
+G'$uC
+g%9{
+g%ek-
+g&3g
+g(5Yhg}
+G(yNJ
+g)3X;
+g)Hc
+g)M:i
+g*a<f
+G*w*K
+g,sy
+g.1Jy<t
+G.8!4hH
+g/g}
+G/HV7
+G:]S<
+g:-iY
+G:uBF
+G;^;
+G;B9'
+G?<P.
+G?2[
+G?GT=]
+g?Wv
+g[3kk
+g[4[
+g[QR
+G\{4}&
+G\8`
+g] B
+G]*E
+G^T(
+G_\@
+G_ic
+g`jEY
+G`v!
+g{,g
+g{_Zd
+g{e[
+G{nZ*)
+G|,?;
+G|+m
+g|R`r
+G}1H
+G~(?
+g~)n
+g~.A}
+g~@%
+g~g w
+g~IT
+g~KR
+G~Rd
+g~x-w
+G+)a
+g<"n
+g<I{/
+g<TP
+G=Op(u/ _
+G=R$
+g>dv
+g0 /
+-g0;
+g03V
+G08i'
+g0q^
+G2fy_a
+G2g%
+G3<N
+g4.F \
+g4JZ+
+g4SB
+G4Vn
+g5OF
+G7#T
+G7['fEXd
+G9I7U
+g9VOv
+'GA)
+GA`U
+GA4e?
+gAJ1Hx
+gap >= gap_minimum && "gap size too small"
+gatt_svr_register_cb
+gbE3.
+gbM|
+GbvY
+GBW[
+gC$j
+Gc*5)
+gCjVA
+gcK,
+Gd&IIa
+gD\1
+GDe7"
+gdma
+GDO?*>
+GeC>
+GEl4
+GEm-
+gEmg
+Generation qualifier
+generationQualifier
+Generic EC key
+get_dig_dbias_by_efuse
+get_rtc_dbias_by_efuse
+GF_+nC
+GF>|
+GF2H
+gfcP
+GfJ!
+gFx6
+GG+/6:
+gGF*z
+gGgreW
+GghX
+GH9`
+ghbw
+ghCo
+gHGO
+gi#?
+Gi&&
+GiI;
+gInQ{
+Given name
+GiX#2raJ
+gJfJ
+'GJn]>
+Gjny[
+Gk"}T
+gkRPT
+GkxF
+gljD1
+glm9
+GlP'X0
+glq,
+glT"u
+gLY{
+GMa,3H1
+GNW3
+gnY9
+Go@s
+GoH@
+GP      
+GP$]
+gpbT
+GPc?Y
+GPIO
+GPIO interrupt type error
+GPIO number error
+GPIO output gpio_num error
+GPIO pull mode error
+GPIO_IS_VALID_GPIO(gpio_num)
+gpio_ll_deepsleep_wakeup_disable
+gpio_ll_deepsleep_wakeup_is_enabled
+GPIO_NMI
+gpio_num <= GPIO_NUM_5 && "gpio larger than 5 does not support deep sleep wake-up function"
+gQ-\
+GQ4)D&3 
+gQW\
+grfI
+GRjUc
+gRmd
+group cipher suite
+Group key expansion
+Group Mgmt cipher suite
+group->pairs[pair_id]
+gS*\
+-gs@
+GS6r
+GSD_>
+GSsB
+Gt"#dBM
+GT]MW
+gt'}36
+GtuP8
+GTWIR
+GU$'/
+gU(hT
+gu_-
+gU}'
+gu2r
+GUA 
+gUOH
+Guru Meditation Error: Core 
+gus1)Q
+GV3{
+GV-P
+gv-Q|&
+gVxz
+gw\Iw
+GwQoqr
+GX?*
+GxgY
+GXHw
+Gy)p
+gydCD
+gYQ6
+GYYE
+gz/FJCN
+gZf_
+gziuo
+h != ((void *)0)
+H 5.
+h xu
+H!7?T
+H"7@
+h-"C
+H"or
+H"xd
+h"XKq
+h#,4
+'h#k/j
+h#rI
+h#rw
+h#VPY
+h#W<
+h$E;
+H%Ck
+h'-&
+H&)1o?X
+h&;S
+h(Zl1
+H);W
+H)E_
+H*&8
+h*BR
+H,75H
+h,Ls
+H,sqlew 
+h.-p
+H/l)
+h;s+
+h?$a
+H?,<M
+h?/#
+H?1r
+h?rXM0
+H?WI:`
+H[h,
+H[ls
+H\*J
+H^]f
+H^YT
+H_MV
+h_xh
+h_XN
+H`\b
+h`B'
+h`j+
+h-`NM
+h{3x
+H|Et4
+H|XM
+H}0Qb
+h}8V
+H}8W:i9
+h+.u
+h+E1
+H<A6
+H<tQ
+H<X3
+H=m:T
+h=Se
+h=s'In
+h0y*
+h0zk
+H16B
+h2*D
+H2m|
+h2S2
+H4TL EIF Magic mismatch: %08x
+H4TL EIF not registered
+H4TL EIF Version mismatch: %08x
+h4tl.c
+H6%="
+H6km
+H6x6o4
+H8<[
+H8BH16B
+H8J[
+H8N1xTF
+h9F7
+H9FA
+h9h.
+HA*(
+Ha,#
+ha{>
+HA<=
+HaJh
+hAMb
+handle != NULL
+handle == (SemaphoreHandle_t) &s_common_mutex
+handle == (SemaphoreHandle_t) &s_common_recursive_mutex
+handler_ctx
+Hardware Target Code Invalid: 0x%x
+hAwkD`
+hb[Q^S
+hB]M
+HB{I
+hB}5B
+HBBBH
+HBHH
+HBpF
+HBWC
+hci_msg.c
+hci_tl.c
+HCITL: fail to alloc acl %0x, %0x
+HcYc
+HD(@
+HD(|
+hD{U;
+HD'k
+HdU:Z
+HEAD
+heap != NULL
+heap != NULL && "free() target pointer is outside heap areas"
+heap != NULL && "realloc() pointer is outside heap areas"
+heap_caps_aligned_alloc
+heap_caps_calloc
+heap_caps_free
+heap_caps_init
+heap_caps_malloc
+heap_caps_malloc_default
+heap_caps_malloc_prefer
+heap_caps_realloc
+heap_caps_realloc_base
+heap_caps_realloc_default
+heap_idx <= num_heaps
+heap_idx == num_heaps
+heap_init
+heap_size <= HEAP_SIZE_MAX
+heaps_array != NULL
+heartbeat_task
+heartbeat_timer
+heatSwitchStatus
+heF\
+HEYt
+Hf$;E
+hF`K
+hfkN
+HfuH
+Hg_K
+hG}i2F
+HGdt
+HgQZ;
+HgsL
+Hh[P
+HH`d
+HHBB6BBHHHHHH
+HHBBB6BBB
+hHh_A
+HHHHHHH
+hI >3~z
+hi%d, lo%d
+Hi,t
+hI@ 
+Hi5HA 
+Hibj.
+high_ticks >= 1 && high_ticks <= 65536 && low_ticks >= 1 && low_ticks <= 65536 && "out of range high/low ticks"
+HIuY
+Hj`C,"
+hj>A
+HJ2cj
+hjk{
+HjXF
+hK*AFy
+HK:B
+HK@n
+hK|3
+Hk+/&
+hk3!
+hK'H
+hKKK
+HKQ"-
+hkyC
+hKz.
+hL$2
+HLI Magic mismatch: %08x, %08x
+HLI Version mismatch: %08x, %08x
+hln7f
+hlnF
+-hlw
+HLy\
+hM&2
+HM^{
+hMA:
+hmacSHA1
+HMAC-SHA-1
+hmacSHA224
+HMAC-SHA-224
+hmacSHA256
+HMAC-SHA-256
+hmacSHA384
+HMAC-SHA-384
+hmacSHA512
+HMAC-SHA-512
+hMmm
+Hn|!
+hn3;
+HNgu
+ho~<
+ho2F
+Ho5[
+hOAo+2n
+HoJU
+HoS0;
+hoSdh
+Host
+Host is down
+Host is unreachable
+Hp -
+hp6G
+hPE%
+HPE_CB_body
+HPE_CB_chunk_complete
+HPE_CB_chunk_header
+HPE_CB_header_field
+HPE_CB_header_value
+HPE_CB_headers_complete
+HPE_CB_message_begin
+HPE_CB_message_complete
+HPE_CB_status
+HPE_CB_url
+HPE_CLOSED_CONNECTION
+HPE_HEADER_OVERFLOW
+HPE_INVALID_CHUNK_SIZE
+HPE_INVALID_CONSTANT
+HPE_INVALID_CONTENT_LENGTH
+HPE_INVALID_EOF_STATE
+HPE_INVALID_FRAGMENT
+HPE_INVALID_HEADER_TOKEN
+HPE_INVALID_HOST
+HPE_INVALID_INTERNAL_STATE
+HPE_INVALID_METHOD
+HPE_INVALID_PATH
+HPE_INVALID_PORT
+HPE_INVALID_QUERY_STRING
+HPE_INVALID_STATUS
+HPE_INVALID_URL
+HPE_INVALID_VERSION
+HPE_LF_EXPECTED
+HPE_OK
+HPE_PAUSED
+HPE_STRICT
+HPE_UNEXPECTED_CONTENT_LENGTH
+HPE_UNKNOWN
+hPF}
+Hpgk
+hq)7rE
+Hr}&g
+HRC>
+hRe?
+Hr'r
+hs]D
+hs=Q
+hsh>
+HSpP
+hSrH
+HSuc
+hSwiO
+Ht,M
+H't+
+ht7U
+Htip
+HTMzQ3
+HtRU
+http
+HTTP/1.1
+HTTP_AUTH
+HTTP_CLIENT
+HTTP_HEADER
+HTTP_PARSER_ERRNO(parser) == HPE_OK
+https
+HTTPS_OTA
+Hu-,p
+HV-:
+hVH0~#U
+HW,>
+hw_mem_regions[i].region_size % CONFIG_MMU_PAGE_SIZE == 0
+hw81w
+HW9L-{
+hWeu{<
+HWPW4
+hX:T 
+hX\,4 .
+hx0N0
+hX1/
+hx1uX
+HxLs
+Hy"r
+Hy;PS\I
+HyT\pEy#
+HZ|\
+Hz7r
+Hz9S
+HzBq6
+hzs~f
+i < ARP_TABLE_SIZE
+i == 0 || s_log_cache[(i - 1) / 2].generation < s_log_cache[i].generation
+i == proc->read_mult.num_handles
+I"-3^yt
+I#n2
+i$!`]
+I$?$.
+i-%0
+I%Gr{
+I&|r
+i&ZJ
+i(iR
+i)G5
+I,82
+i,RX
+i/*BE
+-i/2
+i/F&+
+I/ild*
+I/O error
+i:bp
+i;bV
+I;vl
+I;Yv
+i?2O
+i?b>@
+i[;Fw
+I']A
+-I_:
+I_H%h@
+I_l0V
+I_WW
+i`BB9^^
+i{.s
+I{@K;
+i{{Q
+i{02
+i{e.
+i|=e
+I}Pu
+i+0T.
+i+HO
+I-<\
+i<R&
+i=<-+sT.;
+i='y/
+i>,-Z
+i>[T
+i>3QFY1(
+I>7%
+i>Ti 920
+i>z|z
+'I0GZhE
+I0qF
+i0Up
+I1MFX
+I1xN1g
+i2!^
+I2;D
+i24#A
+I2C_EXT0
+I2C_MASTER
+i2g>
+i2p.XcH
+I2S0
+i4H!
+i5['
+I5k6
+i'5T
+i5Y*-
+i65z
+I6Py
+I6q,
+i7^,M
+i8^-g
+I8~e`
+I8lB
+I90V
+i98;
+i9ds;H
+Ia {
+Ia"q
+IA*{
+'Ia2
+Ia7P4
+IA-M
+IB?l
+IB\'
+Ibus authentication failed
+Ibus tried to write cache
+Ic_AQ-
+ic4Wl
+Ic8!s;
+ICACHE_PRELOAD0
+ICACHE_SYNC0
+IcDq
+ICi:
+Icl&
+ICLX
+icmp_input: moving r->payload to icmp header failed
+icmp_input: restoring original p->payload failed
+icmpv6 packet not a direct response
+ID~g
+id-at-commonName
+id-at-countryName
+id-at-dnQualifier
+id-at-generationQualifier
+id-at-givenName
+id-at-initials
+id-at-locality
+id-at-organizationalUnitName
+id-at-organizationName
+id-at-postalAddress
+id-at-postalCode
+id-at-pseudonym
+id-at-serialNumber
+id-at-state
+id-at-surName
+id-at-title
+id-at-uniqueIdentifier
+id-ce-authorityKeyIdentifier
+id-ce-basicConstraints
+id-ce-certificatePolicies
+id-ce-extKeyUsage
+id-ce-keyUsage
+id-ce-subjectAltName
+id-ce-subjectKeyIdentifier
+id-domainComponent
+id-ecDH
+id-ecPublicKey
+Identifier removed
+id-J
+id-kp-clientAuth
+id-kp-codeSigning
+id-kp-emailProtection
+id-kp-OCSPSigning
+id-kp-serverAuth
+id-kp-timeStamping
+id-kp-wisun-fan-device
+IDLE
+idle_task_handle
+id-md5
+id-netscape-certtype
+id-sha1
+id-sha224
+id-sha256
+id-sha384
+id-sha512
+iDSM
+id-uid
+IE B\#
+ie$e
+ieee80211_action.c
+ieee80211_crypto.c
+ieee80211_hostap.c
+ieee80211_ht.c
+ieee80211_input.c
+ieee80211_ioctl.c
+ieee80211_output.c
+ieee80211_phy.c
+ieee80211_scan.c
+ieee80211_sta.c
+ieee80211_supplicant.c
+if first != NULL, last must also be != NULL
+IF=?
+ifca
+IfF:
+ifyb
+ig#U
+iG$W
+Ig)=
+IG;[
+IGMP_GROUP
+igmp_joingroup: attempt to join allsystems address
+igmp_joingroup: attempt to join non-multicast address
+igmp_joingroup_netif: attempt to join allsystems address
+igmp_joingroup_netif: attempt to join non-multicast address
+igmp_joingroup_netif: attempt to join on non-IGMP netif
+igmp_leavegroup: attempt to leave allsystems address
+igmp_leavegroup: attempt to leave non-multicast address
+igmp_leavegroup_netif: attempt to leave allsystems address
+igmp_leavegroup_netif: attempt to leave non-multicast address
+igmp_leavegroup_netif: attempt to leave on non-IGMP netif
+igmp_lookup_group: all except first group must not be allsystems
+igmp_lookup_group: first group must be allsystems
+igmp_send: check that first pbuf can hold struct igmp_msg
+IGTK key expansion
+II~&
+iI2%\
+Ii9Z@
+ijC@(
+ijfb
+IJg]
+IJx7
+iKft<
+il;Z
+iL9h
+ILbpN
+Illegal byte sequence
+Illegal instruction
+Illegal seek
+iLnI
+iM$4
+iM%uN
+IM3t
+IM'bi
+imd@
+ImFR
+in/Aq
+iN|'
+inconsistent oversize vs. len
+inconsistent oversize vs. space
+increment_magnitude <= p->len
+indicate; 
+INeh`
+Infinity
+iNG~
+Init
+Init Counter
+init_code_size == 10
+initial_count invalid (neither 0 nor 1)
+Initials
+inity
+inmx
+insane offset!
+inseg.p != NULL
+insert_free_block
+Instruction access fault
+Instruction address misaligned
+Instruction page fault
+intc.c
+Interrupt wdt timeout on CPU0
+Interrupted system call
+intr_alloc
+intr_free_for_current_cpu
+intr_num >= 0 && intr_num < SOC_CPU_INTR_NUM
+Invalid argument
+invalid character in chunk size header
+invalid character in content-length header
+invalid character in header
+invalid constant string
+invalid copylen
+invalid copylen, len would underflow
+invalid dhcp->state
+invalid fragment
+invalid host
+invalid HTTP method
+invalid HTTP status code
+invalid HTTP version
+invalid index
+Invalid mbox
+Invalid netconn type
+invalid netconn_type
+Invalid netif index
+invalid op_completed_sem
+invalid path
+invalid pbuf type
+invalid pbuf_type
+invalid pointer
+invalid port
+invalid query string
+invalid response
+Invalid scan backoff upperlimitmax: 0x%x
+invalid server address type
+invalid sleeptime
+invalid socket state for err callback
+invalid socket state for poll
+invalid socket state for recv callback
+invalid socket state for sent callback
+invalid URL
+iNwl
+io <= ESP_MSPI_IO_WP
+IO8H:R
+iocap
+IoO6
+iOOc
+IP_EVENT
+ip~s/
+ip4_frag(): pbuf too short
+ipaddr != NULL
+IPV6_MULTICAST_HOPS
+ipx/
+Iq,+
+IQCPh
+iqjM
+iqUT
+ir%(
+ir.J~
+iR|g
+Ir|p
+IRAM0_ANY
+IRAM0_RTCFAST
+IRAM0_SRAM
+iRdB
+Is a directory
+is_vect_desc_usable
+IsE:
+isg)5
+isI1
+isqf
+iStd
+it != NULL
+it,1
+iterations
+iterator != NULL
+ITfe
+iTj(
+ITWG
+ITY726
+IU>\
+iUg<
+IUlfN5
+IuTN
+iv'-
+IV ].
+IV.k
+ivfGC
+ivJg
+ivlbe 
+I'vz
+iw 0
+iW-.
+iw5<
+iwO:
+IxeJ*a>
+IXk0[
+IxSa 
+IY<"U
+iY>{s
+iYKe-
+IyoY
+IYwO%|
+IZN-
+iZU9
+j u'
+j!!h
+J!Z`/
+J"$A
+j"(+u
+J"-M%9g#
+j#'1
+J#Mh
+J#Uh
+J$1Dr
+j$BW
+J%`z5
+J%wM)_
+J&MN
+J&Or
+J(5>
+J(dr
+j(U,
+j)Ju
+J'*#Q
+j*Ai
+j*HRefI
+j*R7
+j'',.,[
+-j,u
+J.)l
+j.;@
+J/2z^
+J/6S^S
+J/q3
+J': 
+j:/2
+J:O4
+J[5/Q}^
+J[v<
+j]+q
+J]6z
+j^[k
+J_-%
+j_n'
+j`)c
+J{u6
+J|mI
+J-}`
+j}eFpR
+J~7\
+J~d"oS
+J+0;
+J+Jc
+J<U`ek=I
+j=;b
+j=2*
+J=vp
+j0AvT
+'J0eKQ
+j0G8H
+J0W}j
+j5*>
+J5F{
+J5-J
+'j650
+J8X$
+J9(?
+J9>G
+j9zd
+jA@T
+ja^cj
+ja5r
+jaAg0
+jbah
+Jc)P
+JC,te
+JC^y&|
+JC<L_
+Jc0 
+JCDI
+jcf(
+jch2TQ@
+jcwa
+Jczi
+jDvd
+JE]b]
+Je7lxx
+je9d
+JE'E
+JelmQ>
+jEuN
+JEVu"
+JeX56v
+jeyX
+Jf^?6
+Jf-PI4
+JG3D
+jGh 
+Jgk)
+jh*(
+jh9\j
+jHCn
+JHjp
+jHw@
+jhw^@
+JI/~Nr
+Ji/0
+jIpm
+jiuK
+JJ\<
+jk*y
+JK{y+
+Jlhy
+jLP/
+Jm4l<
+-jM7:s
+jmfl
+Jmj#5
+jMZp
+jNr%ADr
+JNsr
+JnU!*0
+joC4
+joiV
+JomZ
+jOTF
+Jou|
+jov\
+Jp!^
+JP&'
+jPHfDE
+jpHQ
+JPWg
+'Jq-
+jQ6_|
+JQ7!p
+jql71f
+jqqZ
+jR$d`
+Jr^:
+jRv"7
+jspU'
+jsSAB
+JSX5
+JT }
+JT&>m&}
+JTmMYgv
+Jts;/<
+JU<+
+Ju2v;
+Jun 27 2025
+jUn`BgHmF
+juWk
+jv&9
+Jv\~
+JVb+
+Jvfz
+JVhs
+JvS>U
+jw/-
+JW<!qu :
+jwB,
+JX<<
+Jx5,
+JX64
+Jxgd
+Jy~_
+Jy<5e
+JYpP
+jZ~:5
+JzJK
+K aY
+K k3O
+k s<
+K yYaz~o
+k!Kf
+K"i\
+k#HL
+k#L$
+K$- 
+k$>#
+K%$u
+K%&2xU
+k%[8
+k%`&\>
+k%zT
+K&g)
+k&lKf
+k&v\
+K(]G-
+k);:b
+K)n|
+k*-!
+k*/P
+k'*]
+K*v|
+K',t
+K.6?X
+K.7*
+k.dELH
+K/v>
+K;-6G
+k@@ZI
+K@=j
+k@N5
+k[b6
+k[z6
+K\EYh
+k]{J
+K]<4:
+k]-V
+K^/)ay
+K_"'p
+K_{4
+k_9b
+k`68=
+k{.=
+k{3.
+k{5nO
+K{'F
+K{wo
+k|V}
+K};5
+K}6}
+k}vYR;%
+K+Ai
+k+q;
+k+s~P
+K<]p
+K<{'
+K<nFc
+k<t^'
+k=]5
+k==4
+K>}R;1)%
+k>a(O
+k>ycQ
+K0}0
+k'0G
+K1=.
+k2''
+k2[^
+K2+_
+K2+O
+k2KBN
+k3.9X
+k3g@
+k3It
+k4wy
+k5$_<
+k5X?
+k6#M3z
+k60#
+k6i.G
+k6jX}B
+k6w*Mv@
+k7"]
+K7%r{
+k7eJY0Q
+K9I0
+k9qG[
+Ka?M
+ka+p*
+KAj~:
+kaU5oy
+KB?2x:
+kB_}[}
+kbEY
+KBn'{
+KC4 
+kc6%G
+kc7q
+kcj3
+kcsx|
+Kct\
+Kd-,4
+KdwFD
+k-dY[t
+KDy{
+kDYU
+ke_event.c
+ke_mem.c
+ke_msg.c
+ke_task.c
+ke_timer.c
+Keaa
+keep-alive
+kESb;
+KEWB
+key expansion
+Key Usage
+kf"?
+kF$(=;
+kf*B+Bx
+Kf{b
+KF6"
+kfT4
+KGnD
+KgSu
+kgV6
+kh7*;
+kH84
+kHO'5
+KHTh
+KI/c`
+kI[)
+kIe n
+KIf 
+kIFmTJ
+kIl<p
+Kipsi
+KIx&I
+kK&v
+kK/`
+kK0w)
+kKCQ?
+kkFUdA
+KkOtd
+kKqU|L
+k-l zdI
+kL"C#
+klBJ
+KLn\
+kLS^
+Km35
+kMhf
+kmk!
+kMO[7.x
+KMuO
+KN&o
+'Kn_
+kn|(
+kNFht
+KnG01
+Ko#Y
+Ko@r
+KO`q
+K'o}
+KoBB
+Kp]xYL
+Kpu~
+kpvYe
+kQ+~_y
+KQeU
+kR~a
+KR0-I!
+Krc=p
+KrR`/
+Ks=F
+ksF)
+KSlgr>
+kSRAv
+kSuMb
+kT!:9X)GZ(
+kt;X)%
+Kt~W
+KT36
+kTC*
+ktrL
+KtZ6y
+KU\`
+KUG4
+Kv5;p.
+Kvf8
+KvZML
+KW.~
+KW@7
+kXca
+Kxm=
+kY]1 z
+KY_:!;
+KY0l
+KY1L
+kY6m
+kyMt
+L _'
+l V@b
+l w{
+l!?Y
+l!>1
+l!KD
+L!sS
+l!zr-
+l".[B
+L"sB
+L$EKC
+L$f<
+L$n<
+L&A]c
+L&Ax
+L&QN
+L(i&Y
+l(L(
+l)9U
+l)wR
+l)zK
+-l*aK
+L*i~
+l:20
+l:gX
+L:P(
+l:qm
+l;<T9
+L;04
+L?"FQe
+L?}W
+L?a/
+L?vy
+L@1`
+L@O)
+L@Py
+l@vN
+l[:z
+L[~ 
+l[U`H
+l]eZD
+l]qF
+l^3*!
+l^YP
+L_8;
+L_J 
+L`K<
+l`qh'l
+L{U,q
+l{ZS
+l|*0X
+l|Y:
+-l};
+l}?}
+l}4d
+L}C 
+L}gZ
+L}nU
+L}Yt`ld
+L~`J
+L~7$
+L~N_
+L<G{
+l<nl|n
+l=C3
+L=r2
+l=v,,=
+l=Ww
+l0(G
+L0+`h
+L0=;
+L0N@T
+L26)
+L2CN
+L2eN
+L2X+
+L3*t8
+-L3G
+L3qK
+L4lH
+l5){Lk
+L5)J
+l5^h
+L6c+
+L6XY
+L7"0
+l7*(
+l7dv
+L7qp
+l8tz
+L9 H
+la`-
+last
+last != NULL
+last_unsent->oversize_left >= oversize_used
+lb`]
+Lb7(
+LBA0
+LBB&6
+lBCq
+lBZ2jX
+LbZv
+'LC"
+Lc7x
+LCb&!
+-lcCR
+lCKI7CL
+ldD`
+lDDg)
+lDJN/>
+lDlRs
+lDu4-P
+Le;2^A
+Le{k8
+le>@
+led_rmt_encoder
+led_strip
+led_strip_new_rmt_device(&strip_config, &rmt_config, &xgzd_strip)
+led_strip_rmt
+led_task
+LEDC
+LEf[
+lEM]94S
+len > 0
+len_remain < len
+len_remain < length
+Letb
+LF character expected
+lf7]
+Lfp|
+LG:1B
+LG`b
+lG>PS1
+Lg1.
+LGdID
+lGnkG
+Lh_i
+lH{V
+lhE.
+lHvZ
+lhY!
+li@QM}
+lI{?
+libbtbb version: %s, %s, %s
+lii>r
+lIIf 
+liKH
+line:%d,function:%s
+LINK
+lIY\
+lJ[8
+ljHG
+LJmz}V
+Ljp,
+LK:&
+lk;0
+l-kk~
+lkK1
+lkQ 
+ll`)
+llc.c
+llc_chmap_upd.c
+llc_con_upd.c
+llc_disconnect.c
+llc_dl_upd.c
+llc_encrypt.c
+llc_feat_exch.c
+llc_hci.c
+llc_le_ping.c
+llc_llcp.c
+llc_phy_upd.c
+llc_ver_exch.c
+lld.c
+lld_adv.c
+lld_con.c
+lld_init.c
+lld_per_adv.c
+lld_scan.c
+lld_sync.c
+LLM Scan dup filt init failed!
+llm.c
+llm_adv.c
+llm_hci.c
+llm_init.c
+llm_scan.c
+llm_task.c
+Lm|C
+lm<b
+Lma<
+lmac.c
+lNd-<
+LO>\
+load
+Load access fault
+Load address misaligned
+Load page fault
+localhost
+Locality
+Location
+lock != NULL && "Uninitialized lock used"
+lock_acquire_generic
+lock_release_generic
+Lopu
+lorate
+Lp+e
+LPO 
+lpV6{p
+lq`O
+Lq6hG H
+LQ6z6
+lQ9-5w
+LQgdc.
+LQLZN
+Lqu~
+lqxz
+lQZB+?
+LR*X
+Lr@I
+lrbg
+lrbgn
+LRhpY,qcUW~
+lRpkk
+Ls&+
+ls9aT[|T
+lSh|
+lsh<Z0"
+lslo
+LsMC
+lssn
+LsyoW
+LtSD
+Lu,f/M
+lU;c
+LU_y
+LU1u\f
+luEx
+lUU1
+LV`<
+Lva?gfd
+l-VD
+lvW7W
+lW`gx
+lwip_arch
+lwip_connect: invalid address
+LWIP_CORE_MARK_TCPIP_TASK: lwip_task == NULL
+lwip_netconn_do_writemore: invalid length!
+lwip_recvfrom
+lwip_recvfrom_udp_raw: invalid arguments
+lwip_sendto: invalid address
+LWlF
+LwRRu
+ly}B
+ly<<
+lY0C
+LyG-
+lykd
+lym`
+LzZ1
+M 3&
+M 4M
+M Ts}$
+M!~t
+M!C@
+M!sn
+m$\.w=
+M$1W]
+M$7 
+m%$%
+-M%:
+M%7,|
+M%hu%n.%hu%n.%hu%n
+M%X;
+m(?S%
+M(~^B
+M(FKy9t
+M(oqP
+m(ZR
+M)#S
+m)RZ
+M* F
+m*"J
+M*} ^
+m,H 
+m,M8
+m,n8
+M.% 
+M.]QIyY
+m.s#
+m.Tu
+M.uFpI
+M/@bl
+M/LZ
+M/P7
+m:{Bw
+m:ocs
+m:'U
+m:U 
+m;9g
+M?%p
+m?} 
+m@\<1
+m@8m
+m@dN\
+M[NY
+M[U-
+M\jyd
+'m\v
+m] 3
+M]5=1
+M]6@
+M]qCJ
+M^#p
+M^),
+m^[g'
+m^RH
+m_H1^
+M_Kc
+m`f)
+m`Y,
+m{{\n(
+m{nr
+m{yZ8:G
+'m|=P
+m|G0_
+m|q=
+M~mL%
+M=A)d
+M=n5
+M=R@
+m>F\
+M0:7
+M1&c
+-m1)!`
+m1_w
+m1r}L
+'M2u
+M37$
+M48t
+m5f2
+m5Z6
+m6" 
+m65oh
+m6qP
+M6y\
+m'7%N
+M7^g
+m7LA
+m88qr 8<
+M8IZ
+Ma/%)
+Ma[<
+mackey
+MAGIC %08x VERSION %08x
+main_task
+mAJL
+malloc failed
+malloc() must return aligned memory
+MAQS
+master secret
+Mathematics argument out of domain of function
+MBfOg|
+MBL{
+mbox fetch failed
+mbox post failed
+mbox quence not empty
+MBu'
+mC)p1
+MC+7tH
+MCAUSE  
+mcause >= RV_EXTERNAL_INT_OFFSET && "Interrupt sources must not be mapped to local interrupts"
+mcc+
+mcpx
+Md0?
+md5-sess
+md5WithRSAEncryption
+M-dC
+MDO|c&
+Mdu+5
+Me?gY
+ME~o
+Me7`
+meHS
+mem != NULL
+mem_trim returned r != q
+mem_trim returned r == NULL
+Memory exhausted
+Memory protection fault
+memory_layout
+memp_free: mem properly aligned
+memp_free: type < MEMP_MAX
+memp_malloc: memp properly aligned
+memp_malloc: type < MEMP_MAX
+MEPC    
+MERGE
+mesh
+Message too long
+mey0010-yws17jo
+meZ~
+MF(Y
+MF*.
+mf@'
+mf< 
+mF2U
+MFhL
+mfTH*w~}
+MG-%
+mg|;
+mg~F
+mg8$
+mgJP
+mGp0
+MGX1],
+mgzU
+MH5hL
+MHARTID 
+MHf8
+Mhk?
+mI,y
+MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBh
+mIm.
+misc
+misc.c
+miso_byte_num <= 4
+miso_len <= 32
+mIu"
+MIy#1
+MIYG
+MiZU
+mj]:
+MjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVT
+-MJF
+Mk/.
+MKACTIVITY
+MKCALENDAR
+MKCOL
+mkq_h
+mKT~g
+MLD6_GROUP
+mld6_joingroup: attempt to join non-multicast address
+mLjW8
+mlKM
+mLUyl
+Mm G
+mmap
+mmE@
+MMU entry fault
+mn%v
+MN8Q
+MNO!h
+MO$2
+MOb+
+mobE[
+M-OoQ
+mosi_len <= 32
+MOVE
+moYrCS'
+moYt
+mP y{A
+mP`k
+mpga
+mpl.
+MPOQ
+Mpv\
+mPZ7
+MQ4P
+mq5)
+MQa9
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+MR*T
+mR'b
+mrB`
+mRrxU
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+MrY=
+Ms|b
+mS>R
+M-SEARCH
+MsFX
+msg->conn->current_msg != NULL
+msg->msg.sd.shut == NETCONN_SHUT_RD
+msg->msg.w.len != 0
+msgId
+msgType
+msnz
+mss_local is too small
+MSTATUS 
+msys_1
+msys_2
+MTVAL   
+MTVEC   
+mu|\
+MU>\
+MU8m@
+multi_heap_realloc_impl
+multi_heap_register_impl
+Multihop attempted
+muQv
+MusS
+mutex->handle
+MuTI
+MV/d
+MV]Tf
+MVoK
+Mwf\
+mWhiYcP
+mw'Lm2
+MwY1
+MW-z
+MX:J
+mxDC
+mXeD0)G
+MXP"
+My?q58
+My\7*
+My]@J
+my1#0
+myd$
+mYX2[A
+Mz^X
+Mz_VK
+mZ|s}
+n!2]
+n!H!
+n#Lu
+n#R>
+N$'{
+n$s)
+N%[j
+n&_+"z
+n('<ebM=
+N(Wn,
+n)W7
+n*M_
+N,/B
+n,/U
+n,+d
+n.!5
+n.=Q,
+n.6@
+N.HD
+n.r1UO
+n.X2
+N/A (error 
+N/ac
+n/Moc
+N:_=w
+n:xHPF
+n:yI
+N;4/
+n;N:J=*
+n;rLY
+N?SI
+n?X7
+n@/g|!
+n@Ac/
+n@Nj7l
+N@ZP
+n[8`
+n[f3u
+n[PI
+n\Wr
+n]m 
+n]MK5}
+n^|\rk
+n^8Q
+N_X=
+n{>:
+N{8K
+N{tC4
+N|<L
+N|96
+n|Nk
+n|zXWU<N
+N}cA$Lb
+n}D`
+n}M0
+n~|i
+n~RP?71
+n+ TXZ
+n< #P
+N<vZ{i
+N=CY9X
+n>Zx-J
+n0;x
+n'0C
+n0I#
+n0L$
+N1{[
+n14@
+n1e>
+N1WM~
+N2=h`
+N2A#x!"h
+n2IEkr@
+n3|r@jg
+n3n_/,)
+N4uq
+n5&b07
+n5/|U
+n6&m
+N6Gp
+N6H8
+n7Y\
+N873
+N9'&l
+n9h:
+nA\^7Z/
+nAaH0
+NAjR
+nan.phym
+NaqG[kf
+nBi,r
+Nc,V
+nc8Q
+NCBl
+nCG%Ix
+NCj;
+nCo1
+nCy?
+nd1(
+ND6_QUEUE
+nD7Z
+Ndmg
+NDWm
+NdwU
+NE/[
+need unchained pbuf
+NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NG
+'NeS
+net80211 rom version: %s
+NETBUF
+netbuf_alloc: invalid buf
+netbuf_free: invalid buf
+NETCONN
+netconn marked closed
+netconn state error
+netconn_alloc: undefined netconn_type
+netconn_close: invalid conn
+netconn_connect: invalid conn
+netconn_disconnect: invalid conn
+netconn_getaddr: invalid addr
+netconn_getaddr: invalid conn
+netconn_getaddr: invalid port
+netconn_gethostbyname: invalid addr
+netconn_gethostbyname: invalid name
+netconn_join_leave_group: invalid conn
+netconn_recv: invalid conn
+netconn_recv: invalid pointer
+netconn_recv_tcp_pbuf: invalid conn
+netconn_recv_udp_raw_netbuf: invalid conn
+netconn_send: invalid conn
+netconn_write: invalid conn
+netconn_write: invalid conn->type
+NETDB
+netif != NULL
+netif already added
+netif already has a struct dhcp set
+netif is not up, old style port?
+netif must be != NULL
+netif_add: invalid netif
+netif_add: No init function given
+netif_get_ip6_addr_match: invalid ip6addr
+netif_get_ip6_addr_match: invalid netif
+netif_ip6_addr_set: invalid addr6
+netif_ip6_addr_set: invalid netif
+netif_issue_reports: invalid netif
+netif_loop_output: invalid netif
+netif_loop_output: invalid pbuf
+netif_loopif_init: invalid netif
+netif_poll: invalid netif
+netif_set_down: invalid netif
+netif_set_link_down: invalid netif
+netif_set_link_up: invalid netif
+netif_set_up: invalid netif
+netif->hwaddr_len == ETH_HWADDR_LEN
+netif->hwaddr_len must be 6 for ethernet_output!
+netif->hwaddr_len must be the same as ETH_HWADDR_LEN for etharp!
+netif->loop_cnt_current underflow
+Netscape Certificate Type
+Network interface is not configured
+Network is unreachable
+new_array_id < block_nums
+new_buf->om_len == 0
+new_rcv_ann_wnd <= 0xffff
+next && "next physical block can't be null"
+next && "next_free field can not be null"
+Nf,L
+nf2:
+nF4:G
+nfEr-=X
+Ng["K]
+nGE-
+nGGS<
+nGVy
+ni.x
+NimBLE
+nimble_timer
+nj(i
+nj~S-
+njmn
+nJz.z*
+NK[Y
+nk`H
+nKh#
+nkSB
+NL8S
+nlcT
+nM!V
+nMcK
+NN!Z7
+nN%|
+-Nn/
+No buffer space available
+No children
+No data
+No lock
+No message of desired type
+No more processes
+no packet queues allowed!
+no segment to free
+no socket given
+No space left on device
+No stream resources
+No such device
+No such device or address
+No such file or directory
+No such process
+no19
+No4Wt 
+Not a character device
+Not a directory
+Not a stream
+Not enough space
+Not owner
+Not supported
+NOTIFY
+notify; 
+nOu.
+N'P"
+n'p(
+nP>&b
+npbM,
+npl funcs init failed
+npy}<;
+nq)L
+nq^)".
+NQnB
+Nr&j
+Nr;@W
+nR+6{
+Nr'a
+nready >= 0
+nrn;pZ
+nRR[}g
+nSJk
+Nski%[
+nSMP
+Nt(O
+NT}O
+ntd1S
+ntPP 
+NTXA~f
+NU&J<
+nU>{
+Nukq
+null
+num_reg <= (range_read_addr_blocks[blk].end - range_read_addr_blocks[blk].start) / sizeof(uint32_t)
+nUMl
+nUR3
+NV:[KIH
+NV<~rtv
+NVC@
+Nvf1
+nvs.net80211
+nvs_flash_erase()
+nvs_open(NVS_PARTITION_NAME, NVS_READWRITE, &nvs_handle_)
+nvs_set_blob(nvs_handle_, key, value, len)
+nVU(
+Nvw;
+NVZc.Xv9fr1
+Nw.!
+nW4/
+NWAb
+nwWpz82q@
+NX_j
+nx~ 
+Nx+Y
+nxF`
+NY&"
+nY07
+ny8G@
+nyf[x
+nyf^
+nYyQ
+NZ;_
+Nz36
+nZaT,pE*
+nzcU
+nZO2.
+nzsbE
+o *"
+o gt
+o sN
+O!^5
+o!=+
+o"<<S 
+o"'R
+O"u.
+o#Sk
+o$35
+o$3uA
+o%h7
+O&/\
+O&?7
+O&6Q
+O-&-Y
+O( Od
+O-(g
+o(hwP
+o)^;
+o)}1-k
+o)=H
+'O*j
+O,`C)
+O,'|
+o,CtE
+o,e.
+o,Tu@B
+O/kN
+o:x'j|
+O;Dg
+O;vN:)
+o?sXQ
+o@#8
+O@{8(
+O@=<
+o[!E
+O\|U
+O], 
+o][2
+O]C[k
+O]T)
+O^1.
+'O^d
+o^hV
+o^m5
+O_}}
+O_PV.
+O_R5
+o`0z
+o`9 
+O`s"$
+O{(E91
+o{cP
+O{q>6
+o|nIb
+o|Y#
+o}<os7
+o}XP
+O}Zo
+O~#_
+o~<+
+O~h"
+o~O/X
+O~T7
+o~w< 
+O+%I
+o++^
+o+x|
+o<#C
+O<]X@
+O=>@
+o=8f
+O=9$
+o>Cx
+O0^Q
+O03n
+o1|:
+O-13siPn.
+o1'J
+O1XGzA
+o2J]p&>
+O2ui
+o3 .
+o3$m
+o3_:s>2
+O317
+o3M@
+o4_%
+o5]}
+o5+lvV
+o54k
+o5A/8
+o6\z
+O6U]*
+o6x]
+o7_3
+o7ud:
+o8+T
+O8jI
+'O9a
+o9m<Q_
+oA/$(
+'OA;
+OAAnl%r
+oAtgS
+OaZy
+oBdJ
+OBpr$~
+O-C8
+Occug
+OcH>
+OChr
+OcRj
+OCSP Signing
+ocy7
+Od9;H
+O'E.v
+oE]E
+OEbkP
+oEk`
+oEP@
+ofE 
+Off3
+offset_from <= p_from->len
+offset_to <= p_to->len
+ofi-
+ofj]
+OFl^
+o'fp
+Ofv"
+OG(s
+Og**
+OGMP
+oht`
+oi.q.
+OiH0
+OINc
+oj.O
+OjNT[
+OJ'U
+oK%S
+ok&ZD
+oK2*sK
+okFi8+i
+OKL7
+Oklf
+OKN*<
+OKN2_
+OL])
+Ol]rIj
+OL`]c
+Ol3L@<
+olaK
+old_size > 0
+old_str
+oLd2
+oLf[p
+oLhb
+OLI9h]Z?
+OLk8
+OLLG^A8
+OLM^*7*
+'OLp
+Olp 
+om$H
+OM;9
+oM[(
+om|^
+oMFw
+omK\3
+OMN+
+OmrRk{
+Ooe"
+ooseq segments leaking
+op_complete_sem != NULL
+op2U
+opd!
+Open Auth
+Operation canceled
+Operation not supported on socket
+'OpI
+OpIL
+opmode
+opn+$
+OPTIONS
+options not filled
+oqx{ 0
+O'qxF|
+oR!6
+Org Unit
+Organization
+originator
+OS adapter function is NULL
+OS adapter function magic error! Magic %d is expected, but it is %x
+OS adapter function version error! Version %d is expected, but it is %x
+os:!
+Os:5[w
+os_7
+Os|s6
+os2U
+os4t
+OSI Magic mismatch: %08x
+OSI Version mismatch: %08x
+osN[my
+Ot|e
+ota_app_count < 16 && "must erase the partition before writing to it"
+OTAOTAOTA~~~~~~~~~~~~~~~~~~~~~~~:%s
+OTb>
+ou8i,
+ouA=-
+out && nout
+Ow>S\
+OWE Key Generation
+oX-#
+Ox?>:H%3
+oX07[
+OxA\_{_
+oXD( 
+OxL/
+OYBz
+oZ5zjN*
+OZd<hg
+OzK(
+OZyG
+P &+
+P Ui
+p!U7
+p":\0
+P"O~
+p#=1
+p$=6
+p$M@S
+P$VT
+p'%*qug
+p%]'
+P&/<
+P&MI@
+p(5#
+p(72
+p(j3
+p(wI
+p) %
+p)pF
+P)ZQS7
+p*j>j
+P,cZ`
+p,r"
+P.2C`:
+p.x[
+P/qb
+P/Vk
+P:aL/
+p:f{
+P:Pq
+p;qo
+P;Z/\en^
+p?#]p
+P?\c
+p?5/$
+p?ei
+p?x2
+p?YJt&Bi
+p@IH:
+p[,Rp
+p[nLdowj
+P[OK
+P[V&
+P[xiC
+P\`>
+-p^.
+-p^|
+P^Sl
+p_f3
+p_from != NULL
+p_to != NULL
+P`1g`J
+p`S!
+P`T52
+p{4'
+p{r]1}
+p{To
+P{u^9
+p|#`0
+P|f7
+p|j%
+P}|\3Yfv
+P}TL@
+p+5db
+P<D)
+P=4v
+P=Sl
+p->len == 0
+p->next != NULL
+p->ref == 1
+p->tot_len == p->len (of last pbuf in chain)
+p->tot_len == p->next->tot_len
+p->tot_len >= IP6_HLEN
+p->tot_len >= optlen
+p0ew
+p0J4
+P1,>m-&z_R
+p12o
+P1dWe
+p1P?
+P1Ul
+P1z+Y
+P2}e}T
+P2>*
+p3<%3
+P3I&^
+p4iD2P
+P4z9
+P5mU.
+p7Ue
+P81"
+p89?{
+p9,.
+pair && group
+pairwise cipher suite
+pairwise cipher suite count
+Pairwise key expansion
+parser is paused
+parser->content_length != 0 && parser->content_length != ULLONG_MAX
+parser->content_length == 0
+parser->flags & F_CHUNKED
+parser->nread == 1
+partition
+partition != NULL
+PB"%
+PB8uQ
+PBE with SHA1 and 2-Key 3DES
+PBE with SHA1 and 3-Key 3DES
+pbeWithSHAAnd2-KeyTripleDES-CBC
+pbeWithSHAAnd3-KeyTripleDES-CBC
+pbuf is NULL
+pbuf ref overflow
+pbuf too short!
+pbuf_alloc: erroneous type
+pbuf_alloc: pbuf q->payload properly aligned
+pbuf_alloc: pbuf->payload properly aligned
+pbuf_copy failed
+pbuf_copy: invalid source
+pbuf_copy_partial: invalid buf
+pbuf_copy_partial: invalid dataptr
+pbuf_copy_partial_pbuf() does not allow packet queues!
+pbuf_copy_partial_pbuf: copy_len bigger than source
+pbuf_copy_partial_pbuf: target not big enough
+pbuf_free: p->ref > 0
+PBUF_POOL
+PBUF_POOL_BUFSIZE must be bigger than MEM_ALIGNMENT
+pbuf_realloc: p != NULL
+pbuf_realloc: q != NULL
+PBUF_REF/ROM
+pbuf_remove_header failed
+pbuf_take: buf not large enough
+pbuf_take: invalid buf
+pbuf_take: invalid dataptr
+pbuf_take: invalid pbuf
+'PC&]
+PC:)hb
+pc->custom_free_function != NULL
+PcaC
+pcb != NULL
+pcb already closed
+PCB must be deallocated outside this function
+pcb_new: pcb already allocated
+pcb->flags & TF_RXCLOSED
+pcb->listener->accept != NULL
+pcb->refused_data == NULL
+pcb->snd_queuelen > 0
+pcb->snd_queuelen >= pbuf_clen(next->p)
+pcb->state == LISTEN
+pcReturn >= pxRingbuffer->pucHead && pcReturn < pxRingbuffer->pucTail
+pcReturn >= pxRingbuffer->pucHead && pcReturn <= pxRingbuffer->pucTail
+pcTaskGetName
+pCUE
+pD,>
+Pd,14
+PdCL
+pdn/cW
+PDUf
+pdvAP
+pE_2
+pE++
+Pe3U
+periph < PERIPH_MODULE_MAX
+periph_module_disable
+periph_module_enable
+periph_module_reset
+Permission denied
+pF|"
+PF+&[i$
+Pf0f
+pFih
+Pfka
+pG6w]`
+Pgfq
+ph$$_
+pH$%
+phase match cali failed!
+phase match cali!!
+PhR@
+pHw:
+phy_init
+phy_upd: %u %u %u
+phys_offs != SPI_FLASH_CACHE2PHYS_FAIL
+phy-track-pll-timer
+P-I,
+pIC.r#j
+piid%
+p-iP`O
+piQ?
+PJ,#
+PjB|
+pJDi
+Pju/[
+pk(|
+pK<"c
+PKT_SENDER
+'PL#
+play
+pLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTfl
+pm.c
+pm+%
+pM4<P
+PMai
+PMK Name
+PMKID count
+PMKID list
+PMS_WORLD_0
+PMS_WORLD_1
+PMS_WORLD_2
+PMS_WORLD_ALL
+PMS_WORLD_INVALID
+PMS_WORLD_NONE
+pn!"
+pn$KH
+pn~6RO
+PnBnC3
+Pni(
+PnI=
+Pnqe
+po[A
+PO=@
+poc}
+PoD0*qF-O
+port_uxCriticalNesting[0] > 0
+POSIX
+POST
+post.data.ptr != NULL
+Postal address
+Postal code
+postalAddress
+postalCode
+pOZ@
+pp rom version: %s
+pP#h?
+pp.c
+Pp;7
+Pp+[
+PP>,o
+PpCt
+P'pg
+ppvItem != ((void *)0)
+ppxStaticQueue
+Pq"u.
+pqe[
+pre != NULL && pre->pnext != NULL
+Preload configurations fault
+prev && "prev physical block can't be null"
+prev && "prev_free field can not be null"
+prev_seg != NULL
+Previous owner died
+prMXB
+Proc-Type: 4,ENCRYPTED
+PROPFIND
+PROPPATCH
+Protocol error
+Protocol not available
+Protocol wrong type for socket
+proxy-connection
+PRU!
+prv!
+prvAddCurrentTaskToDelayedList
+prvAddNewTaskToReadyList
+prvDeleteTCB
+prvInitialiseNewTask
+prvNotifyQueueSetContainer
+pRxD
+Ps b
+pSE7
+Pseudonym
+PSGZ
+PSW!Y
+Pt;3d
+Pt{4
+PT12cw
+P'tE
+pthread_cleanup_thread_specific_data_callback
+pthread_mutex_unlock
+PTI CNTL CS[%d] REG[%08x] TYPE[CON[%d]] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+PTI CNTL CS[%d] REG[%08x] TYPE[EXT ADV] RXEN[%d] RX[%d], IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+PTI CNTL CS[%d] REG[%08x] TYPE[INITIATOR] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+PTI CNTL CS[%d] REG[%08x] TYPE[PER_ADV] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+PTI CNTL CS[%d] REG[%08x] TYPE[SCAN[%d]] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+PTI CNTL CS[%d] REG[%08x] TYPE[SYNC_SCAN]] RXEN[%d] RX[%d] IFSEN[%d] IFS[%d] PRTEN[%d] TIME[%d] DIFS[%d] DRX[%d] DTX[%d]
+PTI$
+Pts[z
+PTw0i
+PU/i
+Pu>4
+pU0>c
+pucItem <= pxRingbuffer->pucTail
+pucItem >= pxRingbuffer->pucHead
+pucRingbufferStorage != ((void *)0) && pxStaticRingbuffer != ((void *)0)
+pUe>H
+PURGE
+puxStackBuffer != ((void *)0)
+pv^'
+pvb>_[
+pvItem != ((void *)0)
+pvItem != ((void *)0) || xItemSize == 0
+Pwlq
+PWPI0
+pXA@
+pxCurHeader->xItemLen <= pxRingbuffer->xMaxItemSize
+pxEventBits
+pxEventGroupBuffer
+pxEventList
+pxHeader->xItemLen <= pxRingbuffer->xMaxItemSize
+pxIsSplit != ((void *)0)
+pxMutex
+pxNewQueue
+pxPortInitialiseStack
+pxPreviousWakeTime
+pxQueue
+pxQueue->uxItemSize == 0
+pxQueueSetContainer
+pxQueueSetContainer->uxMessagesWaiting < pxQueueSetContainer->uxLength
+pxQv
+pxRingbuffer
+pxRingbuffer && ppucRingbufferStorage && ppxStaticRingbuffer
+pxRingbuffer && pxItemSize
+pxRingbuffer->pucAcquire >= pxRingbuffer->pucHead && pxRingbuffer->pucAcquire < pxRingbuffer->pucTail
+pxRingbuffer->pucFree <= pxRingbuffer->pucHead + pxRingbuffer->xSize
+pxRingbuffer->pucRead == pxRingbuffer->pucFree
+pxRingbuffer->pucRead >= pxRingbuffer->pucHead && pxRingbuffer->pucRead < pxRingbuffer->pucTail
+pxRingbuffer->pucWrite <= pxRingbuffer->pucHead + pxRingbuffer->xSize
+pxRingbuffer->uxRingbufferFlags & ( ( UBaseType_t ) 2 )
+pxStackBufferTemp != NULL
+pxStaticQueue
+pxTaskBuffer != ((void *)0)
+pxTasksWaitingForBits->xListEnd.pxNext != ( const ListItem_t * ) &( pxTasksWaitingForBits->xListEnd )
+pxTCB
+pxTCB != pxCurrentTCBs[ 0 ]
+pxTCB == pxCurrentTCBs[ 0 ]
+pxTCB->ucStaticallyAllocated == ( ( uint8_t ) 2 )
+pxTCB->uxMutexesHeld
+pxTCBBufferTemp != NULL
+pxTicksToWait
+pxTimeOut
+pxUnblockedTCB
+pYK|
+PYt6'
+pYyE?
+pz3&
+pz7J
+pZo7>
+q != NULL
+q n8D
+q!1m
+Q!7Y
+q!a7
+Q!RPr
+Q"(St~
+Q"}>`
+Q"C)
+q"mK^G^[
+Q#&ZA
+'q#l
+q$_k
+q%Kl
+q(9/
+Q)Z}1
+Q*'07
+q*8}
+Q,j<
+Q,s~
+q,zY\
+q.k;LD
+Q:!i
+Q:\p
+q:W{0
+-q;$
+q;tU
+q?=n*
+q?E?
+q?QJ
+Q?yxR
+Q@M?
+q@wq
+Q[2g
+Q[n<
+q\n?M
+q\N1
+q]!/A
+'q])k
+q]/z 
+Q]pb
+Q]qR
+q]YT
+Q-^'3
+q^C4
+Q^ydk
+q__f
+Q_k6
+q`<?&e
+Q`g0
+q`pK
+Q{m_
+Q|lG>
+Q|Ox
+q}:GU
+q~\;
+Q~i!S
+Q+~W
+Q+c0
+q>&o
+q->p != NULL
+q>pv
+q0)p
+q0]}
+q15tF1
+q19Q
+q1INqz
+'Q2A3
+q2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5Wz
+Q2Vnk
+Q3|:>
+q3uZ
+Q4"L
+q4]8
+Q4]H
+Q4|f
+Q44b}l0
+q5@&R`
+q56E
+q59Kn
+q5Qr
+q5uC
+Q63n
+q6D[
+'Q6o
+q6vu
+q7%#
+q7^#DC9
+Q7Ry:y}
+Q8Y.B
+Q9#i
+qa:Vc
+qA;>
+qAir
+Q'am
+QaWOS
+QaxR
+qBH0q
+Qbi$
+QBJQ
+qbx?k
+QcIn
+QD]S
+qd`DW?
+qDatIbB
+QDGc
+qE&=
+qeMf
+qeV\
+QeyX%BZ
+QF;IK
+Q-f^
+qfCQ
+qFL*04
+QFwZ2
+qg_$4
+qG+X
+qG9sC
+QgdL
+qgU7
+QGz/
+qH?!
+qh+Di+K
+QHDa
+qhV 
+Qi^X
+qi49
+qiq]
+qIt1
+QJ|&L
+QJZJ
+Qk:F
+QKQ_+0}
+QkYW
+Ql6(
+QLc|B
+qle'w
+qltN:
+qlVU
+Qm?!nJ
+QM<?Gnb
+QmCT
+qMmH
+qn,Gs
+qNGj
+qNI@
+-QNvgo
+Qnzb
+QO$#
+Qo_l
+QO0~
+QOuGlPR
+qp{v
+QpC3 
+Qpeb%
+QPI4
+qPLz
+qq<j
+qQwy
+Qr@1
+Qr\;
+qr|L*"
+qr>W
+Qrbf
+QreG
+QRJ>
+QsJK
+QsNR
+QSr%G
+qt#G
+Qt_n)
+qTgo
+qThl
+qTk(I
+qTT:sZ
+Qu;,
+queue->handle
+quNKN
+QUV[
+qv`.
+qv2Rh
+qVb&
+qVI&
+qvjB
+QVLE
+QVS/7q
+QvXg
+QVZ$
+Qw@f
+qx!(
+qx!'p
+qxC#;:
+qXp?
+qXQ:
+Qy(L
+QYL`
+qYU!
+QzeG
+QzOb
+r H#
+r!{&
+r!g@
+r!n3s|r
+r!po
+R"cY
+r#m.
+R$>pQ 
+r%%h
+R%{]
+R&Ew
+R&ym
+r(Ue
+R)\`
+r)0=x!
+r)E)m
+r)z2
+r*1[b
+R*qK
+r,-(
+R,pd
+r.'|m
+r.ng
+r.rb
+'R.u
+R:AIS|
+-r:l
+R';$
+r;j]
+r?QS
+R?Tl
+r@<w
+R[S,
+R[Ys
+R\@0
+R]/z
+r]h*v|
+R]'O
+R^{G
+R^=F
+r^7)*$
+r^Kf
+r^rh
+r^XG
+r_#w
+r_*R
+R`.^
+R{*w
+r{V/
+R|ie/
+R}/e
+R}8{
+R}W+,
+R~&5
+r~4t(
+r~lE
+r~Vu
+R+t7
+r</!`
+R<:K
+R<Ai
+r<ckrE
+r=Q*
+r->p != NULL
+r>uz
+R>Wh
+R>Z'
+-r0^4
+R07C
+r1O'
+r3^"^
+R3~m
+r3S|R
+r3y`p
+R4Kd
+r4Qf
+r58i
+r6(F
+R61rq
+r6L.
+r6oaB
+R6U6
+r7"aS-5
+R74C
+r7TT}
+R7wQW
+r9;@
+RA      
+Ra*;
+RA3Q
+rAc|
+Range
+RAR9
+Rasv}@
+raw pcb recv callback altered pbuf payload pointer without eating packet
+RAW_PCB
+rAxW
+rB,x
+rB7{
+RBKx/DX
+rBO=
+rc == 0
+RC"X2
+Rc{Q
+Rc52
+rcb5
+RchB
+rcW}
+rcxW'
+RCZ5>
+RD6x
+rDQ+r
+rE\W
+READ
+read; 
+read_battery_adc
+Read-only file system
+REBIND
+Rebooting...
+ReC>v
+recipient
+recv_tcp must have a pcb argument
+recv_tcp must have an argument
+recv_tcp: recv for wrong pcb!
+recv_udp must have a pcb argument
+recv_udp must have an argument
+recv_udp: recv for wrong pcb!
+recvmbox must be deallocated before calling this function
+REENT malloc succeeded
+REGI2C
+register_heap
+remove_free_block
+REPORT
+reqid_%lu
+res == pdTRUE
+res_buffer->orig_raw_data == res_buffer->raw_data
+reserved[i + 1].start > reserved[i].start
+reserved[i].start <= reserved[i].end
+resp
+Result too large
+ret == 0
+ret == pdPASS
+ret == pdPASS || ret == errQUEUE_EMPTY
+ret == pdTRUE
+Retention RAM
+Rf.r
+rf_txpwr.c
+rf<l
+RfiE
+rFxh
+RFYs
+rgPi/
+RH M
+rh: 
+Rh'I 
+RHI[K)
+RI;:
+Ri??
+RiEmQ
+RIGc
+rISX-
+-rj>
+Rj6!
+R'jLk
+RK.`
+Rk`>
+Rk0JDC]]
+rKg{
+rkM#
+RKqgv
+RkwO
+rl."kP
+rL:X
+Rl_ 
+RL`;
+Rl7x
+RLG`
+RlI;
+rlYx
+rM3YH
+Rm4H
+rmem != NULL
+rmem == MEM_ALIGN(rmem)
+RMGP
+Rmu4s
+RN/D
+rn+7-E-
+RNX1
+Ro[&
+rOhg
+roiF~
+Rom table is disabled
+RoOS(
+Ror+'JB
+Rp#*0b
+rP16
+rpeW7
+rPjj
+rPRd
+rQ*<
+RQ~1
+rq7;]
+rQS<
+rR T]@
+RR7L
+RrK_
+Rrnp
+rRnU>Q
+rRZT9<!c|
+RSA with MD5
+RSA with SHA1
+RSA with SHA-224
+RSA with SHA-256
+RSA with SHA-384
+RSA with SHA-512
+rsa.E
+rsa.N
+RSA-alt
+rsaEncryption
+RSASSA-PSS
+rspP
+RST not expected here!
+RSX<
+rt[<
+rt6N<
+rtc_clk_cal
+rtc_clk_xtal_freq_get() == SOC_XTAL_FREQ_40M
+RTC_CORE
+rtc_init
+rtc_time_us_to_slowclk
+RTCRAM
+rTGy
+RTIZ
+rTJF
+rtYQL
+rU{(k
+rU5?i
+RUJ,
+ruzdY
+rv_int_num != 0 && "Invalid CPU interrupt number"
+rv9$
+rvD{
+Rvn9
+r-Vqr
+RW4=
+RWBLE
+rwble.c
+RWBLE_NMI
+RWBT
+RWBT_NMI
+RWIP Heap alloc: ENV [%p %d], MSG [%p %d], NORET [%p %d], DB [%p %d]
+rwip_driver.c
+RwX%
+RX MAX LENGTH %d
+Rx(C
+Rx.!
+rx6zj
+RXBUF Update ISR  %04x %04x
+RXBUF Update OK
+Rxo,
+rxqp
+RXR$
+RY1A
+ryHG
+Rysj
+RZ%&5
+rZ.u
+rz/l
+Rz|KGt2K:
+rz5^,~K
+Rz9r
+rZRk
+rZS4\
+RZv,
+S :)
+s L^
+S!&P
+s",v
+S"_5
+S"IU U
+s#<Cb
+s#7S
+s#iB
+S#low
+s$81
+S$a(
+S$gy
+s%@_M
+s%AO
+S%f2
+s%Q.
+s%Sp
+s&|,
+S&CS
+s&Y{"
+s(,m
+S(`"
+s(8:h
+s)}'-de
+S*_;P
+S''*jz
+S,8R
+S,I?
+s,t0
+S.&|)
+s.{~
+S.1@
+S/jK
+s/QG
+S;+)
+S?@*
+S?{A
+S?At`
+s[f*
+S\aU9M
+s\Ud*
+s]<b8(
+s]kym
+s^?Lt
+s^@|
+s^F]e
+S^z9
+s_audio_mux != NULL
+s_cache_suspend_cnt >= 0 && DRAM_STR("cache resume doesn't match suspend ops")
+s_ctx.peek_char == NONE
+s_ctx[fd]->peek_char == NONE
+s_esp_netif_counter > 0
+s_H*
+s_lp_cntl.enable == 1
+s_lp_stat.wakeup_timer_started == 0
+s_periph_ref_counts > 0
+s_platform.groups[group_id]
+s_prepare_reserved_regions
+s_sar_adc_power_release
+s_sleep_sub_mode_ref_cnt[mode] >= 0
+S{Vx>
+S|b:
+S}O7
+S~'(
+s~[Y]d
+S+(!~
+S+{a
+s<B%
+s<xA
+S=`$`|
+S=v"b
+s>)hs`b
+s0"S
+S0/FP   
+S1      
+S1!{
+S1@=.
+S1\~
+S10     
+s10J
+S11     
+S120
+S2      
+s'24o
+S3      
+S3/ 
+s3}`F7
+s3cJ
+s3Csf
+S3mBl7
+S4      
+S5      
+S6      
+'S6?V
+S7      
+s7?,
+s7Ju>A
+S8      
+S8\\1
+S9      
+s9:5?
+s9gh
+sa@e
+sa3k
+SAE Hash to Element
+SAE Hash to Element u1 P1
+SAE Hash to Element u2 P2
+SAE Hunting and Pecking
+SAE KCK and PMK
+SAE: PT
+SAE: PWE
+SAE: val(reduced to 1..q-1)
+SAE-PK keys
+sane cache index
+sar_periph_ctrl
+sar_periph_ctrl_pwdet_power_release
+sAuv
+s'aW
+SAz%D7
+SB9}
+sBiiE
+sbql.
+sbr.
+Sc:0R
+scaI
+scan
+Sch!O
+sch_alarm.c
+sch_arb.c
+sch_plan.c
+sch_prog.c
+sch_slice.c
+SCHM PROC %02x %02x, %p
+SDa"
+Sdae
+SDdT
+sde3
+-SdP
+Se&<
+Se^w
+SEARCH
+search_suitable_block
+secp192k1
+secp192r1
+secp224k1
+secp224r1
+secp256k1
+secp256r1
+secp384r1
+secp521r1
+seg->tcphdr not aligned
+SEIn<D
+seK{
+select_cb->prev != NULL
+select_cb->prev == NULL
+select_src_ret && set_div_ret
+selected router must have a neighbor entry
+semaphor->handle
+semaphore not initialized
+semphr
+semphr->handle
+Send Queue Failed
+Sent Commit
+Sent Confirm
+Serial number
+serialNumber
+server finished
+serverTime
+set rfrxtmda2 %d, set rfrxtmda3 %d
+set_ocode_by_efuse
+SET9
+Setting breakpoint at 0x
+SFjjC
+sg^$g57
+Sgd&
+SH&8l
+Sh)h
+sH{!
+sHA/
+sHA<
+SHA-1
+sha-1WithRSAEncryption
+SHA-224
+sha224WithRSAEncryption
+SHA-256
+sha256WithRSAEncryption
+SHA-384
+sha384WithRSAEncryption
+SHA-512
+sha512WithRSAEncryption
+ShI+
+should not be null since first != last!
+SHxC
+ShYL
+Sium
+size && "size must be non-zero"
+sizeof(unsigned int) * CHAR_BIT >= control->sl_index_count && "CHAR_BIT less than sl_index_count"
+sj"}7
+Sj{m
+sJEvX
+sJh;
+SJr5A
+sJVw[o
+SK(%=
+Skk:
+skMr
+SKnh
+sL,@
+sl_map && "internal error - second level bitmap is null"
+sl=z
+SLC0
+SLC1
+sleep
+sleep_gpio
+sleepFlag
+SleepTimer
+SLIST_EMPTY(&registered_heaps)
+SLIST_EMPTY(&s_partition_list)
+slowclk_cycles
+SLP2
+slXP
+SM!G
+sM$H
+sM<zA
+smartconfig
+SMc'
+smDhhj
+smfh=
+smU'yq
+sn S1
+sN("
+snG*T
+snVx
+SnY'
+sock != NULL
+sock->fd_used != 0
+sock->fd_used > 0
+sock->lastdata == NULL
+sock->select_waiting > 0
+Socket already connected
+socket gone at the end of select
+Socket is already connected
+Socket is not connected
+Socket operation on non-socket
+sockets[i].select_waiting == 0
+Software caused connection abort
+sOK}
+source_approx_freq
+sOV`
+SP      
+SP_ku
+SP}2
+sp+B[
+sp0}
+sPF>m
+spHe
+SPI_MEM_REJECT_CACHE
+SPI1
+SPI2
+spinlock_initialize
+split <= mss
+sR!ji
+SR&3
+sr5[O
+SRa)
+srFV#
+SrL8K> T
+sRP.|9P
+SS"mU
+Ss$%
+sSoO
+SSWU: gx1 = x1^3 + a * x1 + b
+SSWU: gx1^((p-1)/2) modulo p
+SSWU: gx2 = x2^3 + a * x2 + b
+SSWU: m
+SSWU: p - y
+SSWU: t
+SSWU: v = CSEL(l, gx1, gx2)
+SSWU: x1 = CSEL(l, x1a, x1b)
+SSWU: x1a = b / (z * a)
+SSWU: x1b = (-b/a) * (1 + t)
+SSWU: x2 = z * u^2 * x1
+SSWU: y = sqrt(v)
+St}2
+sta.apinfo
+sta.apsw
+sta.authmode
+sta.bss_retry
+sta.bssid
+sta.btm_e
+sta.chan
+sta.ft
+sta.he_cqi_f_d
+sta.he_dcm
+sta.he_dcm_c_rx
+sta.he_dcm_c_tx
+sta.he_mcs9_d
+sta.he_mu_b_f_d
+sta.he_su_b_d
+sta.he_su_b_f_d
+sta.lis_intval
+sta.mbo_e
+sta.minauth
+sta.minrssi
+sta.owe
+sta.owe_data
+sta.phybw
+sta.phybw5g
+sta.phym
+sta.phym5g
+sta.pmf_e
+sta.pmf_r
+sta.pmk
+sta.pswd
+sta.pwr_reset
+sta.rrm_e
+sta.rssi_5g_adj
+sta.sae_h2e
+sta.sae_h2e_id
+sta.sae_pk_mode
+sta.scan_method
+sta.sort_method
+sta.ssid
+sta.trans_d
+Stack bounds: 0x
+Stack memory:
+Stack pointer: 0x
+Stack protection fault
+start_from != NULL
+start_ptr
+start_wifi_connect_task
+State
+State not recoverable
+std::bad_alloc
+sTH3
+storage
+Store access fault
+Store address misaligned
+Store page fault
+stream ended at an unexpected time
+Stream ioctl timeout
+stream_bytes == 0 || stream_out != NULL
+strict mode assertion failed
+strncmp(src_path, vfs->path_prefix, vfs->path_prefix_len) == 0
+Su~ 
+Su0c
+Subject Alt Name
+Subject Key Identifier
+SUBSCRIBE
+success
+SukQ
+SUPLu
+Surname
+sV"Od
+sV%d
+svd != NULL
+svj0js(
+svjC
+sVq>
+svW~
+sW5>
+swf&`
+Swt3
+sX1boz
+sxd"X
+sxlF
+SxuEU2
+SxZlS
+Sync > dot11RSNASAESync
+Sync configurations fault
+sys_evt
+sys_sem_new: initial give failed
+sys_sem_signal: sane return value
+SYS_TIMEOUT
+sys_timeout: timeout != NULL, pool MEMP_SYS_TIMEOUT is empty
+system_api
+system_time
+systemVersion
+SYSTIMER_TARGET0_EDGE
+SYSTIMER_TARGET1_EDGE
+SYSTIMER_TARGET2_EDGE
+sYU0
+Sz%iM
+sz{O
+SZ>kd7$U
+SZh;B?
+szN&
+sZn) 
+T 5|
+T p]
+T Ri
+T!Uen@
+t"0{I^!I 
+T"L(
+T#:*
+T#?E0f0
+T#sbuUR
+t$#[
+T%|e
+T%a+s
+t%uDv
+T&A1
+T((o
+t(f.
+t)k}
+t)OT
+'T*f
+T*l_
+T,8[$d
+t,vf
+'t,WxM#
+t.dcx
+t.K4
+T.R=
+T/b%{d
+T/D=
+T;)P 
+t;.BG 
+T;_f
+T;gu
+T@)L
+T@9q
+T[[;
+T\D'
+T\ty
+-t']
+T]Hz
+t^z|.x
+t_0:
+t_4pI
+T_i-
+T`0x
+T`5L
+t`Sr'
+t{!r
+t{2\d
+t|_u
+T|j!
+-t|Rg
+t}qL
+t~ :
+T~od
+'T<b
+t<K:]e-s`
+t<YA
+t=#$.
+T=@0
+t=q1
+t>&tn
+t>e-
+T0      
+t0$m
+T1      
+T2      
+T2i,w
+T3      
+t33y
+T3b`
+t3G_
+T4      
+t4^c
+T43c]
+T4lS
+t4W?
+T5      
+T5;{S`
+t5Za
+T6      
+T6UP%S
+t6Vl
+T6y;
+t713
+t7gO
+t7q^
+T8_c
+t8YN
+TA8,?~
+tA8T
+taking semaphore failed
+tAL7
+target address is required
+TAS.K
+Task watchdog got triggered. The following tasks/users did not reset the watchdog in time:
+task_wdt
+tB`J`
+tBm=B
+TBx0
+TC$5/
+tC@>
+tC7T
+TCHW
+tCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQ
+tcp_abandon: invalid pcb
+tcp_close: invalid pcb
+tcp_close_shutdown: invalid pcb
+tcp_connect: can only connect from state CLOSED
+tcp_connect: invalid ipaddr
+tcp_connect: invalid pcb
+tcp_create_segment: invalid pbuf
+tcp_create_segment: invalid pcb
+tcp_eff_send_mss_netif: invalid dst_ip
+tcp_enqueue_flags: check that first pbuf can hold optlen
+tcp_enqueue_flags: invalid pcb
+tcp_enqueue_flags: invalid queue length
+tcp_enqueue_flags: invalid segment length
+tcp_enqueue_flags: need either TCP_SYN or TCP_FIN in flags (programmer violates API)
+TCP_FRAME_PARSER
+TCP_FRAME_PARSER1
+tcp_free: LISTEN
+tcp_free_listen: !LISTEN
+tcp_input: active pcb->state != CLOSED
+tcp_input: active pcb->state != LISTEN
+tcp_input: active pcb->state != TIME-WAIT
+tcp_input: invalid pbuf
+tcp_input: pcb->next != pcb (after cache)
+tcp_input: pcb->next != pcb (before cache)
+tcp_input: pcb->state != CLOSED
+tcp_input: TIME-WAIT pcb->state == TIME-WAIT
+tcp_input_delayed_close: invalid pcb
+tcp_keepalive: invalid pcb
+tcp_listen_input: invalid pcb
+tcp_netif_ip_addr_changed_pcblist: invalid old_addr
+tcp_next_iss: invalid pcb
+tcp_oos_insert_segment: invalid cseg
+tcp_output: invalid pcb
+tcp_output_alloc_header: invalid pcb
+tcp_output_control_segment: invalid pbuf
+tcp_output_control_segment_netif: no netif given
+tcp_output_fill_options: invalid pbuf
+tcp_output_segment: invalid netif
+tcp_output_segment: invalid pcb
+tcp_output_segment: invalid seg
+tcp_output_segment_busy: invalid seg
+tcp_parseopt: invalid pcb
+tcp_pbuf_prealloc: invalid oversize
+tcp_pbuf_prealloc: invalid pcb
+TCP_PCB
+TCP_PCB_LISTEN
+tcp_pcb_purge: invalid pcb
+tcp_pcb_remove: invalid pcb
+tcp_pcb_remove: invalid pcblist
+tcp_poll: invalid pcb
+tcp_process: invalid pcb
+tcp_process_refused_data: invalid pcb
+tcp_receive: invalid pcb
+tcp_receive: ooseq tcplen > rcv_wnd
+tcp_receive: segment not trimmed correctly to ooseq queue
+tcp_receive: segment not trimmed correctly to rcv_wnd
+tcp_receive: tcplen > rcv_wnd
+tcp_receive: valid queue length
+tcp_receive: wrong state
+tcp_recv_null: invalid pcb
+tcp_recved: invalid pcb
+tcp_remove_listener: invalid listener
+tcp_rexmit: invalid pcb
+tcp_rexmit_fast: invalid pcb
+tcp_rexmit_rto: invalid pcb
+tcp_rexmit_rto_commit: invalid pcb
+tcp_rexmit_rto_prepare: invalid pcb
+tcp_rst: invalid local_ip
+tcp_rst: invalid remote_ip
+TCP_SEG
+tcp_seg_copy: invalid seg
+tcp_send_empty_ack: invalid pcb
+tcp_send_fin: invalid pcb
+tcp_shutdown: invalid pcb
+tcp_slowtimr: persist ticking with empty send buffer
+tcp_slowtimr: persist ticking with in-flight data
+tcp_slowtmr: active pcb->state != CLOSED
+tcp_slowtmr: active pcb->state != LISTEN
+tcp_slowtmr: active pcb->state != TIME-WAIT
+tcp_slowtmr: first pcb == tcp_active_pcbs
+tcp_slowtmr: first pcb == tcp_tw_pcbs
+tcp_slowtmr: middle tcp != tcp_active_pcbs
+tcp_slowtmr: middle tcp != tcp_tw_pcbs
+tcp_slowtmr: TIME-WAIT pcb->state == TIME-WAIT
+tcp_split_unsent_seg: invalid pcb
+tcp_timewait_input: invalid pcb
+tcp_update_rcv_ann_wnd: invalid pcb
+tcp_write: arg == NULL (programmer violates API)
+tcp_write: check that first pbuf can hold the complete seglen
+tcp_write: invalid pcb
+tcp_write: no pbufs on queue => both queues empty
+tcp_write: pbufs on queue => at least one queue non-empty
+tcp_write: valid queue length
+tcp_write_checks: invalid pcb
+tcp_zero_window_probe: invalid pcb
+TCPIP_MSG_API
+TCPIP_MSG_INPKT
+tcpip_thread: invalid message
+tCyA
+TcZN
+tD.jXY
+tDcv
+-tdI
+Tdo/
+te`%
+Te{Dy
+TE3a
+temperature_sensor
+teo5
+tetIe0M
+TeTY
+Tewx
+Text file busy
+tEYA2
+TeZ/
+tF[\\
+Tf|!a
+tF=Z
+tF5m
+TfuU
+TG"V
+TG0_T0_LEVEL
+TG0_WDT_LEVEL
+TG1_T0_LEVEL
+TG1_WDT_LEVEL
+Tgj{
+tgNb!
+tgtlG
+Th_B
+tH5\T
+the on_body callback failed
+the on_chunk_complete callback failed
+the on_chunk_header callback failed
+the on_header_field callback failed
+the on_header_value callback failed
+the on_headers_complete callback failed
+the on_message_begin callback failed
+the on_message_complete callback failed
+the on_status callback failed
+the on_url callback failed
+this is for tcp netconns only
+this needs a pbuf in one piece!
+this should be checked internally
+TI7/O
+Time Stamping
+timeout == 0
+Timeout time too long, max is LWIP_UINT32_MAX/4 msecs
+Timer
+timer_initialized(ptimer)
+TIMER1
+TIMER2
+title
+TIU!
+tivns
+tizc(
+Tj2<
+TJf7
+tk)E4
+tK}/
+tKh@
+tKLe
+tkSD
+Tl ^
+tl&<
+tl(*
+TL}i
+tls != NULL
+TLS Web Client Authentication
+TLS Web Server Authentication
+TLS-ECDH-ECDSA-WITH-AES-128-CBC-SHA
+TLS-ECDH-ECDSA-WITH-AES-128-CBC-SHA256
+TLS-ECDH-ECDSA-WITH-AES-128-GCM-SHA256
+TLS-ECDH-ECDSA-WITH-AES-256-CBC-SHA
+TLS-ECDH-ECDSA-WITH-AES-256-CBC-SHA384
+TLS-ECDH-ECDSA-WITH-AES-256-GCM-SHA384
+TLS-ECDH-ECDSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDH-ECDSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDH-ECDSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDH-ECDSA-WITH-ARIA-256-GCM-SHA384
+TLS-ECDHE-ECDSA-WITH-AES-128-CBC-SHA
+TLS-ECDHE-ECDSA-WITH-AES-128-CBC-SHA256
+TLS-ECDHE-ECDSA-WITH-AES-128-CCM
+TLS-ECDHE-ECDSA-WITH-AES-128-CCM-8
+TLS-ECDHE-ECDSA-WITH-AES-128-GCM-SHA256
+TLS-ECDHE-ECDSA-WITH-AES-256-CBC-SHA
+TLS-ECDHE-ECDSA-WITH-AES-256-CBC-SHA384
+TLS-ECDHE-ECDSA-WITH-AES-256-CCM
+TLS-ECDHE-ECDSA-WITH-AES-256-CCM-8
+TLS-ECDHE-ECDSA-WITH-AES-256-GCM-SHA384
+TLS-ECDHE-ECDSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDHE-ECDSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDHE-ECDSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDHE-ECDSA-WITH-ARIA-256-GCM-SHA384
+TLS-ECDHE-RSA-WITH-AES-128-CBC-SHA
+TLS-ECDHE-RSA-WITH-AES-128-CBC-SHA256
+TLS-ECDHE-RSA-WITH-AES-128-GCM-SHA256
+TLS-ECDHE-RSA-WITH-AES-256-CBC-SHA
+TLS-ECDHE-RSA-WITH-AES-256-CBC-SHA384
+TLS-ECDHE-RSA-WITH-AES-256-GCM-SHA384
+TLS-ECDHE-RSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDHE-RSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDHE-RSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDHE-RSA-WITH-ARIA-256-GCM-SHA384
+TLS-ECDH-RSA-WITH-AES-128-CBC-SHA
+TLS-ECDH-RSA-WITH-AES-128-CBC-SHA256
+TLS-ECDH-RSA-WITH-AES-128-GCM-SHA256
+TLS-ECDH-RSA-WITH-AES-256-CBC-SHA
+TLS-ECDH-RSA-WITH-AES-256-CBC-SHA384
+TLS-ECDH-RSA-WITH-AES-256-GCM-SHA384
+TLS-ECDH-RSA-WITH-ARIA-128-CBC-SHA256
+TLS-ECDH-RSA-WITH-ARIA-128-GCM-SHA256
+TLS-ECDH-RSA-WITH-ARIA-256-CBC-SHA384
+TLS-ECDH-RSA-WITH-ARIA-256-GCM-SHA384
+tlsf_add_pool: Memory must be aligned by %u bytes.
+tlsf_add_pool: Memory size must be between %u and %u bytes.
+tlsf_create: Memory must be aligned to %u bytes.
+tlsf_free
+tlsf_memalign_offs
+tlsf_realloc
+TLS-RSA-WITH-AES-128-CBC-SHA
+TLS-RSA-WITH-AES-128-CBC-SHA256
+TLS-RSA-WITH-AES-128-CCM
+TLS-RSA-WITH-AES-128-CCM-8
+TLS-RSA-WITH-AES-128-GCM-SHA256
+TLS-RSA-WITH-AES-256-CBC-SHA
+TLS-RSA-WITH-AES-256-CBC-SHA256
+TLS-RSA-WITH-AES-256-CCM
+TLS-RSA-WITH-AES-256-CCM-8
+TLS-RSA-WITH-AES-256-GCM-SHA384
+TLS-RSA-WITH-ARIA-128-CBC-SHA256
+TLS-RSA-WITH-ARIA-128-GCM-SHA256
+TLS-RSA-WITH-ARIA-256-CBC-SHA384
+TLS-RSA-WITH-ARIA-256-GCM-SHA384
+tlujR
+tm1a
+TMGJ
+tmo == 0
+Tmr Svc
+tN`n
+tNbN{
+TNK[
+TO.p2
+TO[%0
+to_9HV
+too many header bytes seen; overflow detected
+Too many links
+too many netifs, max. supported number is 255
+Too many open files in system
+Too many symbolic links
+total_size <= NETDB_ELEM_SIZE: please report this!
+totlen <= UINT8_MAX + BLE_HCI_EVENT_HDR_LEN
+touch_receiver_task
+TP      
+Tp<u
+Tp7O
+tpF9
+tqj3J
+TQR=
+TquB
+TqUXE
+TQW~Sy8
+TRACE
+trans_desc
+Transfer-Encoding
+translate_path
+transport
+transport_base
+transport_pool_acl
+transport_pool_cmd
+transport_pool_evt
+transport_pool_evt_lo
+trc.c
+true
+tSHHU
+TsP"
+tST6<)
+TSU&
+Tt==1
+ttl+Hw
+TtV=K
+tu_yw
+tu+f$
+Tu>k
+tUc\%%
+TUL_
+TUul
+TV=+
+TVaU
+tvaY
+tVgP0j
+tvL@
+TVQoG
+TW#*
+tw)RA
+tw*@
+TWAI
+twBh
+TWd@
+twYM
+TX PTI [ACT_SCAN] [EN%d] [%d] 
+TX PTI [CON] [EN%d] [%d] 
+TX PTI [EXT ADV DATA] [EN%d] [%d] 
+TX PTI [HDC ADV] [EN%d] [%d] 
+TX PTI [Initiator] [EN%d] [%d] 
+TX PTI [LDC ADV] [EN%d] [%d] 
+TX PTI [LDC SCANRSP] [EN%d] [%d] 
+TX PTI [LDC] [EN%d] [%d] 
+TX PTI [PER ADV DATA] [EN%d] [%d] 
+tX?A
+t'x@
+tXb3
+TXJP
+txxY0
+TyC[
+tyjz
+TykJ
+tY-O
+type overflow
+TZ&z
+Tz|u
+TZ5uG6
+u AR
+u Fc
+U K!
+U!f=
+U!UK
+u"7FFl
+U"u.
+U#Kp
+u#L1
+U$<:
+U$rm
+u%04x
+U%5Qs
+u&+gu
+u&O[
+U(}*
+u(E_
+u)+b
+u,=GQ
+u,8`
+u,Ec
+U,-P
+U.-ae
+U/=L
+-u/g
+'U/r)
+u:R@
+U:S1S
+U??#
+U@&U
+U@?Zj@
+U[QOc
+u\& 
+U\9\
+u\uP
+U]+(
+U-]G
+u]rr
+U]Y0
+U^6b
+u_kI
+u`9G&
+u`iMG
+U{^B
+u{kdZ
+u|H!
+U|mX*
+U}:!? 
+u~;J
+U~^n
+u~Oh~
+U~x8|
+u+erp
+u+sj
+u+Tc
+u<.S
+U<CX
+U<PFm
+U=3F
+u->field_set & (1 << UF_HOST)
+U03:
+U0d*
+u0Dh
+u0fPD
+u0I5
+U1h\
+U1jq
+U1oL
+U1ux
+U2`6
+u2cY
+u3\JPmD
+u3]j
+u4P3l
+u5|tF
+U6^|
+U6tq
+u6xp
+u7*ik
+U8vo
+u98y
+Ua!}q
+uA)|
+uart
+Uart ENV [%p], VHCI ENV [%p]
+uart_close
+uart_disable_intr_mask
+uart_driver_install
+uart_enable_tx_intr
+uart_fcntl
+uart_flush_input
+uart_fstat
+uart_fsync
+uart_get_baudrate
+uart_get_buffered_data_len
+uart_get_parity
+uart_get_stop_bits
+uart_get_word_length
+uart_intr_config
+uart_param_config
+uart_pattern_queue_reset
+uart_read
+uart_read_bytes
+uart_reenable_intr_mask
+uart_return_char
+uart_set_baudrate
+uart_set_parity
+uart_set_pin
+uart_set_stop_bits
+uart_set_word_length
+uart_vfs_dev_register
+uart_wait_tx_done
+uart_write
+uart_write_bytes
+UART0
+UART1
+UATnRl
+UB&[
+UB[b
+Ub\2"
+Ub]`>
+UbcE
+UBN&
+ubw5
+UC#Z
+UC1n
+Uc2o&J
+UcB{
+ucGi
+ucOU
+uc'St5
+uDB*HF@U
+udp_bind: invalid pcb
+udp_connect: invalid ipaddr
+udp_connect: invalid pcb
+udp_disconnect: invalid pcb
+udp_input: invalid netif
+udp_input: invalid pbuf
+udp_input_local_match: invalid netif
+udp_input_local_match: invalid pcb
+UDP_PCB
+udp_recv: invalid pcb
+udp_remove: invalid pcb
+udp_send: invalid pbuf
+udp_send: invalid pcb
+udp_sendto: invalid dst_ip
+udp_sendto: invalid pbuf
+udp_sendto: invalid pcb
+udp_sendto_if: invalid dst_ip
+udp_sendto_if: invalid netif
+udp_sendto_if: invalid pbuf
+udp_sendto_if: invalid pcb
+udp_sendto_if_src: invalid dst_ip
+udp_sendto_if_src: invalid netif
+udp_sendto_if_src: invalid pbuf
+udp_sendto_if_src: invalid pcb
+udp_sendto_if_src: invalid src_ip
+ue\9
+uEoY
+uf|b
+UFqv
+uFs<
+uGdJ
+uh:=
+UHCI0
+UHXn
+uHze
+UI g
+UijZ(0
+Uj7N
+uJCsg
+UjffI=
+Ujgdg
+uJr`
+UjRY
+ujs@
+UK4>\
+ul[8
+u-l=
+uL64
+ULqJ
+ulTaskGenericNotifyTake
+uMg]o
+uMoy
+un&I
+Un;WO
+'un?
+UN`n
+Un4e
+una-?
+unacked
+unacked segments leaking
+UNBIND
+unEf
+unexpected content-length header
+unhandled
+unhandled error
+Unhandled netconn type in SO_BINDTODEVICE
+Unique Identifier
+uniqueIdentifier
+Unknown
+unknown dns_table entry state:
+unknown event
+Unknown Password Identifier
+Unknown protocol
+Unknown reason
+Unknown socket option
+UNLINK
+UNLOCK
+UnSa
+unsent
+unsent segments leaking
+unsent_oversize mismatch (pcb vs. last_unsent)
+unsent_oversize mismatch (pcb->unsent is NULL)
+UNSLP2
+UNSUBSCRIBE
+UO(.
+Uo@\
+uo^8
+uO-q
+UoT5
+uP/D0
+Up'{
+upgrade
+up'I
+Uq@\
+uq@Qv
+uqaw
+ur3%DI
+urbr
+uRDj
+Urm$
+URRV
+US %
+uS.l
+us/{
+us_to_sleep > BTDM_MIN_TIMER_UNCERTAINTY_US
+usb_serial_jtag_return_char
+useg->len > 0
+User Id
+User-Agent
+uSo]
+uTB&
+uTb&!
+UtBB 
+utvz
+uuid16 != 0
+UUig
+uuNc
+UUtG u
+uV#u*
+uV.BG
+UV}CnV
+uviS
+uVuR
+Uw1-lEB
+uWBT
+UwC6f
+uWN8a
+Ux:u
+UX>@
+uxBitsToWaitFor != 0
+uxBS
+uxIndexToNotify < 1
+uxIndexToWait < 1
+uxNewPriority < ( 25 )
+uxPriority < ( 25 )
+uxQueueMessagesWaiting
+uxQueueMessagesWaitingFromISR
+uxQueueSpacesAvailable
+uxSchedulerSuspended[ 0 ] != ( UBaseType_t ) 0U
+uxSchedulerSuspended[ xCurCoreID ] != 0
+uxSchedulerSuspended[ xCurCoreID ] == 0
+uXv,
+UY"S&
+uY*Dk
+uYT'
+uZH%
+UZl2
+UzRt
+Uzt_S
+'UzX
+V (%lu) %s: %s
+V Jg
+v!%`
+v!'x
+v"<>
+v"0kP
+v"PA
+V"R)
+v"v@
+V"w3
+V$%$
+V$\7EG8
+v%Ii
+v%WY
+V&h1
+V&N5
+v&nt
+v(c4H
+V)#8
+v)*7
+V)=6
+V*wd
+v,KA@A
+V,M(k|%.
+V."g
+V.{I
+V.yY
+v/\[T
+v: I
+V:`?x
+V:hW%
+V:I0
+v;~~
+v@!@
+V@7Ev(
+v@Y2
+V[C$ k\
+-v\&
+v\}M
+v\2R(
+V\j 
+V]S,
+V_`FP
+v_a`
+V_Q\
+V`@r
+v{%n`W
+v{g+
+V|dF
+v}6)1.=3
+V}e\
+v}sV
+V~Hh
+v~tn
+V~WW
+v+~I
+V+glu
+v<.=
+V=c!
+V>Cb~
+V0_):
+V0=t
+v0B3
+V0RsU
+V0Tg
+v28-8
+v2JI
+v2zb
+v3(W
+V3q'
+v4R0
+v5.4.1-dirty
+V5n3
+v5q|z
+v-5x
+v6DV]
+V7&=
+V7TE:5QM
+v8Pp
+v98j3f
+v9sh*
+Va 2y
+va"M
+va)|R
+Value too large for defined data type
+vaNb
+vapm
+vApplicationGetIdleTaskMemory
+vApplicationGetTimerTaskMemory
+VAt=L
+VAWm-u'~<
+Vb"j
+vB:o2
+vb_ready
+vb6824
+VBI[I
+VbW#@
+v'c"y
+vd]M
+vD117
+vDN;w
+Vdx^
+vedb
+Vedy
+VEkd
+vf(&
+vF@WF
+VfF|
+vfs != NULL
+VG,t$
+Vg[7
+VG63
+vGlm'
+vhci.c
+VHCI: Controller is not run
+VHCI: Packet length not supported
+VhEqd
+-vHI
+VHIT5$
+VHVc
+vHW7[
+VI#?
+vI(*
+vI,t
+Vi/:
+viO4H
+vIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAP
+Virtual circuit is gone
+vJ(D
+vj:#o
+Vj1c|
+vjCD
+vK E
+VK"8j:T?
+vk%L
+Vk[=
+VKfVR
+vKIhv
+VKR\3
+vl{2
+VL1])
+vListInsert
+vListInsertEnd
+vLKaT[^+
+VM%7
+VM&7
+Vm6]
+vmlO7
+vmP9
+Vms{3
+vn@r
+VN3_$
+vN'l
+vo*b
+vO|E@C
+vObd\m
+VOLUME_DOWN
+VOLUME_SET_CUSTOM
+VOLUME_SET_MAX
+VOLUME_SET_MIN
+VOLUME_UP
+volumeControlTypeEnum
+volumeValue
+VOmB
+VOmCc
+Vp)7
+vp0V
+Vpo_+
+vPortExitCritical
+vPU%>
+vpv9Kq
+VPY0v?~
+vQ?5
+VQcuh
+vQF3x*aS
+VQP^
+vqQr>
+vQueueDelete
+vr`A
+VrbH
+VrBp
+VrQ)
+vSbUR
+Vso,@
+vsXK
+vSystimerSetup
+vT&c
+vTaskDelay
+vTaskDelete
+vTaskGenericNotifyGiveFromISR
+vTaskPlaceOnEventList
+vTaskPlaceOnEventListRestricted
+vTaskPlaceOnUnorderedEventList
+vTaskPriorityDisinheritAfterTimeout
+vTaskRemoveFromUnorderedEventList
+vTaskStartScheduler
+vTaskSuspend
+vTaskSwitchContext
+vTdN*
+VU5D
+VU8=
+Vua<`
+VUZ=v
+Vv78
+vvIG
+vW]w
+vW2b
+VwAmm
+vwW:
+vX.L
+VX7xF?,Y
+vxdD2
+VXKY
+VY("
+Vy2#
+VyfK
+vyk/
+VyV/g
+vzZo
+W }*
+W!.;]
+w!>O^I
+w!E)
+w#yaI
+W$FSu&;B{K
+W$i*
+W$xhP
+w%79k
+'W%r
+w&1v
+w&6av^
+w&CQ
+W&Vx
+w&yN
+w(;D
+w(7q
+W(Jp&1b|
+w)}pb
+w)~=]
+w)A+tT
+w)'d
+W*(3o':
+w*KS
+W*l{R
+w,'z
+w.j"
+W.UD
+W:!h
+w:{`
+W;<z
+w;6{
+w;c;
+W;U-
+W;Vh
+W?cJ
+W@N=g
+W@zn
+w[3M
+W[iI\<
+W[t)
+W\*fyq
+W\VR@
+W]A5
+w^$mvrVzdk
+W^]v
+W^r}
+W_a\pe
+w_R^b
+W_YkB
+W|>`
+w|Y7
+W}E`
+w~k:t
+w~MmRbG^
+W'~o2
+w~xL
+W+G:
+W+j'
+W+JAV
+W+P<
+w<4 gg
+W<i{
+W=,#
+W=n/-
+w>]]
+W>F'd(2
+w1^Z
+'w2Oz
+W2ug
+w3f$
+w3gKV
+W4Gdz"
+w5=j;
+W6`_]9
+W6<GY
+W7R\ch**
+w8 m
+w9;.f
+wakeupWordId
+WAPI-CERT
+WAPI-PSK
+wAr]
+wAXo
+WB,S2
+-wb;
+Wb5s
+wB6Z
+WbEc
+WbGSM~
+wbx//
+wc.Y
+WC/#
+wC_^D
+WcE{
+WD\-
+wDE'
+wdeMCP
+wdev.c
+Wd'EX
+wELe
+WEP-104
+WEP-40
+weT$
+Wf|^
+Wf6^>v
+WFr 
+wfTc
+WGKV
+wGM}
+Wgpf:(+<L
+WGu9 ,[
+WhD9
+whdG
+Whp7
+Wi]f)%
+wifi
+wifi station
+WIFI_AP_DEF
+WIFI_BB
+WIFI_EVENT
+wifi_init
+wifi_init_default
+WIFI_MAC_NMI
+WIFI_MESH_EVENT
+wifi_netif
+WIFI_PWR
+WIFI_STA_DEF
+Wi-SUN Alliance Field Area Network (FAN)
+wITw
+Wj\7
+Wj`P
+WJE~
+wjKa
+Wk#}
+wk;wcp
+wl_chm.c
+wl_cnx.c
+WL7-
+WLc.
+WLha
+wLI]#;
+-WmH
+wmM;
+wMr-i
+WN -
+wN|L
+WN=_P
+wnBCe
+wnfiT
+WNPV
+wnVg
+wo"@
+wo\y
+Wo]#
+Wo12
+wp)8
+wp+q
+WPA2-CCKM
+WPA2-ENT
+WPA2-PSK
+WPA2-PSK-FT
+WPA3_SAE_EXT
+WPA3-DPP
+WPA3-ENT-192
+WPA3-OWE
+WPA3-SAE
+WPA-PSK
+wpo1
+WQ@w
+wQ3Ib
+-WqKL
+WQL?
+WQNd
+wqQ?
+wr}@
+wR9q
+WRITE
+write freq table, offset %04x
+Wrm"
+wRMjsN
+wS*(
+ws23
+wS6#
+ws9R
+wT"m
+WT/`
+wt|U
+WT}=
+WTBH
+WTPp
+Wu.o
+Wu12
+wuIl
+wUzk
+Wv[,
+WvHD
+wvp>S
+w-VT
+wvV4^
+wW$q
+wWn>
+wWW3
+WWW-Authenticate
+Wx\}x
+Wx+]
+wXW(
+wy)x6rR
+WY;D
+WyB{
+WYQ,
+Wyu6"
+WZ"/
+wZK2
+WZM#Y_J
+WZqo'
+WzX;(
+x $v
+X %e7(
+X 3#
+X D9$T
+X P)
+X!0_E
+X!RK
+x!vZ
+x!zS
+X"B-9
+X"Hr
+x#,w
+X$@A3j
+x$F_
+X$HT3
+x$Q'
+x%T(
+X&1n
+X&CCl
+X(Ke
+X)):6
+X)we
+x*1e% 
+X*r;K
+X,#,
+X,[6
+X,H6DK
+X,Ya
+x/ ]
+X/2_*
+x?nue
+X\l.V\
+X]#>
+'X]QB
+x^|T
+X^gl
+X^Rr3
+x^x0
+x_-\
+x_Bu
+x`1T
+x`ar
+x{$y
+X{,p
+X{27
+-x{d{}b
+x|&gL{
+x|+_
+X}('
+x+ ]W=
+x+4T
+X+ly
+x+Ti;
+X<`$
+x=u:
+X>>7.
+X>Aq2r*
+X09`
+X1$W4Y
+x1yTK
+x25519
+x27cI?
+x29Q
+X2f&
+X3)#
+X3]6
+x'3p
+X4[A
+x4s4k
+X4XbT
+x5=j
+x8{v
+X8H:
+x8K($R
+x8PJ
+X9mG
+XA*,7
+xA7]8
+xAg*
+xAH]
+xaw0
+Xazv/
+XB,^s
+xBufferSize > 0
+xBufferType < RINGBUF_TYPE_MAX
+Xc]}
+xc~uqi7
+xC<;
+XC4G
+xC7p
+XcA<
+xd} 
+xd1=0
+XdhOGo
+XE%wJ
+Xe_w
+xELU
+xeoXo
+xEventGroup
+Xf;M
+Xf@ed
+xFwd
+xg%>?
+Xg]8
+xG1?
+XGl'qQ
+XGZD_APPLICATION
+XGZD_AUDIO_TCP
+xgzd_audio_test
+xgzd_battery
+xgzd_battery_init
+xgzd_battery_task
+xgzd_ble
+xgzd_ble_task
+xgzd_dvc_lang
+xgzd_dvc_lang1
+xgzd_dvc_skip_
+xgzd_dvc_type
+xgzd_dvc_volume
+xgzd_has_cfg
+xgzd_hst_port_%1d
+xgzd_hst_url_%1d
+XGZD_HTTPS
+xgzd_led_init
+xgzd_multi_lang_mutex_init
+xgzd_ota_task
+xgzd_rgst_url
+xgzd_tcp_audio_client_task
+xgzd_tcp_client
+XGZD_TCP_PROTOCOL
+XGZD_TCP_SERVER
+xgzd_touch
+xgzd_wifi_init
+xgzd_wifi_psw
+xgzd_wifi_ssid
+xgzd_wifi_start_connect
+xHandle
+XhH{|
+xHP^1)
+'XI#F
+xIIs
+xinguangzhidao
+xIsSplit == ( ( BaseType_t ) 0 )
+Xj/z
+xJ]c
+xJg`F"
+xK,,4
+XkWn
+-xl5
+Xm^r
+XM}F
+xmjQc
+xmQX
+xMYy
+Xn/]
+Xn@3
+xn~"
+XnGR
+XNW4)lY
+XnZ*
+xO:7
+xO`&
+xO2E<TB
+xo4*
+xoIk*
+XP$:E-$
+X'pJ1
+xPortcheckValidStackMem(puxStackBuffer)
+xPortCheckValidTCBMem(pxTaskBuffer)
+xPQs5
+XPr(
+xq[6D
+Xq~?
+XqEd
+Xq'-L
+XqS^
+xQueue
+xQueueCreateCountingSemaphore
+xQueueCreateCountingSemaphoreStatic
+xQueueGenericCreate
+xQueueGenericCreateStatic
+xQueueGenericGetStaticBuffers
+xQueueGenericReset
+xQueueGenericSend
+xQueueGenericSendFromISR
+xQueueGetMutexHolder
+xQueueGetMutexHolder( ( h ) ) == ((void *)0)
+xQueueGiveFromISR
+xQueueGiveMutexRecursive
+xQueueIsQueueEmptyFromISR
+xQueueReceive
+xQueueReceiveFromISR
+xQueueSemaphoreTake
+xQueueTakeMutexRecursive
+xR?O
+xr`1
+xRemLen >= sizeof(ItemHeader_t)
+xResult == ( ( BaseType_t ) 1 )
+xReturn
+xReturn != ( ( ( BaseType_t ) 0 ) )
+xReturn != ( -1 )
+x'RF
+XrF7
+xrt<
+XrW(
+xsAKw
+xSemaphore
+xSh5
+xSize == sizeof( EventGroup_t )
+xSize == sizeof( Queue_t )
+xSize == sizeof( TCB_t )
+xSTP]
+XT-<
+XT=W
+xTask
+xTaskCheckForTimeOut
+xTaskCreatePinnedToCore
+xTaskCreateStaticPinnedToCore
+xTaskDelayUntil
+xTaskGetCurrentTaskHandleForCore
+xTaskGetIdleTaskHandleForCore
+xTaskIncrementTick
+xTaskPriorityDisinherit
+xTaskPriorityInherit
+xTaskRemoveFromEventList
+xTaskResumeAll
+xTaskToNotify
+XTatG
+xTickCount == ( TickType_t ) 0
+xTimer
+XU t
+Xu['
+Xu3Ex
+XuP@
+XV x
+xv&x
+xVH0
+xwI1^
+xYHX6{
+XYp!
+xyyV
+Xz$2ED2
+XZ9u
+Xzgy
+xzh"
+--'Y
+y- N
+Y tI
+y yd
+Y!!7
+Y!((
+y!y9
+y""$I
+y""T
+y#3\
+y#E<
+Y$"f
+Y$M8
+y$n}K 
+y%&u
+Y%c[
+Y%dc
+y&/I
+Y&=v-
+y&YX
+Y(7Ng
+Y(rkY
+y)`C 
+Y)u`
+Y*<U
+y*T53
+y,nZ~F
+y.!D
+Y.C.
+Y.xB#)
+y/Oz
+Y:Ume7
+y;3Wp
+y;97#U
+y;mR&
+Y?Qj
+Y[[<
+Y\._
+Y\_<
+y\v~
+y]"/
+Y]]s
+y^#9
+y^%C8
+Y^mm;
+y_)l
+Y_;2
+Y`t.
+y{,ZF7m
+y{K$w
+Y{SDf K
+y|]L
+Y|2~
+y}$f
+Y}3G
+y}N])
+Y~JB
+y+(~K
+Y+]A
+y+q~>g
+y<F5
+y<Zs}
+Y=@k
+Y0UZ
+Y1^Wk
+y1`A
+Y13V
+y1c0
+y3`!
+y4NGSL%
+y53Q
+y5FI|
+Y6Eo
+y7.>R
+Y71;
+Y8sI
+y8yv
+Y9ec
+Ya@p
+YAI6
+yaJ^
+Yb!Dsn
+yb,j
+YbQ*
+ybUd
+yC]j
+YcB5Y
+YCLD
+Yd*\
+yd5#
+YD7`
+Ydul
+YE=n*
+yEhr'
+Yeqk
+Yeu$
+Yf:X3X
+Yf2}
+Yg.?
+yg5@
+YGc'
+YGWR!l
+ygz(jQ
+ygz\lf
+Yh(pq
+yH\0
+YHj-
+yhkK
+Yi[P
+Yj )
+YJ,6
+YjHy
+yjI(
+YJj]
+Yjx?
+yK$t0
+Yk2jm
+YKaz
+ykJC
+y'L\
+yLOv
+YLpf
+yM#*v(
+yMxr
+YN'GYd
+YNxH
+Yov%
+Ypc 
+yq.%
+Yq:8
+YQN%$
+Yr"-
+Yrau
+YRrNEj
+Ys0]
+YsC=/
+YSkz<
+yStw
+Ytp)e
+Yu?6
+yua*@
+YUlt
+Y'ut
+yuXC
+YV?yJ
+YV@H
+YV>5
+YV1!
+YvoJr
+YW$^I
+Yw0Y
+YwD&
+YwMC
+ywR1
+YX+A
+yXC{
+yxEj
+YY!3
+Yy]U
+yy<Ly
+YYc/
+YyyI
+yZS?
+yZv_R
+z >r
+Z 9r
+z T~
+Z"]:.
+z"a(
+z"G3]
+z"LH
+Z#* 
+z$SD
+Z$y%
+Z%MJ
+Z&#d
+z)$4
+z)2gq
+Z)EI
+Z)f]
+Z)xK}:
+Z'*c
+z*l6
+z,),@<
+z/"n
+z//eh
+Z/G<
+Z:!+dE<
+z;L*
+Z?,}
+Z?H"C
+Z@%R
+Z@b`&
+Z[g(
+z[X0
+Z\*f
+Z\*ZQO2{<
+z\,>
+z\c-
+z]\Z
+z]6AOY
+Z^qc
+Z_HnO
+z_words - mpi_words(Z) <= (size_t)1
+z-_Z
+z`}Z
+Z`ddC
+z`j<5
+z-{_
+Z{zm
+Z}#F
+z}C4
+z}U3F
+Z+(c
+Z+h{
+z+x>-y
+z<}Arc
+Z<K8
+Z<p`
+z=*D
+z=+k
+z=ft
+Z>%.9B
+z>Fb
+Z0DI
+Z1#W
+z2Q4rr
+Z3YU
+z4;+_
+z6-!
+z6#l
+z6_H
+Z7|{=N
+z7YU
+Z8y5
+Z95#'
+z9Y)
+za^`
+-ZAD
+ZaQ!uv
+zAuFV
+zAW8
+ZAZxgw
+Zb(W
+ZB_d
+zB|,
+ZB<-
+Zb1N_-$XB2
+zB6}
+ZBI2
+-zBOY
+zc@R|R
+zc7XB$y
+'zCd
+zcw8X
+ZDdT
+'zdF
+zdn`fR
+zdpv
+ZE3:
+zEa+
+zeB"
+zEmct
+ZeVx}%
+ZF:F
+zF-5
+zFak
+Z-flM
+ZFV4
+zG^v$|
+ZGEB6
+ZgiY
+ZGS>>.
+ZH$5V
+'zH:r
+Zh?Z
+zh8Jj
+ZHBZ
+zHkj
+ZhKM5
+zHrs
+ZHTR
+zI$Q
+zI~6
+zi6&
+'zj\9
+zjE#E
+ZjI8
+ZjLs
+-zJxl
+ZkFJwn
+ZkVM[
+ZlrD
+ZL-Rn
+zM.tl
+Zm^=s
+ZM~"
+ZmPV
+ZMXXf
+zn"h2p
+znR#K
+znsj
+Zo}=O
+zO4s|.G-
+zO5mM
+ZOGJ
+zona
+ZOoc
+zp$2c
+ZP?|
+ZQ]'
+Zq]Z
+ZqjiX
+ZqS4
+ZQXj
+zr4F
+zRG@
+ZRH-:2
+zrp\
+z'RrP
+Zry,
+Zs8sbd
+zSN%
+Zt_n
+zT3Q
+zt85
+ZTL?PB5
+ZtoX
+ZtpKk~
+ZV>0
+Z-v8qQ
+ZVB,
+Zvbw
+Z'vZ^>
+zw:qQI
+Zx$|E
+ZxduM
+zxOZ;
+ZXQ2s
+Zxw^
+zy1+
+zYj!
+zYSDq|
+zz#p
+ZZ|}Z;%j
+ZZFq
+'Z-ZV

@@ -1,0 +1,5 @@
+44: otadata
+76: phy_init
+108: storage
+140: ota_0
+172: ota_1

@@ -1,0 +1,1 @@
+https://api-us.vinetalk.ai/p_hdw/childrenToy/bleDeviceActive/checkHdDevice

@@ -1,0 +1,35 @@
+
+ Offset Text                                                                                                                      
+ ------ ----                                                                                                                      
+  29165 [0;32mI (%lu) %s: subscribe event; conn_handle=%d attr_handle=%d reason=%d prevn=%d curn=%d previ=%d curi=%d              
+  30917 [0;31mE (%lu) %s: Password incorrect                                                                                      
+  31569 [0;32mI (%lu) %s: password not set                                                                                        
+  31613 [0;32mI (%lu) %s: password:%s                                                                                             
+  31801 [0;32mI (%lu) %s: connected to ap SSID:%s password:%s                                                                     
+  31861 [0;32mI (%lu) %s: Failed to connect to SSID:%s, password:%s                                                               
+  48720 : BLE_HS_EAUTHOR (Insufficient authorization)                                                                             
+  87620 dhcp_append(client_id): options_out_len + 3 + netif->hwaddr_len <= DHCP_OPTIONS_LEN                                       
+  95300 Authorization                                                                                                             
+  97472 SUBSCRIBE                                                                                                                 
+  97636 auth-int                                                                                                                  
+ 107532 Open Auth                                                                                                                 
+ 108220 ap.passwd                                                                                                                 
+ 109284 auth                                                                                                                      
+ 114192 Unknown Password Identifier                                                                                               
+ 118056 master secret                                                                                                             
+ 118072 extended master secret                                                                                                    
+ 242300 <<ws                                                                                                                      
+ 427957 wS*(                                                                                                                      
+1480844 removing station <%02x:%02x:%02x:%02x:%02x:%02x> after unsuccessful auth/assoc, AID = %d                                  
+1485284 m f auth                                                                                                                  
+1486228 auth is done, but sta is disconnected                                                                                     
+1486376 Rejecting PMF incapable ciphers for OWE/WPA3-Personal only auth mode                                                      
+1487212 Password length matches WPA2 standards, authmode threshold changes from OPEN to WPA2                                      
+1487300 Password length is zero, but authmode threshold is %d, making it impossible to connect to an AP with authmode OPEN        
+1487416 OWE is enabled, but authmode threshold is %d or password length is %d, making it impossible to connect to an AP with au...
+1487704 password less than 8                                                                                                      
+1487728 password convert fail                                                                                                     
+1488676 [ADDBA]RX addba response, tid:%d, txa_attempts:%d, token mismatch, expect:%d(rx:%d), status:%d%s                          
+
+
+

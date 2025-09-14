@@ -1,0 +1,7 @@
+
+Offset Text                                                                       Context                                         
+------ ----                                                                       -------                                         
+ 12576 https://api-us.vinetalk.ai/p_hdw/childrenToy/bleDeviceActive/checkHdDevice H?C??xgzd_hst_url_1     ???B??(t?xgzd_...
+
+
+
