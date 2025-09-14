@@ -8,6 +8,10 @@ Firmware dump and teardown notes for the VineTalk "AI box" necklace device.
 - **USB:** USB‑Serial/JTAG (enumerates as COM3 on Windows)  
 - **Security state:** Secure Boot **disabled**, Flash Encryption **disabled** (see `out/logs/espefuse_summary.txt`)
 
+## Important note
+I didn't really fully extract everything from the bin files. My main focus was just dumping the contents of the device.\
+More work may come soon, but I don't know yet, and this was my first time ever doing something like this, so it may not be the best quality of info.
+
 ## What’s in here
 
 - `bins/` – raw flash artifacts
