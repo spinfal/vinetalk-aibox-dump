@@ -1,0 +1,16 @@
+espefuse v5.0.2
+Connecting...
+
+=== Run "adc-info" command ===
+Block version: 103
+Temperature Sensor Calibration = -14.3C
+ADC OCode        =  84
+ADC1:
+INIT_CODE_ATTEN0 =  1516
+INIT_CODE_ATTEN1 =  -40
+INIT_CODE_ATTEN2 =  -112
+INIT_CODE_ATTEN3 =  -592
+CAL_VOL_ATTEN0   =  -452
+CAL_VOL_ATTEN1   =  -224
+CAL_VOL_ATTEN2   =  -404
+CAL_VOL_ATTEN3   =  -588

@@ -1,0 +1,5 @@
+espefuse v5.0.2
+Connecting...
+
+=== Run "get-custom-mac" command ===
+Custom MAC Address: 00:00:00:00:00:00 (OK)
